@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-07 01:21:12
+## 微博今日热榜 更新于 2021-03-07 02:02:48
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [建议9月30日定为成人节](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE9%E6%9C%8830%E6%97%A5%E5%AE%9A%E4%B8%BA%E6%88%90%E4%BA%BA%E8%8A%82%23&Refer=top)
@@ -114,4 +114,6 @@
 1. [阚清子模仿黄小蕾姿势](https://s.weibo.com//weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E6%A8%A1%E4%BB%BF%E9%BB%84%E5%B0%8F%E8%95%BE%E5%A7%BF%E5%8A%BF%23&Refer=top)
 
 1. [空军唯一一支女子特战小队](https://s.weibo.com//weibo?q=%E7%A9%BA%E5%86%9B%E5%94%AF%E4%B8%80%E4%B8%80%E6%94%AF%E5%A5%B3%E5%AD%90%E7%89%B9%E6%88%98%E5%B0%8F%E9%98%9F&Refer=top)
+
+1. [中国GDP增长动态图](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BDGDP%E5%A2%9E%E9%95%BF%E5%8A%A8%E6%80%81%E5%9B%BE%23&Refer=top)
 
