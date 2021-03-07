@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-08 03:01:44
+## 微博今日热榜 更新于 2021-03-08 04:02:27
 1. [和总书记面对面](https://s.weibo.com//weibo?q=%23%E5%92%8C%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%9D%A2%E5%AF%B9%E9%9D%A2%23&Refer=new_time)
 
 1. [建议公务员考试打破35岁门槛](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95%E6%89%93%E7%A0%B435%E5%B2%81%E9%97%A8%E6%A7%9B%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [总书记参加青海代表团审议](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%8F%82%E5%8A%A0%E9%9D%92%E6%B5%B7%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%AE%A1%E8%AE%AE%23&Refer=new_time)
 
 1. [iG TES](https://s.weibo.com//weibo?q=iG%20TES&Refer=top)
+
+1. [习近平看望全国政协委员](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9C%8B%E6%9C%9B%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%23&Refer=new_time)
+
+1. [王毅说如果不爱国谈何爱港](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AF%B4%E5%A6%82%E6%9E%9C%E4%B8%8D%E7%88%B1%E5%9B%BD%E8%B0%88%E4%BD%95%E7%88%B1%E6%B8%AF%23&Refer=top)
 
