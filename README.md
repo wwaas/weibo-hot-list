@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-09 03:02:18
+## 微博今日热榜 更新于 2021-03-09 04:02:33
 1. [总书记牵挂玉树发展](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E7%8E%89%E6%A0%91%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [最高检报告点名辣笔小球](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%A5%E5%91%8A%E7%82%B9%E5%90%8D%E8%BE%A3%E7%AC%94%E5%B0%8F%E7%90%83%23&Refer=top)
@@ -126,4 +126,14 @@
 1. [薇娅直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD&Refer=top)
 
 1. [温客行叶白衣互相diss](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%AE%A2%E8%A1%8C%E5%8F%B6%E7%99%BD%E8%A1%A3%E4%BA%92%E7%9B%B8diss%23&Refer=top)
+
+1. [三八节动物园母老虎放假一天](https://s.weibo.com//weibo?q=%E4%B8%89%E5%85%AB%E8%8A%82%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%AF%8D%E8%80%81%E8%99%8E%E6%94%BE%E5%81%87%E4%B8%80%E5%A4%A9&Refer=top)
+
+1. [中国版国际旅行健康证明已上线](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%89%88%E5%9B%BD%E9%99%85%E6%97%85%E8%A1%8C%E5%81%A5%E5%BA%B7%E8%AF%81%E6%98%8E%E5%B7%B2%E4%B8%8A%E7%BA%BF%23&Refer=top)
+
+1. [辽宁男篮战胜广东男篮](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%23&Refer=top)
+
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top)
+
+1. [股市](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82&Refer=top)
 
