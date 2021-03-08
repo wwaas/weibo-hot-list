@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-09 06:02:30
+## 微博今日热榜 更新于 2021-03-09 07:02:29
 1. [总书记牵挂玉树发展](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%89%B5%E6%8C%82%E7%8E%89%E6%A0%91%E5%8F%91%E5%B1%95%23&Refer=new_time)
 
 1. [最高检报告点名辣笔小球](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%A5%E5%91%8A%E7%82%B9%E5%90%8D%E8%BE%A3%E7%AC%94%E5%B0%8F%E7%90%83%23&Refer=top)
@@ -144,4 +144,6 @@
 1. [总书记向全国妇女致以节日祝福](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%90%91%E5%85%A8%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%87%B4%E4%BB%A5%E8%8A%82%E6%97%A5%E7%A5%9D%E7%A6%8F%23&Refer=new_time)
 
 1. [司藤秦放按唇杀](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E7%A7%A6%E6%94%BE%E6%8C%89%E5%94%87%E6%9D%80%23&Refer=top)
+
+1. [我很牵挂玉树](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%BE%88%E7%89%B5%E6%8C%82%E7%8E%89%E6%A0%91%23&Refer=new_time)
 
