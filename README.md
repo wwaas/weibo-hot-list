@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 01:31:03
+## 微博今日热榜 更新于 2021-03-10 02:17:58
 1. [总书记三到团组释放哪些信号](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%89%E5%88%B0%E5%9B%A2%E7%BB%84%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7%23&Refer=new_time)
 
 1. [建议适当放宽小学新生入学年龄](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%80%82%E5%BD%93%E6%94%BE%E5%AE%BD%E5%B0%8F%E5%AD%A6%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E5%B9%B4%E9%BE%84%23&Refer=top)
@@ -112,4 +112,10 @@
 1. [阿凡达](https://s.weibo.com//weibo?q=%E9%98%BF%E5%87%A1%E8%BE%BE&Refer=top)
 
 1. [毒花生案报案车行已暂停营业](https://s.weibo.com//weibo?q=%E6%AF%92%E8%8A%B1%E7%94%9F%E6%A1%88%E6%8A%A5%E6%A1%88%E8%BD%A6%E8%A1%8C%E5%B7%B2%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A&Refer=top)
+
+1. [王源新发色](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E5%8F%91%E8%89%B2%23&Refer=top)
+
+1. [A股](https://s.weibo.com//weibo?q=%23A%E8%82%A1%23&Refer=top)
+
+1. [建议警惕课堂过度使用PPT](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%AD%A6%E6%83%95%E8%AF%BE%E5%A0%82%E8%BF%87%E5%BA%A6%E4%BD%BF%E7%94%A8PPT%23&Refer=top)
 
