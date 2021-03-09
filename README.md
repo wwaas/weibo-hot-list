@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 06:02:35
+## 微博今日热榜 更新于 2021-03-10 07:02:44
 1. [总书记三到团组释放哪些信号](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%89%E5%88%B0%E5%9B%A2%E7%BB%84%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7%23&Refer=new_time)
 
 1. [建议适当放宽小学新生入学年龄](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%80%82%E5%BD%93%E6%94%BE%E5%AE%BD%E5%B0%8F%E5%AD%A6%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E5%B9%B4%E9%BE%84%23&Refer=top)
@@ -130,4 +130,8 @@
 1. [江苏八省联考成绩](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E5%85%AB%E7%9C%81%E8%81%94%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
 
 1. [拥有多少资产才算财务自由](https://s.weibo.com//weibo?q=%23%E6%8B%A5%E6%9C%89%E5%A4%9A%E5%B0%91%E8%B5%84%E4%BA%A7%E6%89%8D%E7%AE%97%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%23&Refer=top)
+
+1. [你关心的问题总书记怎么说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%85%B3%E5%BF%83%E7%9A%84%E9%97%AE%E9%A2%98%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=new_time)
+
+1. [殷桃说单身想多谈恋爱怎么了](https://s.weibo.com//weibo?q=%23%E6%AE%B7%E6%A1%83%E8%AF%B4%E5%8D%95%E8%BA%AB%E6%83%B3%E5%A4%9A%E8%B0%88%E6%81%8B%E7%88%B1%E6%80%8E%E4%B9%88%E4%BA%86%23&Refer=top)
 
