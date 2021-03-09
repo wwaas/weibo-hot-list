@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 00:03:35
+## 微博今日热榜 更新于 2021-03-10 01:31:03
 1. [总书记三到团组释放哪些信号](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%89%E5%88%B0%E5%9B%A2%E7%BB%84%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7%23&Refer=new_time)
 
 1. [建议适当放宽小学新生入学年龄](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%80%82%E5%BD%93%E6%94%BE%E5%AE%BD%E5%B0%8F%E5%AD%A6%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E5%B9%B4%E9%BE%84%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [建议高考可以让学生选择性考试](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%80%83%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%AD%A6%E7%94%9F%E9%80%89%E6%8B%A9%E6%80%A7%E8%80%83%E8%AF%95%23&Refer=top)
 
 1. [徐令宜十一娘额头吻](https://s.weibo.com//weibo?q=%23%E5%BE%90%E4%BB%A4%E5%AE%9C%E5%8D%81%E4%B8%80%E5%A8%98%E9%A2%9D%E5%A4%B4%E5%90%BB%23&Refer=top)
+
+1. [李一桐替艾情发结婚证词](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%9B%BF%E8%89%BE%E6%83%85%E5%8F%91%E7%BB%93%E5%A9%9A%E8%AF%81%E8%AF%8D%23&Refer=top)
+
+1. [阿凡达](https://s.weibo.com//weibo?q=%E9%98%BF%E5%87%A1%E8%BE%BE&Refer=top)
+
+1. [毒花生案报案车行已暂停营业](https://s.weibo.com//weibo?q=%E6%AF%92%E8%8A%B1%E7%94%9F%E6%A1%88%E6%8A%A5%E6%A1%88%E8%BD%A6%E8%A1%8C%E5%B7%B2%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A&Refer=top)
 
