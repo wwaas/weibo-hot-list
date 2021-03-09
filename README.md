@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 04:02:32
+## 微博今日热榜 更新于 2021-03-10 05:02:17
 1. [总书记三到团组释放哪些信号](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%89%E5%88%B0%E5%9B%A2%E7%BB%84%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7%23&Refer=new_time)
 
 1. [建议适当放宽小学新生入学年龄](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%80%82%E5%BD%93%E6%94%BE%E5%AE%BD%E5%B0%8F%E5%AD%A6%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E5%B9%B4%E9%BE%84%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [大连湾海底隧道沉管安装施工](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E6%B9%BE%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93%E6%B2%89%E7%AE%A1%E5%AE%89%E8%A3%85%E6%96%BD%E5%B7%A5&Refer=top)
 
 1. [锦心似玉预告](https://s.weibo.com//weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [江苏八省联考成绩](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E5%85%AB%E7%9C%81%E8%81%94%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
 
