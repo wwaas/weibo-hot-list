@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-11 00:05:32
+## 微博今日热榜 更新于 2021-03-11 01:23:04
 1. [总书记提到的三千孤儿入内蒙](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8F%90%E5%88%B0%E7%9A%84%E4%B8%89%E5%8D%83%E5%AD%A4%E5%84%BF%E5%85%A5%E5%86%85%E8%92%99%23&Refer=new_time)
 
 1. [平均不满23岁女兵给导弹做体检](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%9D%87%E4%B8%8D%E6%BB%A123%E5%B2%81%E5%A5%B3%E5%85%B5%E7%BB%99%E5%AF%BC%E5%BC%B9%E5%81%9A%E4%BD%93%E6%A3%80%23&Refer=top)
@@ -104,4 +104,16 @@
 1. [日原子力委员会称福岛核电站或再爆炸](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%8E%9F%E5%AD%90%E5%8A%9B%E5%A7%94%E5%91%98%E4%BC%9A%E7%A7%B0%E7%A6%8F%E5%B2%9B%E6%A0%B8%E7%94%B5%E7%AB%99%E6%88%96%E5%86%8D%E7%88%86%E7%82%B8%23&Refer=top)
 
 1. [TSG](https://s.weibo.com//weibo?q=TSG&Refer=top)
+
+1. [教育不能过于注重分数](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E4%B8%8D%E8%83%BD%E8%BF%87%E4%BA%8E%E6%B3%A8%E9%87%8D%E5%88%86%E6%95%B0%23&Refer=new_time)
+
+1. [李兰迪演技](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [司藤身世](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4%E8%BA%AB%E4%B8%96&Refer=top)
+
+1. [时代少年团赞赞新时代](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%B5%9E%E8%B5%9E%E6%96%B0%E6%97%B6%E4%BB%A3%23&Refer=top)
+
+1. [暴风眼](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%A3%8E%E7%9C%BC%23&Refer=top)
+
+1. [易方达中小盘混合继续暂停申购](https://s.weibo.com//weibo?q=%E6%98%93%E6%96%B9%E8%BE%BE%E4%B8%AD%E5%B0%8F%E7%9B%98%E6%B7%B7%E5%90%88%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD&Refer=top)
 
