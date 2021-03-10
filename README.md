@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-10 22:02:38
+## 微博今日热榜 更新于 2021-03-10 23:02:20
 1. [总书记三到团组释放哪些信号](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%89%E5%88%B0%E5%9B%A2%E7%BB%84%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7%23&Refer=new_time)
 
 1. [建议适当放宽小学新生入学年龄](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%80%82%E5%BD%93%E6%94%BE%E5%AE%BD%E5%B0%8F%E5%AD%A6%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E5%B9%B4%E9%BE%84%23&Refer=top)
@@ -498,4 +498,12 @@
 1. [TSG](https://s.weibo.com//weibo?q=TSG&Refer=top)
 
 1. [铜价涨至九年新高](https://s.weibo.com//weibo?q=%23%E9%93%9C%E4%BB%B7%E6%B6%A8%E8%87%B3%E4%B9%9D%E5%B9%B4%E6%96%B0%E9%AB%98%23&Refer=top)
+
+1. [景甜气质](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E6%B0%94%E8%B4%A8%23&Refer=top)
+
+1. [心疼安静](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%AE%89%E9%9D%99%23&Refer=top)
+
+1. [司藤救秦放](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E6%95%91%E7%A7%A6%E6%94%BE%23&Refer=top)
+
+1. [哈尔滨全面有序恢复](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%85%A8%E9%9D%A2%E6%9C%89%E5%BA%8F%E6%81%A2%E5%A4%8D%23&Refer=top)
 
