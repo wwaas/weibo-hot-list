@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 06:02:36
+## 微博今日热榜 更新于 2021-03-12 07:02:20
 1. [总书记在两会上关心青年成长](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%9C%A8%E4%B8%A4%E4%BC%9A%E4%B8%8A%E5%85%B3%E5%BF%83%E9%9D%92%E5%B9%B4%E6%88%90%E9%95%BF%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -128,4 +128,8 @@
 1. [南京莫愁湖海棠初开](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E8%8E%AB%E6%84%81%E6%B9%96%E6%B5%B7%E6%A3%A0%E5%88%9D%E5%BC%80&Refer=top)
 
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [习声回响](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E5%A3%B0%E5%9B%9E%E5%93%8D%23&Refer=new_time)
+
+1. [马尚真实身份](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%B0%9A%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD&Refer=top)
 
