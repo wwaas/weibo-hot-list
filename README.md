@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-12 04:02:33
+## 微博今日热榜 更新于 2021-03-12 05:02:20
 1. [总书记在两会上关心青年成长](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%9C%A8%E4%B8%A4%E4%BC%9A%E4%B8%8A%E5%85%B3%E5%BF%83%E9%9D%92%E5%B9%B4%E6%88%90%E9%95%BF%23&Refer=new_time)
 
 1. [总理记者会](https://s.weibo.com//weibo?q=%23%E6%80%BB%E7%90%86%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top)
@@ -122,4 +122,10 @@
 1. [山西垣曲发现周代化妆品](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E5%9E%A3%E6%9B%B2%E5%8F%91%E7%8E%B0%E5%91%A8%E4%BB%A3%E5%8C%96%E5%A6%86%E5%93%81&Refer=top)
 
 1. [武汉樱花大片](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E6%A8%B1%E8%8A%B1%E5%A4%A7%E7%89%87&Refer=top)
+
+1. [刘宇宁古装造型](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%8F%A4%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [南京莫愁湖海棠初开](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E8%8E%AB%E6%84%81%E6%B9%96%E6%B5%B7%E6%A3%A0%E5%88%9D%E5%BC%80&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
 
