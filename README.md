@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-13 02:04:49
+## 微博今日热榜 更新于 2021-03-13 03:23:20
 1. [总书记这些话直抵人心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E4%BA%9B%E8%AF%9D%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%23&Refer=new_time)
 
 1. [国务院研究室回应延长小长假](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A0%94%E7%A9%B6%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%BB%B6%E9%95%BF%E5%B0%8F%E9%95%BF%E5%81%87%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [王栎鑫否认参加中国版我们离婚了](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%90%A6%E8%AE%A4%E5%8F%82%E5%8A%A0%E4%B8%AD%E5%9B%BD%E7%89%88%E6%88%91%E4%BB%AC%E7%A6%BB%E5%A9%9A%E4%BA%86&Refer=top)
 
 1. [女辅警敲诈案判决书被撤回](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E8%BE%85%E8%AD%A6%E6%95%B2%E8%AF%88%E6%A1%88%E5%88%A4%E5%86%B3%E4%B9%A6%E8%A2%AB%E6%92%A4%E5%9B%9E%23&Refer=top)
+
+1. [胡晓明辞任蚂蚁金服CEO](https://s.weibo.com//weibo?q=%E8%83%A1%E6%99%93%E6%98%8E%E8%BE%9E%E4%BB%BB%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8DCEO&Refer=top)
 
