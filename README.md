@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-14 01:23:03
+## 微博今日热榜 更新于 2021-03-14 02:04:15
 1. [未来五年我想做的事](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%88%91%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B%23&Refer=new_time)
 
 1. [王子文 我确实有个小孩](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E6%88%91%E7%A1%AE%E5%AE%9E%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%AD%A9&Refer=top)
@@ -114,4 +114,6 @@
 1. [创造营主题曲舞台](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%88%9E%E5%8F%B0&Refer=top)
 
 1. [ipad猎巫](https://s.weibo.com//weibo?q=%23ipad%E7%8C%8E%E5%B7%AB%23&Refer=top)
+
+1. [阿凡达](https://s.weibo.com//weibo?q=%E9%98%BF%E5%87%A1%E8%BE%BE&Refer=top)
 
