@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-14 03:01:44
+## 微博今日热榜 更新于 2021-03-14 04:02:33
 1. [未来五年我想做的事](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E6%88%91%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B%23&Refer=new_time)
 
 1. [王子文 我确实有个小孩](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E6%88%91%E7%A1%AE%E5%AE%9E%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%AD%A9&Refer=top)
@@ -120,4 +120,8 @@
 1. [中方向各国维和人员捐赠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E5%90%84%E5%9B%BD%E7%BB%B4%E5%92%8C%E4%BA%BA%E5%91%98%E6%8D%90%E8%B5%A0%E7%96%AB%E8%8B%97%23&Refer=new_time)
 
 1. [EDG TES](https://s.weibo.com//weibo?q=EDG%20TES&Refer=top)
+
+1. [从两会读懂中国式民主](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E4%B8%A4%E4%BC%9A%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B0%91%E4%B8%BB%23&Refer=new_time)
+
+1. [印度4男子树下避雨遭雷劈瞬间倒地](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A64%E7%94%B7%E5%AD%90%E6%A0%91%E4%B8%8B%E9%81%BF%E9%9B%A8%E9%81%AD%E9%9B%B7%E5%8A%88%E7%9E%AC%E9%97%B4%E5%80%92%E5%9C%B0&Refer=top)
 
