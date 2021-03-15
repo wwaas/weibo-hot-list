@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-16 01:21:55
+## 微博今日热榜 更新于 2021-03-16 02:02:39
 1. [今年中国经济保持恢复性增长](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BF%9D%E6%8C%81%E6%81%A2%E5%A4%8D%E6%80%A7%E5%A2%9E%E9%95%BF%23&Refer=new_time)
 
 1. [315晚会](https://s.weibo.com//weibo?q=%23315%E6%99%9A%E4%BC%9A%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [香港青年条理清晰舌战港独](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E6%9D%A1%E7%90%86%E6%B8%85%E6%99%B0%E8%88%8C%E6%88%98%E6%B8%AF%E7%8B%AC%23&Refer=top)
 
 1. [锦心似玉](https://s.weibo.com//weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89&Refer=top)
+
+1. [我国新冠疫苗累计接种6498万人次](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D6498%E4%B8%87%E4%BA%BA%E6%AC%A1%23&Refer=new_time)
+
+1. [暴风眼](https://s.weibo.com//weibo?q=%E6%9A%B4%E9%A3%8E%E7%9C%BC&Refer=top)
 
