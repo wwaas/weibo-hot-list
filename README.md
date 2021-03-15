@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-16 05:25:34
+## 微博今日热榜 更新于 2021-03-16 06:09:01
 1. [今年中国经济保持恢复性增长](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BF%9D%E6%8C%81%E6%81%A2%E5%A4%8D%E6%80%A7%E5%A2%9E%E9%95%BF%23&Refer=new_time)
 
 1. [315晚会](https://s.weibo.com//weibo?q=%23315%E6%99%9A%E4%BC%9A%23&Refer=top)
