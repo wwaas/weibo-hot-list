@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-17 05:02:16
+## 微博今日热榜 更新于 2021-03-17 06:02:38
 1. [中国共产党的十万个为什么](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E5%8D%81%E4%B8%87%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88%23&Refer=new_time)
 
 1. [鹿晗状态](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [无业失业退休人群抑郁水平最高](https://s.weibo.com//weibo?q=%23%E6%97%A0%E4%B8%9A%E5%A4%B1%E4%B8%9A%E9%80%80%E4%BC%91%E4%BA%BA%E7%BE%A4%E6%8A%91%E9%83%81%E6%B0%B4%E5%B9%B3%E6%9C%80%E9%AB%98%23&Refer=top)
 
 1. [司藤坐绿皮火车](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E5%9D%90%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%23&Refer=top)
+
+1. [武警战士在樱花海中训练](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E8%AD%A6%E6%88%98%E5%A3%AB%E5%9C%A8%E6%A8%B1%E8%8A%B1%E6%B5%B7%E4%B8%AD%E8%AE%AD%E7%BB%83%23&Refer=top)
 
