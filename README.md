@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-16 06:09:01
+## 微博今日热榜 更新于 2021-03-16 08:05:18
 1. [今年中国经济保持恢复性增长](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BF%9D%E6%8C%81%E6%81%A2%E5%A4%8D%E6%80%A7%E5%A2%9E%E9%95%BF%23&Refer=new_time)
 
 1. [315晚会](https://s.weibo.com//weibo?q=%23315%E6%99%9A%E4%BC%9A%23&Refer=top)
@@ -128,4 +128,24 @@
 1. [缅甸仰光部分地区实施军事管制](https://s.weibo.com//weibo?q=%23%E7%BC%85%E7%94%B8%E4%BB%B0%E5%85%89%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%AE%9E%E6%96%BD%E5%86%9B%E4%BA%8B%E7%AE%A1%E5%88%B6%23&Refer=top)
 
 1. [360搜索UC浏览器被多个应用市场下架](https://s.weibo.com//weibo?q=%23360%E6%90%9C%E7%B4%A2UC%E6%B5%8F%E8%A7%88%E5%99%A8%E8%A2%AB%E5%A4%9A%E4%B8%AA%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA%E4%B8%8B%E6%9E%B6%23&Refer=top)
+
+1. [监管部门为消费者挽回损失44亿元](https://s.weibo.com//weibo?q=%23%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E4%B8%BA%E6%B6%88%E8%B4%B9%E8%80%85%E6%8C%BD%E5%9B%9E%E6%8D%9F%E5%A4%B144%E4%BA%BF%E5%85%83%23&Refer=new_time)
+
+1. [UC浏览器致歉](https://s.weibo.com//weibo?q=UC%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%B4%E6%AD%89&Refer=top)
+
+1. [北京市场监管连夜赶赴360总部调查](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E8%BF%9E%E5%A4%9C%E8%B5%B6%E8%B5%B4360%E6%80%BB%E9%83%A8%E8%B0%83%E6%9F%A5&Refer=top)
+
+1. [韩媒称沙尘暴起源于中国](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%AA%92%E7%A7%B0%E6%B2%99%E5%B0%98%E6%9A%B4%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%B8%AD%E5%9B%BD&Refer=top)
+
+1. [中央气象台继续发布沙尘暴蓝色预警](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E7%BB%A7%E7%BB%AD%E5%8F%91%E5%B8%83%E6%B2%99%E5%B0%98%E6%9A%B4%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [瘦肉精羊涉事企业负责人已被控制](https://s.weibo.com//weibo?q=%E7%98%A6%E8%82%89%E7%B2%BE%E7%BE%8A%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6&Refer=top)
+
+1. [美国新冠肺炎超2948万例](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E8%B6%852948%E4%B8%87%E4%BE%8B&Refer=top)
+
+1. [巴萨战胜韦斯卡](https://s.weibo.com//weibo?q=%E5%B7%B4%E8%90%A8%E6%88%98%E8%83%9C%E9%9F%A6%E6%96%AF%E5%8D%A1&Refer=top)
+
+1. [梅西梅开二度](https://s.weibo.com//weibo?q=%E6%A2%85%E8%A5%BF%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top)
 
