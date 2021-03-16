@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-17 00:03:48
+## 微博今日热榜 更新于 2021-03-17 01:23:51
 1. [中国共产党的十万个为什么](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E5%8D%81%E4%B8%87%E4%B8%AA%E4%B8%BA%E4%BB%80%E4%B9%88%23&Refer=new_time)
 
 1. [鹿晗状态](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -104,4 +104,8 @@
 1. [司藤给秦放报仇](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4%E7%BB%99%E7%A7%A6%E6%94%BE%E6%8A%A5%E4%BB%87&Refer=top)
 
 1. [华为将收取5G专利使用费](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E5%B0%86%E6%94%B6%E5%8F%965G%E4%B8%93%E5%88%A9%E4%BD%BF%E7%94%A8%E8%B4%B9&Refer=top)
+
+1. [马嘉祺中戏复试](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%AD%E6%88%8F%E5%A4%8D%E8%AF%95&Refer=top)
+
+1. [赵敬渣男](https://s.weibo.com//weibo?q=%E8%B5%B5%E6%95%AC%E6%B8%A3%E7%94%B7&Refer=top)
 
