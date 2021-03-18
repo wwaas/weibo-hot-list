@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 04:02:36
+## 微博今日热榜 更新于 2021-03-19 05:02:30
 1. [2021年5G网络建设目标](https://s.weibo.com//weibo?q=%232021%E5%B9%B45G%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -130,4 +130,8 @@
 1. [锦心似玉](https://s.weibo.com//weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89&Refer=top)
 
 1. [义务教育质量评价指南发布](https://s.weibo.com//weibo?q=%23%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%B4%A8%E9%87%8F%E8%AF%84%E4%BB%B7%E6%8C%87%E5%8D%97%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [新冠疫苗选单针还是双针](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E9%80%89%E5%8D%95%E9%92%88%E8%BF%98%E6%98%AF%E5%8F%8C%E9%92%88%23&Refer=new_time)
+
+1. [亚特兰大枪击案](https://s.weibo.com//weibo?q=%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E6%9E%AA%E5%87%BB%E6%A1%88&Refer=top)
 
