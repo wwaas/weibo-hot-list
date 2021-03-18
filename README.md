@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 01:23:59
+## 微博今日热榜 更新于 2021-03-19 02:04:45
 1. [2021年5G网络建设目标](https://s.weibo.com//weibo?q=%232021%E5%B9%B45G%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -114,4 +114,12 @@
 1. [米佧邢克垒被困矿洞](https://s.weibo.com//weibo?q=%E7%B1%B3%E4%BD%A7%E9%82%A2%E5%85%8B%E5%9E%92%E8%A2%AB%E5%9B%B0%E7%9F%BF%E6%B4%9E&Refer=top)
 
 1. [清华团队研发出液态金属外骨骼](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E5%87%BA%E6%B6%B2%E6%80%81%E9%87%91%E5%B1%9E%E5%A4%96%E9%AA%A8%E9%AA%BC%23&Refer=top)
+
+1. [义务教育质量评价指南](https://s.weibo.com//weibo?q=%23%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%B4%A8%E9%87%8F%E8%AF%84%E4%BB%B7%E6%8C%87%E5%8D%97%23&Refer=new_time)
+
+1. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
+
+1. [近百年前男孩自信用英文介绍中国](https://s.weibo.com//weibo?q=%23%E8%BF%91%E7%99%BE%E5%B9%B4%E5%89%8D%E7%94%B7%E5%AD%A9%E8%87%AA%E4%BF%A1%E7%94%A8%E8%8B%B1%E6%96%87%E4%BB%8B%E7%BB%8D%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [广州多家银行严查购房首付来源](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%A5%E6%9F%A5%E8%B4%AD%E6%88%BF%E9%A6%96%E4%BB%98%E6%9D%A5%E6%BA%90&Refer=top)
 
