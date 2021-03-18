@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-18 16:02:54
+## 微博今日热榜 更新于 2021-03-18 17:02:22
 1. [2020年中国在欧专利申请创新高](https://s.weibo.com//weibo?q=%232020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%AC%A7%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%23&Refer=new_time)
 
 1. [仙剑奇侠传1翻拍](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A01%E7%BF%BB%E6%8B%8D%23&Refer=top)
@@ -374,4 +374,18 @@
 1. [马斯克承认特斯拉用摄像头监控车主](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%E7%9B%91%E6%8E%A7%E8%BD%A6%E4%B8%BB&Refer=top)
 
 1. [医学生的奇葩操作](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9A%84%E5%A5%87%E8%91%A9%E6%93%8D%E4%BD%9C%23&Refer=top)
+
+1. [景甜说听取粉丝的意见也很重要](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E8%AF%B4%E5%90%AC%E5%8F%96%E7%B2%89%E4%B8%9D%E7%9A%84%E6%84%8F%E8%A7%81%E4%B9%9F%E5%BE%88%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [哪些原因导致你睡眠不足](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%AF%BC%E8%87%B4%E4%BD%A0%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%23&Refer=top)
+
+1. [王鸥开包vlog](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%B8%A5%E5%BC%80%E5%8C%85vlog%23&Refer=top)
+
+1. [张哲瀚吐槽粉丝送菜谱](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%90%90%E6%A7%BD%E7%B2%89%E4%B8%9D%E9%80%81%E8%8F%9C%E8%B0%B1%23&Refer=top)
+
+1. [西虹市首富涉侵权案开庭](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%99%B9%E5%B8%82%E9%A6%96%E5%AF%8C%E6%B6%89%E4%BE%B5%E6%9D%83%E6%A1%88%E5%BC%80%E5%BA%AD&Refer=top)
+
+1. [印尼知名女运动员被确认为男性](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%B0%BC%E7%9F%A5%E5%90%8D%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E8%A2%AB%E7%A1%AE%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%80%A7&Refer=top)
+
+1. [监控探头是欢乐记录仪](https://s.weibo.com//weibo?q=%E7%9B%91%E6%8E%A7%E6%8E%A2%E5%A4%B4%E6%98%AF%E6%AC%A2%E4%B9%90%E8%AE%B0%E5%BD%95%E4%BB%AA&Refer=top)
 
