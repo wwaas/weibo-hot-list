@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-20 00:03:42
+## 微博今日热榜 更新于 2021-03-20 01:25:11
 1. [我国首颗进入日地L1点轨道航天器](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E9%A2%97%E8%BF%9B%E5%85%A5%E6%97%A5%E5%9C%B0L1%E7%82%B9%E8%BD%A8%E9%81%93%E8%88%AA%E5%A4%A9%E5%99%A8%23&Refer=new_time)
 
 1. [王毅发言时美方代表在传纸条](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E5%8F%91%E8%A8%80%E6%97%B6%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BC%A0%E7%BA%B8%E6%9D%A1%23&Refer=top)
@@ -102,4 +102,16 @@
 1. [杨丞琳发文表白姐姐们](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%8F%91%E6%96%87%E8%A1%A8%E7%99%BD%E5%A7%90%E5%A7%90%E4%BB%AC%23&Refer=top)
 
 1. [上海哈啰单车半小时收费2.5元](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%93%88%E5%95%B0%E5%8D%95%E8%BD%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%94%B6%E8%B4%B92.5%E5%85%83%23&Refer=top)
+
+1. [三部门发布18个新职业](https://s.weibo.com//weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%8318%E4%B8%AA%E6%96%B0%E8%81%8C%E4%B8%9A%23&Refer=new_time)
+
+1. [马嘉祺张彬彬反转版无间道](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%8F%8D%E8%BD%AC%E7%89%88%E6%97%A0%E9%97%B4%E9%81%93%23&Refer=top)
+
+1. [厦门一旅游观光直升机坠海](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%80%E6%97%85%E6%B8%B8%E8%A7%82%E5%85%89%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%9D%A0%E6%B5%B7%23&Refer=top)
+
+1. [怎么看待年轻人立遗嘱](https://s.weibo.com//weibo?q=%23%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%AB%8B%E9%81%97%E5%98%B1%23&Refer=top)
+
+1. [欧冠抽签](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE&Refer=top)
+
+1. [中美高层战略对话](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BE%8E%E9%AB%98%E5%B1%82%E6%88%98%E7%95%A5%E5%AF%B9%E8%AF%9D%23&Refer=top)
 
