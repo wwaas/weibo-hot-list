@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-20 06:02:34
+## 微博今日热榜 更新于 2021-03-20 07:02:28
 1. [我国首颗进入日地L1点轨道航天器](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E9%A2%97%E8%BF%9B%E5%85%A5%E6%97%A5%E5%9C%B0L1%E7%82%B9%E8%BD%A8%E9%81%93%E8%88%AA%E5%A4%A9%E5%99%A8%23&Refer=new_time)
 
 1. [王毅发言时美方代表在传纸条](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E5%8F%91%E8%A8%80%E6%97%B6%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BC%A0%E7%BA%B8%E6%9D%A1%23&Refer=top)
@@ -134,4 +134,6 @@
 1. [若你安好制片人喊话爱优腾](https://s.weibo.com//weibo?q=%E8%8B%A5%E4%BD%A0%E5%AE%89%E5%A5%BD%E5%88%B6%E7%89%87%E4%BA%BA%E5%96%8A%E8%AF%9D%E7%88%B1%E4%BC%98%E8%85%BE&Refer=top)
 
 1. [技能人才将迎黄金发展期](https://s.weibo.com//weibo?q=%23%E6%8A%80%E8%83%BD%E4%BA%BA%E6%89%8D%E5%B0%86%E8%BF%8E%E9%BB%84%E9%87%91%E5%8F%91%E5%B1%95%E6%9C%9F%23&Refer=new_time)
+
+1. [美方要求记者离开中方据理力争](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E8%AE%B0%E8%80%85%E7%A6%BB%E5%BC%80%E4%B8%AD%E6%96%B9%E6%8D%AE%E7%90%86%E5%8A%9B%E4%BA%89%23&Refer=top)
 
