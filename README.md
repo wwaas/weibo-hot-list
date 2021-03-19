@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 14:02:44
+## 微博今日热榜 更新于 2021-03-19 15:02:01
 1. [2021年5G网络建设目标](https://s.weibo.com//weibo?q=%232021%E5%B9%B45G%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -318,4 +318,32 @@
 1. [詹姆斯37分](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF37%E5%88%86&Refer=top)
 
 1. [山河令预告温客行下跪](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E9%A2%84%E5%91%8A%E6%B8%A9%E5%AE%A2%E8%A1%8C%E4%B8%8B%E8%B7%AA&Refer=top)
+
+1. [深圳男子遭家暴申请人身保护令](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E7%94%B7%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E7%94%B3%E8%AF%B7%E4%BA%BA%E8%BA%AB%E4%BF%9D%E6%8A%A4%E4%BB%A4&Refer=top)
+
+1. [西藏那曲6.1级地震](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B26.1%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+
+1. [杨洁篪午饭吃的泡面](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%81%E7%AF%AA%E5%8D%88%E9%A5%AD%E5%90%83%E7%9A%84%E6%B3%A1%E9%9D%A2%23&Refer=top)
+
+1. [杨紫蓝色提花廓形裙](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%93%9D%E8%89%B2%E6%8F%90%E8%8A%B1%E5%BB%93%E5%BD%A2%E8%A3%99%23&Refer=top)
+
+1. [龚俊抢工作室的图发博](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%8A%A2%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%9A%84%E5%9B%BE%E5%8F%91%E5%8D%9A%23&Refer=top)
+
+1. [周笔畅李斯丹妮双人rap](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E5%8F%8C%E4%BA%BArap%23&Refer=top)
+
+1. [上海哈啰单车半小时收费2.5元](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%93%88%E5%95%B0%E5%8D%95%E8%BD%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%94%B6%E8%B4%B92.5%E5%85%83&Refer=top)
+
+1. [三星堆遗址将揭晓重大发现](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80%E5%B0%86%E6%8F%AD%E6%99%93%E9%87%8D%E5%A4%A7%E5%8F%91%E7%8E%B0%23&Refer=top)
+
+1. [容祖儿发文感谢阿朵郁可唯](https://s.weibo.com//weibo?q=%23%E5%AE%B9%E7%A5%96%E5%84%BF%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E9%98%BF%E6%9C%B5%E9%83%81%E5%8F%AF%E5%94%AF%23&Refer=top)
+
+1. [西班牙私家侦探称七成居家工作者摸鱼](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A7%81%E5%AE%B6%E4%BE%A6%E6%8E%A2%E7%A7%B0%E4%B8%83%E6%88%90%E5%B1%85%E5%AE%B6%E5%B7%A5%E4%BD%9C%E8%80%85%E6%91%B8%E9%B1%BC&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [那英组全员打水鼓](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E7%BB%84%E5%85%A8%E5%91%98%E6%89%93%E6%B0%B4%E9%BC%93&Refer=top)
+
+1. [法国16个省份实施封禁一个月](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%9B%BD16%E4%B8%AA%E7%9C%81%E4%BB%BD%E5%AE%9E%E6%96%BD%E5%B0%81%E7%A6%81%E4%B8%80%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [掌握一门外语有多重要](https://s.weibo.com//weibo?q=%23%E6%8E%8C%E6%8F%A1%E4%B8%80%E9%97%A8%E5%A4%96%E8%AF%AD%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
 
