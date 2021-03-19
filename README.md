@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 21:07:46
+## 微博今日热榜 更新于 2021-03-19 22:02:15
 1. [2021年5G网络建设目标](https://s.weibo.com//weibo?q=%232021%E5%B9%B45G%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -484,4 +484,12 @@
 1. [张哲瀚演技](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E6%BC%94%E6%8A%80&Refer=top)
 
 1. [温柔的人充满善意](https://s.weibo.com//weibo?q=%E6%B8%A9%E6%9F%94%E7%9A%84%E4%BA%BA%E5%85%85%E6%BB%A1%E5%96%84%E6%84%8F&Refer=top)
+
+1. [技能人才将迎黄金发展期](https://s.weibo.com//weibo?q=%23%E6%8A%80%E8%83%BD%E4%BA%BA%E6%89%8D%E5%B0%86%E8%BF%8E%E9%BB%84%E9%87%91%E5%8F%91%E5%B1%95%E6%9C%9F%23&Refer=new_time)
+
+1. [张柏芝走秀](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%B5%B0%E7%A7%80&Refer=top)
+
+1. [韩庚为冬奥努力着](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%BA%9A%E4%B8%BA%E5%86%AC%E5%A5%A5%E5%8A%AA%E5%8A%9B%E7%9D%80&Refer=top)
+
+1. [东京奥运会开闭幕式总导演辞职](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E9%97%AD%E5%B9%95%E5%BC%8F%E6%80%BB%E5%AF%BC%E6%BC%94%E8%BE%9E%E8%81%8C&Refer=top)
 
