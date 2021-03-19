@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-19 15:02:01
+## 微博今日热榜 更新于 2021-03-19 16:02:48
 1. [2021年5G网络建设目标](https://s.weibo.com//weibo?q=%232021%E5%B9%B45G%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%E7%9B%AE%E6%A0%87%23&Refer=new_time)
 
 1. [张翰工作室声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -346,4 +346,28 @@
 1. [法国16个省份实施封禁一个月](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%9B%BD16%E4%B8%AA%E7%9C%81%E4%BB%BD%E5%AE%9E%E6%96%BD%E5%B0%81%E7%A6%81%E4%B8%80%E4%B8%AA%E6%9C%88%23&Refer=top)
 
 1. [掌握一门外语有多重要](https://s.weibo.com//weibo?q=%23%E6%8E%8C%E6%8F%A1%E4%B8%80%E9%97%A8%E5%A4%96%E8%AF%AD%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
+
+1. [美方要求记者离开中方据理力争](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E8%AE%B0%E8%80%85%E7%A6%BB%E5%BC%80%E4%B8%AD%E6%96%B9%E6%8D%AE%E7%90%86%E5%8A%9B%E4%BA%89%23&Refer=top)
+
+1. [白敬亭荧幕初吻](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%8D%A7%E5%B9%95%E5%88%9D%E5%90%BB%23&Refer=top)
+
+1. [仙剑剧组辟谣黄多多出演赵灵儿](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E5%89%A7%E7%BB%84%E8%BE%9F%E8%B0%A3%E9%BB%84%E5%A4%9A%E5%A4%9A%E5%87%BA%E6%BC%94%E8%B5%B5%E7%81%B5%E5%84%BF%23&Refer=top)
+
+1. [有境外院校为赚钱借疫情增开在线课](https://s.weibo.com//weibo?q=%23%E6%9C%89%E5%A2%83%E5%A4%96%E9%99%A2%E6%A0%A1%E4%B8%BA%E8%B5%9A%E9%92%B1%E5%80%9F%E7%96%AB%E6%83%85%E5%A2%9E%E5%BC%80%E5%9C%A8%E7%BA%BF%E8%AF%BE%23&Refer=top)
+
+1. [风起洛阳杀青](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E8%B5%B7%E6%B4%9B%E9%98%B3%E6%9D%80%E9%9D%92%23&Refer=top)
+
+1. [张翰演的唐明轩](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E6%BC%94%E7%9A%84%E5%94%90%E6%98%8E%E8%BD%A9%23&Refer=top)
+
+1. [司藤中华风仿妆](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E8%97%A4%E4%B8%AD%E5%8D%8E%E9%A3%8E%E4%BB%BF%E5%A6%86%23&Refer=top)
+
+1. [龚俊发文祝大家龚喜发财](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8F%91%E6%96%87%E7%A5%9D%E5%A4%A7%E5%AE%B6%E9%BE%9A%E5%96%9C%E5%8F%91%E8%B4%A2%23&Refer=top)
+
+1. [今起可购买清明小长假火车票](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E8%B5%B7%E5%8F%AF%E8%B4%AD%E4%B9%B0%E6%B8%85%E6%98%8E%E5%B0%8F%E9%95%BF%E5%81%87%E7%81%AB%E8%BD%A6%E7%A5%A8%23&Refer=top)
+
+1. [三星堆的前世今生](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%86%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F&Refer=top)
+
+1. [侃爷成美国历史上最富有黑人](https://s.weibo.com//weibo?q=%E4%BE%83%E7%88%B7%E6%88%90%E7%BE%8E%E5%9B%BD%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%AF%8C%E6%9C%89%E9%BB%91%E4%BA%BA&Refer=top)
+
+1. [穿越花海开往春天的动车](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E8%8A%B1%E6%B5%B7%E5%BC%80%E5%BE%80%E6%98%A5%E5%A4%A9%E7%9A%84%E5%8A%A8%E8%BD%A6%23&Refer=top)
 
