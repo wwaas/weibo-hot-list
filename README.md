@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 02:11:02
+## 微博今日热榜 更新于 2021-03-22 03:05:34
 1. [沉睡三千年 一醒惊天下](https://s.weibo.com//weibo?q=%23%E6%B2%89%E7%9D%A1%E4%B8%89%E5%8D%83%E5%B9%B4%20%E4%B8%80%E9%86%92%E6%83%8A%E5%A4%A9%E4%B8%8B%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
@@ -116,4 +116,8 @@
 1. [失眠治愈经验](https://s.weibo.com//weibo?q=%23%E5%A4%B1%E7%9C%A0%E6%B2%BB%E6%84%88%E7%BB%8F%E9%AA%8C%23&Refer=top)
 
 1. [大宋宫词](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%AE%8B%E5%AE%AB%E8%AF%8D&Refer=top)
+
+1. [疫苗是战胜传染病的终极武器](https://s.weibo.com//weibo?q=%23%E7%96%AB%E8%8B%97%E6%98%AF%E6%88%98%E8%83%9C%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%BB%88%E6%9E%81%E6%AD%A6%E5%99%A8%23&Refer=new_time)
+
+1. [CBA全明星赛](https://s.weibo.com//weibo?q=CBA%E5%85%A8%E6%98%8E%E6%98%9F%E8%B5%9B&Refer=top)
 
