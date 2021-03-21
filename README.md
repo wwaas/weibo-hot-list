@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-22 05:02:16
+## 微博今日热榜 更新于 2021-03-22 06:02:42
 1. [沉睡三千年 一醒惊天下](https://s.weibo.com//weibo?q=%23%E6%B2%89%E7%9D%A1%E4%B8%89%E5%8D%83%E5%B9%B4%20%E4%B8%80%E9%86%92%E6%83%8A%E5%A4%A9%E4%B8%8B%23&Refer=new_time)
 
 1. [骑手跑腿买7道菜仅一道是正品](https://s.weibo.com//weibo?q=%23%E9%AA%91%E6%89%8B%E8%B7%91%E8%85%BF%E4%B9%B07%E9%81%93%E8%8F%9C%E4%BB%85%E4%B8%80%E9%81%93%E6%98%AF%E6%AD%A3%E5%93%81%23&Refer=top)
