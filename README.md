@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-23 05:02:35
+## 微博今日热榜 更新于 2021-03-23 06:02:34
 1. [红色印记声音档案](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E5%8D%B0%E8%AE%B0%E5%A3%B0%E9%9F%B3%E6%A1%A3%E6%A1%88%23&Refer=new_time)
 
 1. [白敬亭亲到马思纯鼻子上了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BA%B2%E5%88%B0%E9%A9%AC%E6%80%9D%E7%BA%AF%E9%BC%BB%E5%AD%90%E4%B8%8A%E4%BA%86%23&Refer=top)
@@ -132,4 +132,6 @@
 1. [中共中央将召开2021年首场新闻发布会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%B0%86%E5%8F%AC%E5%BC%802021%E5%B9%B4%E9%A6%96%E5%9C%BA%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=new_time)
 
 1. [华春莹称中俄关系坦坦荡荡光明磊落](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E7%A7%B0%E4%B8%AD%E4%BF%84%E5%85%B3%E7%B3%BB%E5%9D%A6%E5%9D%A6%E8%8D%A1%E8%8D%A1%E5%85%89%E6%98%8E%E7%A3%8A%E8%90%BD%23&Refer=top)
+
+1. [中国成率先批准RCEP国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E7%8E%87%E5%85%88%E6%89%B9%E5%87%86RCEP%E5%9B%BD%E5%AE%B6%23&Refer=top)
 
