@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-24 05:02:19
+## 微博今日热榜 更新于 2021-03-24 06:02:51
 1. [2025年乡村振兴全面推进](https://s.weibo.com//weibo?q=%232025%E5%B9%B4%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%23&Refer=new_time)
 
 1. [白敬亭想加郭麒麟好友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E5%8A%A0%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E5%8F%8B%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [FIFAonline3关服](https://s.weibo.com//weibo?q=%23FIFAonline3%E5%85%B3%E6%9C%8D%23&Refer=top)
 
 1. [加拿大跟随英美制裁中国](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B7%9F%E9%9A%8F%E8%8B%B1%E7%BE%8E%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%23&Refer=top)
+
+1. [中国共产党党员总数9191.4万](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%9A%E5%91%98%E6%80%BB%E6%95%B09191.4%E4%B8%87%23&Refer=new_time)
 
