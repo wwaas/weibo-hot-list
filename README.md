@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-24 06:02:51
+## 微博今日热榜 更新于 2021-03-24 07:02:22
 1. [2025年乡村振兴全面推进](https://s.weibo.com//weibo?q=%232025%E5%B9%B4%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%23&Refer=new_time)
 
 1. [白敬亭想加郭麒麟好友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E5%8A%A0%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E5%8F%8B%23&Refer=top)
