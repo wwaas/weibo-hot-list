@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-24 04:02:44
+## 微博今日热榜 更新于 2021-03-24 05:02:19
 1. [2025年乡村振兴全面推进](https://s.weibo.com//weibo?q=%232025%E5%B9%B4%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%23&Refer=new_time)
 
 1. [白敬亭想加郭麒麟好友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%83%B3%E5%8A%A0%E9%83%AD%E9%BA%92%E9%BA%9F%E5%A5%BD%E5%8F%8B%23&Refer=top)
@@ -122,4 +122,10 @@
 1. [山西大学回应断电](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%96%AD%E7%94%B5&Refer=top)
 
 1. [台官员被问是不是祈雨前没沐浴](https://s.weibo.com//weibo?q=%E5%8F%B0%E5%AE%98%E5%91%98%E8%A2%AB%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A5%88%E9%9B%A8%E5%89%8D%E6%B2%A1%E6%B2%90%E6%B5%B4&Refer=top)
+
+1. [37次考古只发掘三星堆的千分之二](https://s.weibo.com//weibo?q=%2337%E6%AC%A1%E8%80%83%E5%8F%A4%E5%8F%AA%E5%8F%91%E6%8E%98%E4%B8%89%E6%98%9F%E5%A0%86%E7%9A%84%E5%8D%83%E5%88%86%E4%B9%8B%E4%BA%8C%23&Refer=top)
+
+1. [FIFAonline3关服](https://s.weibo.com//weibo?q=%23FIFAonline3%E5%85%B3%E6%9C%8D%23&Refer=top)
+
+1. [加拿大跟随英美制裁中国](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B7%9F%E9%9A%8F%E8%8B%B1%E7%BE%8E%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%23&Refer=top)
 
