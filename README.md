@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-26 06:08:07
+## 微博今日热榜 更新于 2021-03-26 07:10:30
 1. [希望有福之州更好造福于民](https://s.weibo.com//weibo?q=%23%E5%B8%8C%E6%9C%9B%E6%9C%89%E7%A6%8F%E4%B9%8B%E5%B7%9E%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%8E%E6%B0%91%23&Refer=new_time)
 
 1. [FILA中国退出BCI](https://s.weibo.com//weibo?q=%23FILA%E4%B8%AD%E5%9B%BD%E9%80%80%E5%87%BABCI%23&Refer=top)
@@ -126,4 +126,16 @@
 1. [新疆雪白的棉花](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E9%9B%AA%E7%99%BD%E7%9A%84%E6%A3%89%E8%8A%B1%23&Refer=new_time)
 
 1. [于朦胧走红毯断电了](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%9C%A6%E8%83%A7%E8%B5%B0%E7%BA%A2%E6%AF%AF%E6%96%AD%E7%94%B5%E4%BA%86%23&Refer=top)
+
+1. [SHE提前为Hebe庆生](https://s.weibo.com//weibo?q=%23SHE%E6%8F%90%E5%89%8D%E4%B8%BAHebe%E5%BA%86%E7%94%9F%23&Refer=top)
+
+1. [世锦赛羽生结弦完美发挥暂列第一](https://s.weibo.com//weibo?q=%23%E4%B8%96%E9%94%A6%E8%B5%9B%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%AE%8C%E7%BE%8E%E5%8F%91%E6%8C%A5%E6%9A%82%E5%88%97%E7%AC%AC%E4%B8%80%23&Refer=top)
+
+1. [超238万香港市民签名支持完善选举制度](https://s.weibo.com//weibo?q=%23%E8%B6%85238%E4%B8%87%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E7%AD%BE%E5%90%8D%E6%94%AF%E6%8C%81%E5%AE%8C%E5%96%84%E9%80%89%E4%B8%BE%E5%88%B6%E5%BA%A6%23&Refer=top)
+
+1. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top)
+
+1. [别想打扰我学习](https://s.weibo.com//weibo?q=%E5%88%AB%E6%83%B3%E6%89%93%E6%89%B0%E6%88%91%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top)
 
