@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-25 11:23:40
+## 微博今日热榜 更新于 2021-03-25 12:16:12
 1. [从一五到十三五中国经历了什么](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E4%B8%80%E4%BA%94%E5%88%B0%E5%8D%81%E4%B8%89%E4%BA%94%E4%B8%AD%E5%9B%BD%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=new_time)
 
 1. [耐克](https://s.weibo.com//weibo?q=%E8%80%90%E5%85%8B&Refer=top)
@@ -218,4 +218,16 @@
 1. [希望有福之州更好造福于民](https://s.weibo.com//weibo?q=%23%E5%B8%8C%E6%9C%9B%E6%9C%89%E7%A6%8F%E4%B9%8B%E5%B7%9E%E6%9B%B4%E5%A5%BD%E9%80%A0%E7%A6%8F%E4%BA%8E%E6%B0%91%23&Refer=top)
 
 1. [BCI是个什么组织](https://s.weibo.com//weibo?q=BCI%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E7%BB%84%E7%BB%87&Refer=top)
+
+1. [陈学冬晒购物记录支持新疆棉](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%AD%A6%E5%86%AC%E6%99%92%E8%B4%AD%E7%89%A9%E8%AE%B0%E5%BD%95%E6%94%AF%E6%8C%81%E6%96%B0%E7%96%86%E6%A3%89%23&Refer=top)
+
+1. [新疆曾多次邀请欧盟驻华使节参访](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E6%9B%BE%E5%A4%9A%E6%AC%A1%E9%82%80%E8%AF%B7%E6%AC%A7%E7%9B%9F%E9%A9%BB%E5%8D%8E%E4%BD%BF%E8%8A%82%E5%8F%82%E8%AE%BF%23&Refer=top)
+
+1. [古力娜扎 我爱家乡雪白的棉花](https://s.weibo.com//weibo?q=%E5%8F%A4%E5%8A%9B%E5%A8%9C%E6%89%8E%20%E6%88%91%E7%88%B1%E5%AE%B6%E4%B9%A1%E9%9B%AA%E7%99%BD%E7%9A%84%E6%A3%89%E8%8A%B1&Refer=top)
+
+1. [小学生飞奔过马路被撞身亡](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%A3%9E%E5%A5%94%E8%BF%87%E9%A9%AC%E8%B7%AF%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&Refer=top)
+
+1. [乌克兰总统错签行政令将自己免职](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%BB%E7%BB%9F%E9%94%99%E7%AD%BE%E8%A1%8C%E6%94%BF%E4%BB%A4%E5%B0%86%E8%87%AA%E5%B7%B1%E5%85%8D%E8%81%8C&Refer=top)
+
+1. [交通部再次点名花小猪](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%80%9A%E9%83%A8%E5%86%8D%E6%AC%A1%E7%82%B9%E5%90%8D%E8%8A%B1%E5%B0%8F%E7%8C%AA&Refer=top)
 
