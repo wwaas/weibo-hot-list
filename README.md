@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 01:36:10
+## 微博今日热榜 更新于 2021-03-28 02:22:00
 1. [全国铁路4月10日实行新的列车运行图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF4%E6%9C%8810%E6%97%A5%E5%AE%9E%E8%A1%8C%E6%96%B0%E7%9A%84%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
@@ -114,4 +114,8 @@
 1. [十二谭特效](https://s.weibo.com//weibo?q=%E5%8D%81%E4%BA%8C%E8%B0%AD%E7%89%B9%E6%95%88&Refer=top)
 
 1. [撒贝宁比赛谁骑车慢](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E6%AF%94%E8%B5%9B%E8%B0%81%E9%AA%91%E8%BD%A6%E6%85%A2%23&Refer=top)
+
+1. [哥斯拉大战金刚](https://s.weibo.com//weibo?q=%E5%93%A5%E6%96%AF%E6%8B%89%E5%A4%A7%E6%88%98%E9%87%91%E5%88%9A&Refer=top)
+
+1. [苏伊士运河](https://s.weibo.com//weibo?q=%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3&Refer=top)
 
