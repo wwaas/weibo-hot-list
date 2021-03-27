@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 04:08:03
+## 微博今日热榜 更新于 2021-03-28 05:07:14
 1. [全国铁路4月10日实行新的列车运行图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF4%E6%9C%8810%E6%97%A5%E5%AE%9E%E8%A1%8C%E6%96%B0%E7%9A%84%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
