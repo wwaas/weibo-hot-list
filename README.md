@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 00:11:41
+## 微博今日热榜 更新于 2021-03-28 01:36:10
 1. [全国铁路4月10日实行新的列车运行图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF4%E6%9C%8810%E6%97%A5%E5%AE%9E%E8%A1%8C%E6%96%B0%E7%9A%84%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
@@ -104,4 +104,14 @@
 1. [俄三艘核潜艇在北冰洋同时破冰出水](https://s.weibo.com//weibo?q=%23%E4%BF%84%E4%B8%89%E8%89%98%E6%A0%B8%E6%BD%9C%E8%89%87%E5%9C%A8%E5%8C%97%E5%86%B0%E6%B4%8B%E5%90%8C%E6%97%B6%E7%A0%B4%E5%86%B0%E5%87%BA%E6%B0%B4%23&Refer=top)
 
 1. [成都一食品市场突发大火](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E4%B8%80%E9%A3%9F%E5%93%81%E5%B8%82%E5%9C%BA%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB&Refer=top)
+
+1. [清明节假期高速公路免费通行](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%85%8D%E8%B4%B9%E9%80%9A%E8%A1%8C%23&Refer=new_time)
+
+1. [央视揭新疆白棉花为何上了黑名单](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E6%96%B0%E7%96%86%E7%99%BD%E6%A3%89%E8%8A%B1%E4%B8%BA%E4%BD%95%E4%B8%8A%E4%BA%86%E9%BB%91%E5%90%8D%E5%8D%95%23&Refer=top)
+
+1. [秦岚再演绿萍](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%86%8D%E6%BC%94%E7%BB%BF%E8%90%8D%23&Refer=top)
+
+1. [十二谭特效](https://s.weibo.com//weibo?q=%E5%8D%81%E4%BA%8C%E8%B0%AD%E7%89%B9%E6%95%88&Refer=top)
+
+1. [撒贝宁比赛谁骑车慢](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E6%AF%94%E8%B5%9B%E8%B0%81%E9%AA%91%E8%BD%A6%E6%85%A2%23&Refer=top)
 
