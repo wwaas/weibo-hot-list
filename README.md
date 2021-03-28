@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-28 10:33:27
+## 微博今日热榜 更新于 2021-03-28 11:15:12
 1. [全国铁路4月10日实行新的列车运行图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF4%E6%9C%8810%E6%97%A5%E5%AE%9E%E8%A1%8C%E6%96%B0%E7%9A%84%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E5%9B%BE%23&Refer=new_time)
 
 1. [王琳方磊终止约会](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E7%BB%88%E6%AD%A2%E7%BA%A6%E4%BC%9A&Refer=top)
@@ -222,4 +222,26 @@
 1. [新疆有多少种色彩](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D%E8%89%B2%E5%BD%A9%23&Refer=top)
 
 1. [内卷 绝对权力欲的熬鹰游戏](https://s.weibo.com//weibo?q=%E5%86%85%E5%8D%B7%20%E7%BB%9D%E5%AF%B9%E6%9D%83%E5%8A%9B%E6%AC%B2%E7%9A%84%E7%86%AC%E9%B9%B0%E6%B8%B8%E6%88%8F&Refer=top)
+
+1. [数读新疆这个好地方](https://s.weibo.com//weibo?q=%23%E6%95%B0%E8%AF%BB%E6%96%B0%E7%96%86%E8%BF%99%E4%B8%AA%E5%A5%BD%E5%9C%B0%E6%96%B9%23&Refer=new_time)
+
+1. [这就是帅哥氛围感吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%B8%85%E5%93%A5%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%90%97%23&Refer=top)
+
+1. [福原爱登顶日媒评不伦艺人排行榜](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%99%BB%E9%A1%B6%E6%97%A5%E5%AA%92%E8%AF%84%E4%B8%8D%E4%BC%A6%E8%89%BA%E4%BA%BA%E6%8E%92%E8%A1%8C%E6%A6%9C%23&Refer=top)
+
+1. [天津天海更博](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E5%A4%A9%E6%B5%B7%E6%9B%B4%E5%8D%9A&Refer=top)
+
+1. [中国女子在美失踪2年遗骸被发现](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E7%BE%8E%E5%A4%B1%E8%B8%AA2%E5%B9%B4%E9%81%97%E9%AA%B8%E8%A2%AB%E5%8F%91%E7%8E%B0&Refer=top)
+
+1. [4月天象](https://s.weibo.com//weibo?q=%234%E6%9C%88%E5%A4%A9%E8%B1%A1%23&Refer=top)
+
+1. [英警察用烈性警犬驱散示威者](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%AD%A6%E5%AF%9F%E7%94%A8%E7%83%88%E6%80%A7%E8%AD%A6%E7%8A%AC%E9%A9%B1%E6%95%A3%E7%A4%BA%E5%A8%81%E8%80%85&Refer=top)
+
+1. [中使馆提醒在美中国公民加强防范](https://s.weibo.com//weibo?q=%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E5%9C%A8%E7%BE%8E%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8A%A0%E5%BC%BA%E9%98%B2%E8%8C%83&Refer=top)
+
+1. [安徽一汽车落水3名儿童死亡](https://s.weibo.com//weibo?q=%E5%AE%89%E5%BE%BD%E4%B8%80%E6%B1%BD%E8%BD%A6%E8%90%BD%E6%B0%B43%E5%90%8D%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [肖战如梦之梦排练照](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6%E6%8E%92%E7%BB%83%E7%85%A7%23&Refer=top)
+
+1. [湖人领跑庄神争夺战](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E9%A2%86%E8%B7%91%E5%BA%84%E7%A5%9E%E4%BA%89%E5%A4%BA%E6%88%98&Refer=top)
 
