@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-29 02:21:36
+## 微博今日热榜 更新于 2021-03-29 03:14:01
 1. [灭活疫苗接种48小时后可献血](https://s.weibo.com//weibo?q=%23%E7%81%AD%E6%B4%BB%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D48%E5%B0%8F%E6%97%B6%E5%90%8E%E5%8F%AF%E7%8C%AE%E8%A1%80%23&Refer=new_time)
 
 1. [廖启智去世](https://s.weibo.com//weibo?q=%23%E5%BB%96%E5%90%AF%E6%99%BA%E5%8E%BB%E4%B8%96%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [创造营](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5&Refer=top)
 
 1. [张萌说女嘉宾不应该因为优秀被灭灯](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E8%AF%B4%E5%A5%B3%E5%98%89%E5%AE%BE%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%9B%A0%E4%B8%BA%E4%BC%98%E7%A7%80%E8%A2%AB%E7%81%AD%E7%81%AF%23&Refer=top)
+
+1. [我管你舞台好拽](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%AE%A1%E4%BD%A0%E8%88%9E%E5%8F%B0%E5%A5%BD%E6%8B%BD%23&Refer=top)
+
+1. [KPL](https://s.weibo.com//weibo?q=KPL&Refer=top)
 
