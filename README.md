@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-30 06:08:34
+## 微博今日热榜 更新于 2021-03-30 07:07:50
 1. [10个最新新冠疫苗接种要点](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E6%9C%80%E6%96%B0%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%A6%81%E7%82%B9%23&Refer=new_time)
 
 1. [南大碎尸案家属正式起诉学校](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%A4%A7%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%AE%B6%E5%B1%9E%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
 1. [发觉自己不再年轻的瞬间](https://s.weibo.com//weibo?q=%23%E5%8F%91%E8%A7%89%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [巴基斯坦总统新冠病毒检测阳性](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%BB%9F%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23&Refer=top)
+
+1. [李梓萌不由自主把打疫苗标语唱了出来](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%A2%93%E8%90%8C%E4%B8%8D%E7%94%B1%E8%87%AA%E4%B8%BB%E6%8A%8A%E6%89%93%E7%96%AB%E8%8B%97%E6%A0%87%E8%AF%AD%E5%94%B1%E4%BA%86%E5%87%BA%E6%9D%A5%23&Refer=top)
 
