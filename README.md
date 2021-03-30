@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-30 11:13:46
+## 微博今日热榜 更新于 2021-03-30 12:09:43
 1. [10个最新新冠疫苗接种要点](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E6%9C%80%E6%96%B0%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%A6%81%E7%82%B9%23&Refer=new_time)
 
 1. [南大碎尸案家属正式起诉学校](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%A4%A7%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%AE%B6%E5%B1%9E%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%23&Refer=top)
@@ -214,4 +214,38 @@
 1. [货拉拉CEO反思信](https://s.weibo.com//weibo?q=%E8%B4%A7%E6%8B%89%E6%8B%89CEO%E5%8F%8D%E6%80%9D%E4%BF%A1&Refer=top)
 
 1. [张子枫举镜子的女孩](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AD%90%E6%9E%AB%E4%B8%BE%E9%95%9C%E5%AD%90%E7%9A%84%E5%A5%B3%E5%AD%A9&Refer=top)
+
+1. [4月起将实施的新规](https://s.weibo.com//weibo?q=%234%E6%9C%88%E8%B5%B7%E5%B0%86%E5%AE%9E%E6%96%BD%E7%9A%84%E6%96%B0%E8%A7%84%23&Refer=new_time)
+
+1. [专家说张哲瀚用眼影遮麦粒肿使不得](https://s.weibo.com//weibo?q=%E4%B8%93%E5%AE%B6%E8%AF%B4%E5%BC%A0%E5%93%B2%E7%80%9A%E7%94%A8%E7%9C%BC%E5%BD%B1%E9%81%AE%E9%BA%A6%E7%B2%92%E8%82%BF%E4%BD%BF%E4%B8%8D%E5%BE%97&Refer=top)
+
+1. [贵州将逐步取消少数民族高考加分](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%B0%86%E9%80%90%E6%AD%A5%E5%8F%96%E6%B6%88%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E9%AB%98%E8%80%83%E5%8A%A0%E5%88%86%23&Refer=top)
+
+1. [看见哥了吧 怎么还无动于衷啊](https://s.weibo.com//weibo?q=%E7%9C%8B%E8%A7%81%E5%93%A5%E4%BA%86%E5%90%A7%20%E6%80%8E%E4%B9%88%E8%BF%98%E6%97%A0%E5%8A%A8%E4%BA%8E%E8%A1%B7%E5%95%8A&Refer=top)
+
+1. [景甜跑步姿势](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF%23&Refer=top)
+
+1. [三兄弟垄断电力供应致小区总停电](https://s.weibo.com//weibo?q=%23%E4%B8%89%E5%85%84%E5%BC%9F%E5%9E%84%E6%96%AD%E7%94%B5%E5%8A%9B%E4%BE%9B%E5%BA%94%E8%87%B4%E5%B0%8F%E5%8C%BA%E6%80%BB%E5%81%9C%E7%94%B5%23&Refer=top)
+
+1. [文章](https://s.weibo.com//weibo?q=%E6%96%87%E7%AB%A0&Refer=top)
+
+1. [张艺兴赞多 Joker](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B5%9E%E5%A4%9A%20Joker&Refer=top)
+
+1. [蔡徐坤宫廷风造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%AE%AB%E5%BB%B7%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [中国共产党百年述职报告](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%99%BE%E5%B9%B4%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A%23&Refer=top)
+
+1. [缅怀凉山扑火勇士](https://s.weibo.com//weibo?q=%23%E7%BC%85%E6%80%80%E5%87%89%E5%B1%B1%E6%89%91%E7%81%AB%E5%8B%87%E5%A3%AB%23&Refer=top)
+
+1. [明星的民国造型能有多绝](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%9F%E7%9A%84%E6%B0%91%E5%9B%BD%E9%80%A0%E5%9E%8B%E8%83%BD%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
+
+1. [哈登38分](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB38%E5%88%86&Refer=top)
+
+1. [周云退役](https://s.weibo.com//weibo?q=%E5%91%A8%E4%BA%91%E9%80%80%E5%BD%B9&Refer=top)
+
+1. [椰香乳酪青团](https://s.weibo.com//weibo?q=%23%E6%A4%B0%E9%A6%99%E4%B9%B3%E9%85%AA%E9%9D%92%E5%9B%A2%23&Refer=top)
+
+1. [货拉拉推出7项安全功能](https://s.weibo.com//weibo?q=%E8%B4%A7%E6%8B%89%E6%8B%89%E6%8E%A8%E5%87%BA7%E9%A1%B9%E5%AE%89%E5%85%A8%E5%8A%9F%E8%83%BD&Refer=top)
 
