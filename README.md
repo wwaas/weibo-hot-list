@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 00:12:58
+## 微博今日热榜 更新于 2021-03-31 01:37:55
 1. [首版新冠病毒疫苗接种技术指南](https://s.weibo.com//weibo?q=%23%E9%A6%96%E7%89%88%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -102,4 +102,10 @@
 1. [熊妈妈带熊宝宝过马路](https://s.weibo.com//weibo?q=%23%E7%86%8A%E5%A6%88%E5%A6%88%E5%B8%A6%E7%86%8A%E5%AE%9D%E5%AE%9D%E8%BF%87%E9%A9%AC%E8%B7%AF%23&Refer=top)
 
 1. [美航母因苏伊士运河堵塞滞留地中海](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%88%AA%E6%AF%8D%E5%9B%A0%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E5%A0%B5%E5%A1%9E%E6%BB%9E%E7%95%99%E5%9C%B0%E4%B8%AD%E6%B5%B7&Refer=top)
+
+1. [小米发布会](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top)
+
+1. [张艺上演的端木翠](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E4%B8%8A%E6%BC%94%E7%9A%84%E7%AB%AF%E6%9C%A8%E7%BF%A0%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
