@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 04:08:40
+## 微博今日热榜 更新于 2021-03-31 05:07:27
 1. [首版新冠病毒疫苗接种技术指南](https://s.weibo.com//weibo?q=%23%E9%A6%96%E7%89%88%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -118,4 +118,6 @@
 1. [娜扎吐槽十二谭弹幕](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E5%90%90%E6%A7%BD%E5%8D%81%E4%BA%8C%E8%B0%AD%E5%BC%B9%E5%B9%95%23&Refer=top)
 
 1. [每朵云都有自己的故事](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E6%9C%B5%E4%BA%91%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%85%E4%BA%8B%23&Refer=top)
+
+1. [SpaceX星舰原型机空中失联解体](https://s.weibo.com//weibo?q=SpaceX%E6%98%9F%E8%88%B0%E5%8E%9F%E5%9E%8B%E6%9C%BA%E7%A9%BA%E4%B8%AD%E5%A4%B1%E8%81%94%E8%A7%A3%E4%BD%93&Refer=top)
 
