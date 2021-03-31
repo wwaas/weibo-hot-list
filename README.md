@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-03-31 08:23:17
+## 微博今日热榜 更新于 2021-03-31 09:51:50
 1. [首版新冠病毒疫苗接种技术指南](https://s.weibo.com//weibo?q=%23%E9%A6%96%E7%89%88%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [孙小果被执行死刑前画面公开](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%B0%8F%E6%9E%9C%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80%23&Refer=top)
@@ -172,4 +172,34 @@
 1. [100秒回顾海空卫士王伟事迹](https://s.weibo.com//weibo?q=100%E7%A7%92%E5%9B%9E%E9%A1%BE%E6%B5%B7%E7%A9%BA%E5%8D%AB%E5%A3%AB%E7%8E%8B%E4%BC%9F%E4%BA%8B%E8%BF%B9&Refer=top)
 
 1. [女教师举报评职黑幕被责令停课](https://s.weibo.com//weibo?q=%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%BE%E6%8A%A5%E8%AF%84%E8%81%8C%E9%BB%91%E5%B9%95%E8%A2%AB%E8%B4%A3%E4%BB%A4%E5%81%9C%E8%AF%BE&Refer=top)
+
+1. [云南新增6例本土确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E6%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [瑞丽](https://s.weibo.com//weibo?q=%E7%91%9E%E4%B8%BD&Refer=top)
+
+1. [拜登将宣布3万亿美元基建计划](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%B0%86%E5%AE%A3%E5%B8%833%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9F%BA%E5%BB%BA%E8%AE%A1%E5%88%92%23&Refer=top)
+
+1. [海外版Switch游戏机大量下架](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%A4%96%E7%89%88Switch%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%A4%A7%E9%87%8F%E4%B8%8B%E6%9E%B6%23&Refer=top)
+
+1. [小米造车以全资形式进行](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B3%E9%80%A0%E8%BD%A6%E4%BB%A5%E5%85%A8%E8%B5%84%E5%BD%A2%E5%BC%8F%E8%BF%9B%E8%A1%8C&Refer=top)
+
+1. [武汉一高校教室天花板掉落](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E6%95%99%E5%AE%A4%E5%A4%A9%E8%8A%B1%E6%9D%BF%E6%8E%89%E8%90%BD%23&Refer=top)
+
+1. [华安基金终止与不当言论员工劳动关系](https://s.weibo.com//weibo?q=%E5%8D%8E%E5%AE%89%E5%9F%BA%E9%87%91%E7%BB%88%E6%AD%A2%E4%B8%8E%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E5%91%98%E5%B7%A5%E5%8A%B3%E5%8A%A8%E5%85%B3%E7%B3%BB&Refer=top)
+
+1. [邢菲春漾泡沫长裙](https://s.weibo.com//weibo?q=%E9%82%A2%E8%8F%B2%E6%98%A5%E6%BC%BE%E6%B3%A1%E6%B2%AB%E9%95%BF%E8%A3%99&Refer=top)
+
+1. [周悦恋爱焦虑](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%82%A6%E6%81%8B%E7%88%B1%E7%84%A6%E8%99%91%23&Refer=top)
+
+1. [重庆杜鹃花海](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E6%9D%9C%E9%B9%83%E8%8A%B1%E6%B5%B7&Refer=top)
+
+1. [施罗德拒绝湖人续约建议](https://s.weibo.com//weibo?q=%E6%96%BD%E7%BD%97%E5%BE%B7%E6%8B%92%E7%BB%9D%E6%B9%96%E4%BA%BA%E7%BB%AD%E7%BA%A6%E5%BB%BA%E8%AE%AE&Refer=top)
+
+1. [世卫专家组对武汉人民表达诚挚的感谢](https://s.weibo.com//weibo?q=%E4%B8%96%E5%8D%AB%E4%B8%93%E5%AE%B6%E7%BB%84%E5%AF%B9%E6%AD%A6%E6%B1%89%E4%BA%BA%E6%B0%91%E8%A1%A8%E8%BE%BE%E8%AF%9A%E6%8C%9A%E7%9A%84%E6%84%9F%E8%B0%A2&Refer=top)
+
+1. [世卫专家称赞中方合作太给力](https://s.weibo.com//weibo?q=%E4%B8%96%E5%8D%AB%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%B5%9E%E4%B8%AD%E6%96%B9%E5%90%88%E4%BD%9C%E5%A4%AA%E7%BB%99%E5%8A%9B&Refer=top)
+
+1. [网红小伙加入海军陆战队](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E4%BC%99%E5%8A%A0%E5%85%A5%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%23&Refer=top)
+
+1. [天津地铁9号线故障](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E5%9C%B0%E9%93%819%E5%8F%B7%E7%BA%BF%E6%95%85%E9%9A%9C&Refer=top)
 
