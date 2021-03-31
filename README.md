@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 03:12:31
+## 微博今日热榜 更新于 2021-04-01 04:08:52
 1. [中国天眼向全世界开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%90%91%E5%85%A8%E4%B8%96%E7%95%8C%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
