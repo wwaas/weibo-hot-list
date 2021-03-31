@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 05:07:41
+## 微博今日热榜 更新于 2021-04-01 06:08:34
 1. [中国天眼向全世界开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%90%91%E5%85%A8%E4%B8%96%E7%95%8C%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -122,4 +122,10 @@
 1. [杨采钰空气蓝纱裙](https://s.weibo.com//weibo?q=%E6%9D%A8%E9%87%87%E9%92%B0%E7%A9%BA%E6%B0%94%E8%93%9D%E7%BA%B1%E8%A3%99&Refer=top)
 
 1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [北约战机一天升空10次伴飞俄战机](https://s.weibo.com//weibo?q=%E5%8C%97%E7%BA%A6%E6%88%98%E6%9C%BA%E4%B8%80%E5%A4%A9%E5%8D%87%E7%A9%BA10%E6%AC%A1%E4%BC%B4%E9%A3%9E%E4%BF%84%E6%88%98%E6%9C%BA&Refer=top)
+
+1. [4月天象时间表](https://s.weibo.com//weibo?q=%234%E6%9C%88%E5%A4%A9%E8%B1%A1%E6%97%B6%E9%97%B4%E8%A1%A8%23&Refer=top)
+
+1. [反剽窃基金管委会成立](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E5%89%BD%E7%AA%83%E5%9F%BA%E9%87%91%E7%AE%A1%E5%A7%94%E4%BC%9A%E6%88%90%E7%AB%8B%23&Refer=top)
 
