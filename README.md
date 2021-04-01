@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 10:46:57
+## 微博今日热榜 更新于 2021-04-01 11:16:09
 1. [中国天眼向全世界开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%90%91%E5%85%A8%E4%B8%96%E7%95%8C%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -222,4 +222,18 @@
 1. [叶刘淑仪质问BBC主持人](https://s.weibo.com//weibo?q=%E5%8F%B6%E5%88%98%E6%B7%91%E4%BB%AA%E8%B4%A8%E9%97%AEBBC%E4%B8%BB%E6%8C%81%E4%BA%BA&Refer=top)
 
 1. [韩国30至39岁未婚者超半数啃老](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD30%E8%87%B339%E5%B2%81%E6%9C%AA%E5%A9%9A%E8%80%85%E8%B6%85%E5%8D%8A%E6%95%B0%E5%95%83%E8%80%81%23&Refer=top)
+
+1. [当众求婚算道德绑架吗](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BC%97%E6%B1%82%E5%A9%9A%E7%AE%97%E9%81%93%E5%BE%B7%E7%BB%91%E6%9E%B6%E5%90%97%23&Refer=top)
+
+1. [庄神湖人首秀](https://s.weibo.com//weibo?q=%23%E5%BA%84%E7%A5%9E%E6%B9%96%E4%BA%BA%E9%A6%96%E7%A7%80%23&Refer=top)
+
+1. [纽约警方逮捕涉殴打亚裔老太太的男子](https://s.weibo.com//weibo?q=%E7%BA%BD%E7%BA%A6%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95%E6%B6%89%E6%AE%B4%E6%89%93%E4%BA%9A%E8%A3%94%E8%80%81%E5%A4%AA%E5%A4%AA%E7%9A%84%E7%94%B7%E5%AD%90&Refer=top)
+
+1. [看完眼科后的社死瞬间](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E5%AE%8C%E7%9C%BC%E7%A7%91%E5%90%8E%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%9E%AC%E9%97%B4%23&Refer=top)
+
+1. [袁咏仪缅怀张国荣](https://s.weibo.com//weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%E7%BC%85%E6%80%80%E5%BC%A0%E5%9B%BD%E8%8D%A3&Refer=top)
+
+1. [雄鹿 湖人](https://s.weibo.com//weibo?q=%E9%9B%84%E9%B9%BF%20%E6%B9%96%E4%BA%BA&Refer=top)
+
+1. [暖春元气少女妆](https://s.weibo.com//weibo?q=%23%E6%9A%96%E6%98%A5%E5%85%83%E6%B0%94%E5%B0%91%E5%A5%B3%E5%A6%86%23&Refer=top)
 
