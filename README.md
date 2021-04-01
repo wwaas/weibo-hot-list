@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 18:08:40
+## 微博今日热榜 更新于 2021-04-01 19:07:31
 1. [中国天眼向全世界开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%90%91%E5%85%A8%E4%B8%96%E7%95%8C%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -390,4 +390,24 @@
 1. [LG将退出智能手机业务](https://s.weibo.com//weibo?q=LG%E5%B0%86%E9%80%80%E5%87%BA%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1&Refer=top)
 
 1. [超显白橘子少女妆](https://s.weibo.com//weibo?q=%23%E8%B6%85%E6%98%BE%E7%99%BD%E6%A9%98%E5%AD%90%E5%B0%91%E5%A5%B3%E5%A6%86%23&Refer=top)
+
+1. [新冠病毒疫苗接种问答](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E9%97%AE%E7%AD%94%23&Refer=top)
+
+1. [苏伊士运河堵船是否影响中国外贸](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E5%A0%B5%E8%88%B9%E6%98%AF%E5%90%A6%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%23&Refer=top)
+
+1. [杨洋18宫格自拍是同一张](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B18%E5%AE%AB%E6%A0%BC%E8%87%AA%E6%8B%8D%E6%98%AF%E5%90%8C%E4%B8%80%E5%BC%A0%23&Refer=top)
+
+1. [警方通报男子勒死妻女自杀](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%8B%92%E6%AD%BB%E5%A6%BB%E5%A5%B3%E8%87%AA%E6%9D%80%23&Refer=top)
+
+1. [河南一女子身份被冒用贷款200万](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BB%BD%E8%A2%AB%E5%86%92%E7%94%A8%E8%B4%B7%E6%AC%BE200%E4%B8%87&Refer=top)
+
+1. [苏州440年紫藤花盛开如瀑布](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%B7%9E440%E5%B9%B4%E7%B4%AB%E8%97%A4%E8%8A%B1%E7%9B%9B%E5%BC%80%E5%A6%82%E7%80%91%E5%B8%83%23&Refer=top)
+
+1. [中棉协邀请国外行业协会赴新疆调研](https://s.weibo.com//weibo?q=%E4%B8%AD%E6%A3%89%E5%8D%8F%E9%82%80%E8%AF%B7%E5%9B%BD%E5%A4%96%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E8%B5%B4%E6%96%B0%E7%96%86%E8%B0%83%E7%A0%94&Refer=top)
+
+1. [男子请求政府介绍对象被拒](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E8%AF%B7%E6%B1%82%E6%94%BF%E5%BA%9C%E4%BB%8B%E7%BB%8D%E5%AF%B9%E8%B1%A1%E8%A2%AB%E6%8B%92&Refer=top)
+
+1. [贵州百里杜鹃花海](https://s.weibo.com//weibo?q=%E8%B4%B5%E5%B7%9E%E7%99%BE%E9%87%8C%E6%9D%9C%E9%B9%83%E8%8A%B1%E6%B5%B7&Refer=top)
+
+1. [第十四届全运会](https://s.weibo.com//weibo?q=%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A&Refer=top)
 
