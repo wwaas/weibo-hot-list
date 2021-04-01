@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-01 09:59:55
+## 微博今日热榜 更新于 2021-04-01 10:46:57
 1. [中国天眼向全世界开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%90%91%E5%85%A8%E4%B8%96%E7%95%8C%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [杨紫 碰到了这么多好朋友还有酒喝](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E7%A2%B0%E5%88%B0%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E8%BF%98%E6%9C%89%E9%85%92%E5%96%9D&Refer=top)
@@ -204,4 +204,22 @@
 1. [哈登伤退](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E4%BC%A4%E9%80%80&Refer=top)
 
 1. [五百万够普通家庭用多久](https://s.weibo.com//weibo?q=%23%E4%BA%94%E7%99%BE%E4%B8%87%E5%A4%9F%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E7%94%A8%E5%A4%9A%E4%B9%85%23&Refer=top)
+
+1. [汪东城晒接吻照表白](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E4%B8%9C%E5%9F%8E%E6%99%92%E6%8E%A5%E5%90%BB%E7%85%A7%E8%A1%A8%E7%99%BD%23&Refer=top)
+
+1. [iOS14.5不再默认为女性语音](https://s.weibo.com//weibo?q=iOS14.5%E4%B8%8D%E5%86%8D%E9%BB%98%E8%AE%A4%E4%B8%BA%E5%A5%B3%E6%80%A7%E8%AF%AD%E9%9F%B3&Refer=top)
+
+1. [劝邻桌勿吸烟女子已获道歉赔偿](https://s.weibo.com//weibo?q=%E5%8A%9D%E9%82%BB%E6%A1%8C%E5%8B%BF%E5%90%B8%E7%83%9F%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%8E%B7%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF&Refer=top)
+
+1. [华为回应智能汽车业务](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E5%8A%A1&Refer=top)
+
+1. [让鼻孔通气的小技巧](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E9%BC%BB%E5%AD%94%E9%80%9A%E6%B0%94%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7%23&Refer=top)
+
+1. [日本宠物数量已超儿童人数](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E5%AE%A0%E7%89%A9%E6%95%B0%E9%87%8F%E5%B7%B2%E8%B6%85%E5%84%BF%E7%AB%A5%E4%BA%BA%E6%95%B0&Refer=top)
+
+1. [马斯克回应SpaceX星舰爆炸](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94SpaceX%E6%98%9F%E8%88%B0%E7%88%86%E7%82%B8&Refer=top)
+
+1. [叶刘淑仪质问BBC主持人](https://s.weibo.com//weibo?q=%E5%8F%B6%E5%88%98%E6%B7%91%E4%BB%AA%E8%B4%A8%E9%97%AEBBC%E4%B8%BB%E6%8C%81%E4%BA%BA&Refer=top)
+
+1. [韩国30至39岁未婚者超半数啃老](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD30%E8%87%B339%E5%B2%81%E6%9C%AA%E5%A9%9A%E8%80%85%E8%B6%85%E5%8D%8A%E6%95%B0%E5%95%83%E8%80%81%23&Refer=top)
 
