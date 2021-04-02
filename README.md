@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 21:17:31
+## 微博今日热榜 更新于 2021-04-02 22:08:35
 1. [为什么应尽快接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E5%B0%BD%E5%BF%AB%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -512,4 +512,26 @@
 1. [初恋草莓爆浆雪胖子](https://s.weibo.com//weibo?q=%23%E5%88%9D%E6%81%8B%E8%8D%89%E8%8E%93%E7%88%86%E6%B5%86%E9%9B%AA%E8%83%96%E5%AD%90%23&Refer=top)
 
 1. [顶楼大结局](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
+
+1. [张子枫演技](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%BC%94%E6%8A%80&Refer=top)
+
+1. [沈腾追Angelababy时摔倒](https://s.weibo.com//weibo?q=%E6%B2%88%E8%85%BE%E8%BF%BDAngelababy%E6%97%B6%E6%91%94%E5%80%92&Refer=top)
+
+1. [皓衣行](https://s.weibo.com//weibo?q=%E7%9A%93%E8%A1%A3%E8%A1%8C&Refer=top)
+
+1. [王源粉色头发](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%BA%90%E7%B2%89%E8%89%B2%E5%A4%B4%E5%8F%91&Refer=top)
+
+1. [女鼓手称父亲操作大学成绩](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E9%BC%93%E6%89%8B%E7%A7%B0%E7%88%B6%E4%BA%B2%E6%93%8D%E4%BD%9C%E5%A4%A7%E5%AD%A6%E6%88%90%E7%BB%A9%23&Refer=top)
+
+1. [邢克垒撒娇哄米佧](https://s.weibo.com//weibo?q=%23%E9%82%A2%E5%85%8B%E5%9E%92%E6%92%92%E5%A8%87%E5%93%84%E7%B1%B3%E4%BD%A7%23&Refer=top)
+
+1. [王子文还记得曲筱绡的台词](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E8%BF%98%E8%AE%B0%E5%BE%97%E6%9B%B2%E7%AD%B1%E7%BB%A1%E7%9A%84%E5%8F%B0%E8%AF%8D&Refer=top)
+
+1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
+
+1. [华晨宇一人分饰赵四刘能](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E4%B8%80%E4%BA%BA%E5%88%86%E9%A5%B0%E8%B5%B5%E5%9B%9B%E5%88%98%E8%83%BD%23&Refer=top)
+
+1. [赵露思哭戏代入感](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%93%AD%E6%88%8F%E4%BB%A3%E5%85%A5%E6%84%9F%23&Refer=top)
+
+1. [不得通过举办讲座等销售课外读物](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%BE%97%E9%80%9A%E8%BF%87%E4%B8%BE%E5%8A%9E%E8%AE%B2%E5%BA%A7%E7%AD%89%E9%94%80%E5%94%AE%E8%AF%BE%E5%A4%96%E8%AF%BB%E7%89%A9%23&Refer=top)
 
