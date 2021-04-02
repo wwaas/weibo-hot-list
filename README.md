@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 06:08:30
+## 微博今日热榜 更新于 2021-04-03 07:09:11
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -128,4 +128,10 @@
 1. [龚俊工作室](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4&Refer=top)
 
 1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [永远记住你](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23&Refer=new_time)
+
+1. [李振宁赵磊杀破狼舞台](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%8C%AF%E5%AE%81%E8%B5%B5%E7%A3%8A%E6%9D%80%E7%A0%B4%E7%8B%BC%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [印度推出造价90万元的飞机](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%8E%A8%E5%87%BA%E9%80%A0%E4%BB%B790%E4%B8%87%E5%85%83%E7%9A%84%E9%A3%9E%E6%9C%BA%23&Refer=top)
 
