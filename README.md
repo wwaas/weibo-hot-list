@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-02 19:06:57
+## 微博今日热榜 更新于 2021-04-02 20:11:23
 1. [为什么应尽快接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E5%B0%BD%E5%BF%AB%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=new_time)
 
 1. [黄奕 实力不允许我男朋友坐经济舱](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%20%E5%AE%9E%E5%8A%9B%E4%B8%8D%E5%85%81%E8%AE%B8%E6%88%91%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%9D%90%E7%BB%8F%E6%B5%8E%E8%88%B1&Refer=top)
@@ -458,4 +458,20 @@
 1. [LNG SN](https://s.weibo.com//weibo?q=%23LNG%20SN%23&Refer=top)
 
 1. [20多国使节新疆参观后称眼见为实](https://s.weibo.com//weibo?q=%2320%E5%A4%9A%E5%9B%BD%E4%BD%BF%E8%8A%82%E6%96%B0%E7%96%86%E5%8F%82%E8%A7%82%E5%90%8E%E7%A7%B0%E7%9C%BC%E8%A7%81%E4%B8%BA%E5%AE%9E%23&Refer=top)
+
+1. [龚俊工作室](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E5%B7%A5%E4%BD%9C%E5%AE%A4&Refer=top)
+
+1. [利路修 天生爱豆](https://s.weibo.com//weibo?q=%E5%88%A9%E8%B7%AF%E4%BF%AE%20%E5%A4%A9%E7%94%9F%E7%88%B1%E8%B1%86&Refer=top)
+
+1. [广东省考成绩](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [VG](https://s.weibo.com//weibo?q=VG&Refer=top)
+
+1. [广州发布最新楼市调控](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A5%BC%E5%B8%82%E8%B0%83%E6%8E%A7&Refer=top)
+
+1. [成毅](https://s.weibo.com//weibo?q=%E6%88%90%E6%AF%85&Refer=top)
+
+1. [SN战胜LNG](https://s.weibo.com//weibo?q=%23SN%E6%88%98%E8%83%9CLNG%23&Refer=top)
+
+1. [新冠疫苗接种20问](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D20%E9%97%AE%23&Refer=top)
 
