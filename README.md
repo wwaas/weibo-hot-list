@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 03:14:57
+## 微博今日热榜 更新于 2021-04-03 04:08:24
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [青你3二公排名](https://s.weibo.com//weibo?q=%E9%9D%92%E4%BD%A03%E4%BA%8C%E5%85%AC%E6%8E%92%E5%90%8D&Refer=top)
 
 1. [关睿怡淘汰](https://s.weibo.com//weibo?q=%23%E5%85%B3%E7%9D%BF%E6%80%A1%E6%B7%98%E6%B1%B0%23&Refer=top)
+
+1. [不得通过举办讲座等销售课外读物](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%BE%97%E9%80%9A%E8%BF%87%E4%B8%BE%E5%8A%9E%E8%AE%B2%E5%BA%A7%E7%AD%89%E9%94%80%E5%94%AE%E8%AF%BE%E5%A4%96%E8%AF%BB%E7%89%A9%23&Refer=top)
 
