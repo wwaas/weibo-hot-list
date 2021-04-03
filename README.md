@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 06:08:21
+## 微博今日热榜 更新于 2021-04-04 07:08:46
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -136,4 +136,8 @@
 1. [薛八一想要只属于自己的特写](https://s.weibo.com//weibo?q=%E8%96%9B%E5%85%AB%E4%B8%80%E6%83%B3%E8%A6%81%E5%8F%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E7%89%B9%E5%86%99&Refer=top)
 
 1. [哥斯拉大战金刚](https://s.weibo.com//weibo?q=%E5%93%A5%E6%96%AF%E6%8B%89%E5%A4%A7%E6%88%98%E9%87%91%E5%88%9A&Refer=top)
+
+1. [清明节](https://s.weibo.com//weibo?q=%23%E6%B8%85%E6%98%8E%E8%8A%82%23&Refer=top)
+
+1. [邓紫棋带男友和窦骁何超莲聚餐](https://s.weibo.com//weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B8%A6%E7%94%B7%E5%8F%8B%E5%92%8C%E7%AA%A6%E9%AA%81%E4%BD%95%E8%B6%85%E8%8E%B2%E8%81%9A%E9%A4%90&Refer=top)
 
