@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 11:14:17
+## 微博今日热榜 更新于 2021-04-03 12:10:26
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -228,4 +228,22 @@
 1. [祖孙三代守护无名红军墓87年](https://s.weibo.com//weibo?q=%23%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E5%AE%88%E6%8A%A4%E6%97%A0%E5%90%8D%E7%BA%A2%E5%86%9B%E5%A2%9387%E5%B9%B4%23&Refer=top)
 
 1. [记者播报时被狗狗抢走话筒](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E8%80%85%E6%92%AD%E6%8A%A5%E6%97%B6%E8%A2%AB%E7%8B%97%E7%8B%97%E6%8A%A2%E8%B5%B0%E8%AF%9D%E7%AD%92%23&Refer=top)
+
+1. [大学老师课上讲焦裕禄故事动情落泪](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E8%AE%B2%E7%84%A6%E8%A3%95%E7%A6%84%E6%95%85%E4%BA%8B%E5%8A%A8%E6%83%85%E8%90%BD%E6%B3%AA%23&Refer=top)
+
+1. [白敬亭脱鞋脱了个寂寞](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%84%B1%E9%9E%8B%E8%84%B1%E4%BA%86%E4%B8%AA%E5%AF%82%E5%AF%9E%23&Refer=top)
+
+1. [云南瑞丽玉石直播暂停](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%91%9E%E4%B8%BD%E7%8E%89%E7%9F%B3%E7%9B%B4%E6%92%AD%E6%9A%82%E5%81%9C%23&Refer=top)
+
+1. [拜登下令白宫降半旗向埃文斯致哀](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E4%B8%8B%E4%BB%A4%E7%99%BD%E5%AE%AB%E9%99%8D%E5%8D%8A%E6%97%97%E5%90%91%E5%9F%83%E6%96%87%E6%96%AF%E8%87%B4%E5%93%80%23&Refer=top)
+
+1. [原来派大星的坐姿是真的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9A%84%E5%9D%90%E5%A7%BF%E6%98%AF%E7%9C%9F%E7%9A%84%23&Refer=top)
+
+1. [Angelababy晒樱花自拍](https://s.weibo.com//weibo?q=%23Angelababy%E6%99%92%E6%A8%B1%E8%8A%B1%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [美式咖啡用英语怎么说](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%BC%8F%E5%92%96%E5%95%A1%E7%94%A8%E8%8B%B1%E8%AF%AD%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=top)
+
+1. [警校生女儿追忆牺牲警察父亲](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%A0%A1%E7%94%9F%E5%A5%B3%E5%84%BF%E8%BF%BD%E5%BF%86%E7%89%BA%E7%89%B2%E8%AD%A6%E5%AF%9F%E7%88%B6%E4%BA%B2%23&Refer=top)
+
+1. [猛龙53分大胜勇士](https://s.weibo.com//weibo?q=%23%E7%8C%9B%E9%BE%9953%E5%88%86%E5%A4%A7%E8%83%9C%E5%8B%87%E5%A3%AB%23&Refer=top)
 
