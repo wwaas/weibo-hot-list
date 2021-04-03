@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 07:09:11
+## 微博今日热榜 更新于 2021-04-03 08:27:51
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -134,4 +134,36 @@
 1. [李振宁赵磊杀破狼舞台](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%8C%AF%E5%AE%81%E8%B5%B5%E7%A3%8A%E6%9D%80%E7%A0%B4%E7%8B%BC%E8%88%9E%E5%8F%B0%23&Refer=top)
 
 1. [印度推出造价90万元的飞机](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%8E%A8%E5%87%BA%E9%80%A0%E4%BB%B790%E4%B8%87%E5%85%83%E7%9A%84%E9%A3%9E%E6%9C%BA%23&Refer=top)
+
+1. [吴尊友解释国内疫情不严重为何打疫苗](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E8%A7%A3%E9%87%8A%E5%9B%BD%E5%86%85%E7%96%AB%E6%83%85%E4%B8%8D%E4%B8%A5%E9%87%8D%E4%B8%BA%E4%BD%95%E6%89%93%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [坐高铁通勤是什么体验](https://s.weibo.com//weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E9%80%9A%E5%8B%A4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
+
+1. [台铁局称列车脱轨系工程车滑落导致](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E5%B1%80%E7%A7%B0%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E7%B3%BB%E5%B7%A5%E7%A8%8B%E8%BD%A6%E6%BB%91%E8%90%BD%E5%AF%BC%E8%87%B4&Refer=top)
+
+1. [快跑](https://s.weibo.com//weibo?q=%E5%BF%AB%E8%B7%91&Refer=top)
+
+1. [周迅演技](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [小托马斯与鹈鹕签10天短合同](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%89%98%E9%A9%AC%E6%96%AF%E4%B8%8E%E9%B9%88%E9%B9%95%E7%AD%BE10%E5%A4%A9%E7%9F%AD%E5%90%88%E5%90%8C&Refer=top)
+
+1. [苏伊士运河排队船只已接近全部通过](https://s.weibo.com//weibo?q=%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E6%8E%92%E9%98%9F%E8%88%B9%E5%8F%AA%E5%B7%B2%E6%8E%A5%E8%BF%91%E5%85%A8%E9%83%A8%E9%80%9A%E8%BF%87&Refer=top)
+
+1. [叶青 定妆照](https://s.weibo.com//weibo?q=%E5%8F%B6%E9%9D%92%20%E5%AE%9A%E5%A6%86%E7%85%A7&Refer=top)
+
+1. [如何快速与新同事拉近关系](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E4%B8%8E%E6%96%B0%E5%90%8C%E4%BA%8B%E6%8B%89%E8%BF%91%E5%85%B3%E7%B3%BB%23&Refer=top)
+
+1. [他们牺牲时如此年轻](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E7%89%BA%E7%89%B2%E6%97%B6%E5%A6%82%E6%AD%A4%E5%B9%B4%E8%BD%BB%23&Refer=top)
+
+1. [3D还原台铁太鲁阁号出轨事故](https://s.weibo.com//weibo?q=%233D%E8%BF%98%E5%8E%9F%E5%8F%B0%E9%93%81%E5%A4%AA%E9%B2%81%E9%98%81%E5%8F%B7%E5%87%BA%E8%BD%A8%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [戍边英雄牺牲后的第一个清明节](https://s.weibo.com//weibo?q=%23%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84%E7%89%BA%E7%89%B2%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B8%85%E6%98%8E%E8%8A%82%23&Refer=top)
+
+1. [戍边英雄被画进沙画](https://s.weibo.com//weibo?q=%23%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84%E8%A2%AB%E7%94%BB%E8%BF%9B%E6%B2%99%E7%94%BB%23&Refer=top)
+
+1. [如果全面禁止加班会怎么样](https://s.weibo.com//weibo?q=%23%E5%A6%82%E6%9E%9C%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%8A%A0%E7%8F%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7%23&Refer=top)
+
+1. [新疆牧民北斗卫星放牧](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E7%89%A7%E6%B0%91%E5%8C%97%E6%96%97%E5%8D%AB%E6%98%9F%E6%94%BE%E7%89%A7&Refer=top)
+
+1. [广州人才房限售年限延至3年](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E4%BA%BA%E6%89%8D%E6%88%BF%E9%99%90%E5%94%AE%E5%B9%B4%E9%99%90%E5%BB%B6%E8%87%B33%E5%B9%B4&Refer=top)
 
