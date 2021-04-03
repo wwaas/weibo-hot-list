@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 15:11:32
+## 微博今日热榜 更新于 2021-04-03 16:08:58
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -320,4 +320,32 @@
 1. [中国新冠疫苗首次获得欧盟GMP认证](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E9%A6%96%E6%AC%A1%E8%8E%B7%E5%BE%97%E6%AC%A7%E7%9B%9FGMP%E8%AE%A4%E8%AF%81%23&Refer=top)
 
 1. [湖人大胜国王](https://s.weibo.com//weibo?q=%23%E6%B9%96%E4%BA%BA%E5%A4%A7%E8%83%9C%E5%9B%BD%E7%8E%8B%23&Refer=top)
+
+1. [向台湾列车出轨事故遇难同胞表示哀悼](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%8F%B0%E6%B9%BE%E5%88%97%E8%BD%A6%E5%87%BA%E8%BD%A8%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E5%90%8C%E8%83%9E%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC%23&Refer=top)
+
+1. [黄英儿子给Lucky写信](https://s.weibo.com//weibo?q=%E9%BB%84%E8%8B%B1%E5%84%BF%E5%AD%90%E7%BB%99Lucky%E5%86%99%E4%BF%A1&Refer=top)
+
+1. [杨幂 姐姐就是嘴甜](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%20%E5%A7%90%E5%A7%90%E5%B0%B1%E6%98%AF%E5%98%B4%E7%94%9C&Refer=top)
+
+1. [狗勾走路翻车现场](https://s.weibo.com//weibo?q=%E7%8B%97%E5%8B%BE%E8%B5%B0%E8%B7%AF%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [酒泉一班主任被曝对学生罚款数万](https://s.weibo.com//weibo?q=%23%E9%85%92%E6%B3%89%E4%B8%80%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9B%9D%E5%AF%B9%E5%AD%A6%E7%94%9F%E7%BD%9A%E6%AC%BE%E6%95%B0%E4%B8%87%23&Refer=top)
+
+1. [杜兰特因不当言论被罚款5万](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%85%B0%E7%89%B9%E5%9B%A0%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%E8%A2%AB%E7%BD%9A%E6%AC%BE5%E4%B8%87&Refer=top)
+
+1. [我国已接种新冠疫苗13380.1万剂次](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E5%B7%B2%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%9713380.1%E4%B8%87%E5%89%82%E6%AC%A1&Refer=top)
+
+1. [福建一小车坠溪致3人死亡](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%B0%8F%E8%BD%A6%E5%9D%A0%E6%BA%AA%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [2021年全军面向社会公开招考文职](https://s.weibo.com//weibo?q=2021%E5%B9%B4%E5%85%A8%E5%86%9B%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%80%83%E6%96%87%E8%81%8C&Refer=top)
+
+1. [抗疫英烈女儿说爸爸能不能来梦里看我](https://s.weibo.com//weibo?q=%23%E6%8A%97%E7%96%AB%E8%8B%B1%E7%83%88%E5%A5%B3%E5%84%BF%E8%AF%B4%E7%88%B8%E7%88%B8%E8%83%BD%E4%B8%8D%E8%83%BD%E6%9D%A5%E6%A2%A6%E9%87%8C%E7%9C%8B%E6%88%91%23&Refer=top)
+
+1. [2020年因公牺牲民警名单](https://s.weibo.com//weibo?q=2020%E5%B9%B4%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%E6%B0%91%E8%AD%A6%E5%90%8D%E5%8D%95&Refer=top)
+
+1. [此次云南瑞丽疫情病毒由缅甸输入](https://s.weibo.com//weibo?q=%23%E6%AD%A4%E6%AC%A1%E4%BA%91%E5%8D%97%E7%91%9E%E4%B8%BD%E7%96%AB%E6%83%85%E7%97%85%E6%AF%92%E7%94%B1%E7%BC%85%E7%94%B8%E8%BE%93%E5%85%A5%23&Refer=top)
+
+1. [如何不提雪字描述雪很大](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E4%B8%8D%E6%8F%90%E9%9B%AA%E5%AD%97%E6%8F%8F%E8%BF%B0%E9%9B%AA%E5%BE%88%E5%A4%A7%23&Refer=top)
+
+1. [顶楼锡京仿妆](https://s.weibo.com//weibo?q=%23%E9%A1%B6%E6%A5%BC%E9%94%A1%E4%BA%AC%E4%BB%BF%E5%A6%86%23&Refer=top)
 
