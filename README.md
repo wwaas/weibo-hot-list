@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 10:34:07
+## 微博今日热榜 更新于 2021-04-03 11:14:17
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -216,4 +216,16 @@
 1. [美国完成疫苗接种的个人可恢复旅行](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%8C%E6%88%90%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8F%AF%E6%81%A2%E5%A4%8D%E6%97%85%E8%A1%8C%23&Refer=top)
 
 1. [台铁列车脱轨遇难司机刚结婚不久](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%93%81%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E9%81%87%E9%9A%BE%E5%8F%B8%E6%9C%BA%E5%88%9A%E7%BB%93%E5%A9%9A%E4%B8%8D%E4%B9%85%23&Refer=top)
+
+1. [我家有烈士](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%AE%B6%E6%9C%89%E7%83%88%E5%A3%AB%23&Refer=new_time)
+
+1. [台铁事故中一名大陆学生轻微擦伤](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%93%81%E4%BA%8B%E6%95%85%E4%B8%AD%E4%B8%80%E5%90%8D%E5%A4%A7%E9%99%86%E5%AD%A6%E7%94%9F%E8%BD%BB%E5%BE%AE%E6%93%A6%E4%BC%A4%23&Refer=top)
+
+1. [玉渊潭樱花](https://s.weibo.com//weibo?q=%23%E7%8E%89%E6%B8%8A%E6%BD%AD%E6%A8%B1%E8%8A%B1%23&Refer=top)
+
+1. [陕西汉江河床袒露宛若水墨画](https://s.weibo.com//weibo?q=%E9%99%95%E8%A5%BF%E6%B1%89%E6%B1%9F%E6%B2%B3%E5%BA%8A%E8%A2%92%E9%9C%B2%E5%AE%9B%E8%8B%A5%E6%B0%B4%E5%A2%A8%E7%94%BB&Refer=top)
+
+1. [祖孙三代守护无名红军墓87年](https://s.weibo.com//weibo?q=%23%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E5%AE%88%E6%8A%A4%E6%97%A0%E5%90%8D%E7%BA%A2%E5%86%9B%E5%A2%9387%E5%B9%B4%23&Refer=top)
+
+1. [记者播报时被狗狗抢走话筒](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E8%80%85%E6%92%AD%E6%8A%A5%E6%97%B6%E8%A2%AB%E7%8B%97%E7%8B%97%E6%8A%A2%E8%B5%B0%E8%AF%9D%E7%AD%92%23&Refer=top)
 
