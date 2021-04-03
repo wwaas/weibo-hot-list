@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-03 09:55:34
+## 微博今日热榜 更新于 2021-04-03 10:34:07
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [陈思诚原想把张子枫吻戏留给刘昊然](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E5%8E%9F%E6%83%B3%E6%8A%8A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%BB%E6%88%8F%E7%95%99%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%23&Refer=top)
@@ -198,4 +198,22 @@
 1. [湖人将允许球迷入场观战](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E5%B0%86%E5%85%81%E8%AE%B8%E7%90%83%E8%BF%B7%E5%85%A5%E5%9C%BA%E8%A7%82%E6%88%98&Refer=top)
 
 1. [常华森选了受伤的孙滢皓对决](https://s.weibo.com//weibo?q=%23%E5%B8%B8%E5%8D%8E%E6%A3%AE%E9%80%89%E4%BA%86%E5%8F%97%E4%BC%A4%E7%9A%84%E5%AD%99%E6%BB%A2%E7%9A%93%E5%AF%B9%E5%86%B3%23&Refer=top)
+
+1. [假如能和五年前通话一分钟](https://s.weibo.com//weibo?q=%23%E5%81%87%E5%A6%82%E8%83%BD%E5%92%8C%E4%BA%94%E5%B9%B4%E5%89%8D%E9%80%9A%E8%AF%9D%E4%B8%80%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [美国国会大厦发生袭警](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%A4%A7%E5%8E%A6%E5%8F%91%E7%94%9F%E8%A2%AD%E8%AD%A6&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [刘惜君赵磊 不该](https://s.weibo.com//weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%E8%B5%B5%E7%A3%8A%20%E4%B8%8D%E8%AF%A5&Refer=top)
+
+1. [31省区市新增26例确诊病例](https://s.weibo.com//weibo?q=31%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E26%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&Refer=top)
+
+1. [老人每周都为亡妻买3支玫瑰](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E6%AF%8F%E5%91%A8%E9%83%BD%E4%B8%BA%E4%BA%A1%E5%A6%BB%E4%B9%B03%E6%94%AF%E7%8E%AB%E7%91%B0%23&Refer=top)
+
+1. [高校保安湖畔弹钢琴](https://s.weibo.com//weibo?q=%E9%AB%98%E6%A0%A1%E4%BF%9D%E5%AE%89%E6%B9%96%E7%95%94%E5%BC%B9%E9%92%A2%E7%90%B4&Refer=top)
+
+1. [美国完成疫苗接种的个人可恢复旅行](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%8C%E6%88%90%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8F%AF%E6%81%A2%E5%A4%8D%E6%97%85%E8%A1%8C%23&Refer=top)
+
+1. [台铁列车脱轨遇难司机刚结婚不久](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%93%81%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E9%81%87%E9%9A%BE%E5%8F%B8%E6%9C%BA%E5%88%9A%E7%BB%93%E5%A9%9A%E4%B8%8D%E4%B9%85%23&Refer=top)
 
