@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 06:08:26
+## 微博今日热榜 更新于 2021-04-05 07:09:01
 1. [我家有烈士](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%AE%B6%E6%9C%89%E7%83%88%E5%A3%AB%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -126,4 +126,8 @@
 1. [八旬烈士母亲跨越千里墓前痛哭](https://s.weibo.com//weibo?q=%E5%85%AB%E6%97%AC%E7%83%88%E5%A3%AB%E6%AF%8D%E4%BA%B2%E8%B7%A8%E8%B6%8A%E5%8D%83%E9%87%8C%E5%A2%93%E5%89%8D%E7%97%9B%E5%93%AD&Refer=top)
 
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [云南新增15例确诊](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E15%E4%BE%8B%E7%A1%AE%E8%AF%8A&Refer=top)
+
+1. [意大利全国升为红色疫情防疫区](https://s.weibo.com//weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%85%A8%E5%9B%BD%E5%8D%87%E4%B8%BA%E7%BA%A2%E8%89%B2%E7%96%AB%E6%83%85%E9%98%B2%E7%96%AB%E5%8C%BA%23&Refer=top)
 
