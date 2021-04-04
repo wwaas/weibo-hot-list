@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 08:29:49
+## 微博今日热榜 更新于 2021-04-04 09:58:57
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -170,4 +170,32 @@
 1. [从中央电视塔俯瞰玉渊潭](https://s.weibo.com//weibo?q=%E4%BB%8E%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%A1%94%E4%BF%AF%E7%9E%B0%E7%8E%89%E6%B8%8A%E6%BD%AD&Refer=top)
 
 1. [对清澈的爱最真诚的回应](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E6%B8%85%E6%BE%88%E7%9A%84%E7%88%B1%E6%9C%80%E7%9C%9F%E8%AF%9A%E7%9A%84%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [台铁出轨瞬间丈夫用身体护住妻子](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%93%81%E5%87%BA%E8%BD%A8%E7%9E%AC%E9%97%B4%E4%B8%88%E5%A4%AB%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8A%A4%E4%BD%8F%E5%A6%BB%E5%AD%90&Refer=top)
+
+1. [微信外挂软件主犯获刑10年](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%E5%A4%96%E6%8C%82%E8%BD%AF%E4%BB%B6%E4%B8%BB%E7%8A%AF%E8%8E%B7%E5%88%9110%E5%B9%B4&Refer=top)
+
+1. [人民英雄永垂不朽](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%B0%B8%E5%9E%82%E4%B8%8D%E6%9C%BD%23&Refer=top)
+
+1. [王大陆劝王琳方磊做朋友](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E5%8A%9D%E7%8E%8B%E7%90%B3%E6%96%B9%E7%A3%8A%E5%81%9A%E6%9C%8B%E5%8F%8B%23&Refer=top)
+
+1. [利路修参加选秀现状](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%8F%82%E5%8A%A0%E9%80%89%E7%A7%80%E7%8E%B0%E7%8A%B6%23&Refer=top)
+
+1. [云南新增本土确诊10例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A10%E4%BE%8B%23&Refer=top)
+
+1. [李元韬](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%85%83%E9%9F%AC&Refer=top)
+
+1. [不是丑美甲不要晒](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%98%AF%E4%B8%91%E7%BE%8E%E7%94%B2%E4%B8%8D%E8%A6%81%E6%99%92%23&Refer=top)
+
+1. [小托马斯穿24号致敬科比](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%89%98%E9%A9%AC%E6%96%AF%E7%A9%BF24%E5%8F%B7%E8%87%B4%E6%95%AC%E7%A7%91%E6%AF%94&Refer=top)
+
+1. [医学生第一次给人打针](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E4%BA%BA%E6%89%93%E9%92%88%23&Refer=top)
+
+1. [浙江舟山海域一渔船沉没](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E8%88%9F%E5%B1%B1%E6%B5%B7%E5%9F%9F%E4%B8%80%E6%B8%94%E8%88%B9%E6%B2%89%E6%B2%A1%23&Refer=top)
+
+1. [云南现有确诊病例36例](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%97%E7%8E%B0%E6%9C%89%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B36%E4%BE%8B&Refer=top)
+
+1. [女生特有的奇妙交流方式](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E7%89%B9%E6%9C%89%E7%9A%84%E5%A5%87%E5%A6%99%E4%BA%A4%E6%B5%81%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [公祭轩辕黄帝直播](https://s.weibo.com//weibo?q=%E5%85%AC%E7%A5%AD%E8%BD%A9%E8%BE%95%E9%BB%84%E5%B8%9D%E7%9B%B4%E6%92%AD&Refer=top)
 
