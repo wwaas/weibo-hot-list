@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 12:11:18
+## 微博今日热榜 更新于 2021-04-04 13:14:50
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -262,4 +262,18 @@
 1. [中国驻朝鲜大使馆祭奠志愿军先烈](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%9C%9D%E9%B2%9C%E5%A4%A7%E4%BD%BF%E9%A6%86%E7%A5%AD%E5%A5%A0%E5%BF%97%E6%84%BF%E5%86%9B%E5%85%88%E7%83%88%23&Refer=top)
 
 1. [尹家绪被调查](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E5%AE%B6%E7%BB%AA%E8%A2%AB%E8%B0%83%E6%9F%A5%23&Refer=top)
+
+1. [张艺兴黄磊黄渤合开公司](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%BB%84%E7%A3%8A%E9%BB%84%E6%B8%A4%E5%90%88%E5%BC%80%E5%85%AC%E5%8F%B8%23&Refer=top)
+
+1. [在乡下造一栋罗马风的房子](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%B9%A1%E4%B8%8B%E9%80%A0%E4%B8%80%E6%A0%8B%E7%BD%97%E9%A9%AC%E9%A3%8E%E7%9A%84%E6%88%BF%E5%AD%90%23&Refer=top)
+
+1. [黄奕前夫曾在家里装二十几个摄像头](https://s.weibo.com//weibo?q=%E9%BB%84%E5%A5%95%E5%89%8D%E5%A4%AB%E6%9B%BE%E5%9C%A8%E5%AE%B6%E9%87%8C%E8%A3%85%E4%BA%8C%E5%8D%81%E5%87%A0%E4%B8%AA%E6%91%84%E5%83%8F%E5%A4%B4&Refer=top)
+
+1. [我的姐姐泪点](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E6%B3%AA%E7%82%B9&Refer=top)
+
+1. [2021年共和国已痛失9位院士](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E5%85%B1%E5%92%8C%E5%9B%BD%E5%B7%B2%E7%97%9B%E5%A4%B19%E4%BD%8D%E9%99%A2%E5%A3%AB%23&Refer=top)
+
+1. [魅族清明文案](https://s.weibo.com//weibo?q=%E9%AD%85%E6%97%8F%E6%B8%85%E6%98%8E%E6%96%87%E6%A1%88&Refer=top)
+
+1. [沈海高速四车相撞致11人死亡](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%B5%B7%E9%AB%98%E9%80%9F%E5%9B%9B%E8%BD%A6%E7%9B%B8%E6%92%9E%E8%87%B411%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
 
