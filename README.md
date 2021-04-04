@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-04 11:15:47
+## 微博今日热榜 更新于 2021-04-04 12:11:18
 1. [为烈士寻亲](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=new_time)
 
 1. [你记得我我就活着](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E6%88%91%E6%88%91%E5%B0%B1%E6%B4%BB%E7%9D%80%23&Refer=top)
@@ -232,4 +232,34 @@
 1. [官方通报小学老师教唆学生打学生](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E6%95%99%E5%94%86%E5%AD%A6%E7%94%9F%E6%89%93%E5%AD%A6%E7%94%9F&Refer=top)
 
 1. [生命最后一刻他们的选择](https://s.weibo.com//weibo?q=%23%E7%94%9F%E5%91%BD%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E4%BB%96%E4%BB%AC%E7%9A%84%E9%80%89%E6%8B%A9%23&Refer=top)
+
+1. [国产鞋遭鞋贩子炒作身价暴涨](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%BA%A7%E9%9E%8B%E9%81%AD%E9%9E%8B%E8%B4%A9%E5%AD%90%E7%82%92%E4%BD%9C%E8%BA%AB%E4%BB%B7%E6%9A%B4%E6%B6%A8%23&Refer=top)
+
+1. [司机突发脑溢血拼力救下17名学生](https://s.weibo.com//weibo?q=%E5%8F%B8%E6%9C%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80%E6%8B%BC%E5%8A%9B%E6%95%91%E4%B8%8B17%E5%90%8D%E5%AD%A6%E7%94%9F&Refer=top)
+
+1. [韩国推出手机自动购物机](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%8E%A8%E5%87%BA%E6%89%8B%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%B4%AD%E7%89%A9%E6%9C%BA%23&Refer=top)
+
+1. [武汉黄鹤楼雪糕](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E9%9B%AA%E7%B3%95%23&Refer=top)
+
+1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top)
+
+1. [民警告诉去世师傅案子破了](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E5%91%8A%E8%AF%89%E5%8E%BB%E4%B8%96%E5%B8%88%E5%82%85%E6%A1%88%E5%AD%90%E7%A0%B4%E4%BA%86%23&Refer=top)
+
+1. [王焯冉奶奶仍在等孙子回家](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%84%AF%E5%86%89%E5%A5%B6%E5%A5%B6%E4%BB%8D%E5%9C%A8%E7%AD%89%E5%AD%99%E5%AD%90%E5%9B%9E%E5%AE%B6&Refer=top)
+
+1. [专家称考古实证三星堆是华夏文明](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%80%83%E5%8F%A4%E5%AE%9E%E8%AF%81%E4%B8%89%E6%98%9F%E5%A0%86%E6%98%AF%E5%8D%8E%E5%A4%8F%E6%96%87%E6%98%8E%23&Refer=top)
+
+1. [他们把最后一次心跳献给祖国人民](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E6%8A%8A%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%BF%83%E8%B7%B3%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B0%91%23&Refer=top)
+
+1. [驻塞使馆凭吊北约轰炸中牺牲的烈士](https://s.weibo.com//weibo?q=%23%E9%A9%BB%E5%A1%9E%E4%BD%BF%E9%A6%86%E5%87%AD%E5%90%8A%E5%8C%97%E7%BA%A6%E8%BD%B0%E7%82%B8%E4%B8%AD%E7%89%BA%E7%89%B2%E7%9A%84%E7%83%88%E5%A3%AB%23&Refer=top)
+
+1. [接烈士遗骸回国飞行员对话完整录音](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E5%9B%9E%E5%9B%BD%E9%A3%9E%E8%A1%8C%E5%91%98%E5%AF%B9%E8%AF%9D%E5%AE%8C%E6%95%B4%E5%BD%95%E9%9F%B3%23&Refer=top)
+
+1. [在南极生活是什么体验](https://s.weibo.com//weibo?q=%E5%9C%A8%E5%8D%97%E6%9E%81%E7%94%9F%E6%B4%BB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&Refer=top)
+
+1. [假如能和逝去亲人说句话](https://s.weibo.com//weibo?q=%23%E5%81%87%E5%A6%82%E8%83%BD%E5%92%8C%E9%80%9D%E5%8E%BB%E4%BA%B2%E4%BA%BA%E8%AF%B4%E5%8F%A5%E8%AF%9D%23&Refer=top)
+
+1. [中国驻朝鲜大使馆祭奠志愿军先烈](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%9C%9D%E9%B2%9C%E5%A4%A7%E4%BD%BF%E9%A6%86%E7%A5%AD%E5%A5%A0%E5%BF%97%E6%84%BF%E5%86%9B%E5%85%88%E7%83%88%23&Refer=top)
+
+1. [尹家绪被调查](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E5%AE%B6%E7%BB%AA%E8%A2%AB%E8%B0%83%E6%9F%A5%23&Refer=top)
 
