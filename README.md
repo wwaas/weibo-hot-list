@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 01:37:52
+## 微博今日热榜 更新于 2021-04-05 02:21:34
 1. [我家有烈士](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%AE%B6%E6%9C%89%E7%83%88%E5%A3%AB%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -114,4 +114,6 @@
 1. [吴海 三公撑腰王](https://s.weibo.com//weibo?q=%E5%90%B4%E6%B5%B7%20%E4%B8%89%E5%85%AC%E6%92%91%E8%85%B0%E7%8E%8B&Refer=top)
 
 1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
