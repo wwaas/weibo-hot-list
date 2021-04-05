@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 09:57:49
+## 微博今日热榜 更新于 2021-04-05 10:40:29
 1. [我家有烈士](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%AE%B6%E6%9C%89%E7%83%88%E5%A3%AB%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -198,4 +198,22 @@
 1. [勇士 老鹰](https://s.weibo.com//weibo?q=%E5%8B%87%E5%A3%AB%20%E8%80%81%E9%B9%B0&Refer=top)
 
 1. [男子举报干部舅舅巨额财产来源不明](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%B9%B2%E9%83%A8%E8%88%85%E8%88%85%E5%B7%A8%E9%A2%9D%E8%B4%A2%E4%BA%A7%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%98%8E&Refer=top)
+
+1. [Rose新歌](https://s.weibo.com//weibo?q=%23Rose%E6%96%B0%E6%AD%8C%23&Refer=top)
+
+1. [老挝旅游区翻船8人死亡](https://s.weibo.com//weibo?q=%23%E8%80%81%E6%8C%9D%E6%97%85%E6%B8%B8%E5%8C%BA%E7%BF%BB%E8%88%B98%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [中国女足出征韩国](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%87%BA%E5%BE%81%E9%9F%A9%E5%9B%BD&Refer=top)
+
+1. [清明返程高峰](https://s.weibo.com//weibo?q=%E6%B8%85%E6%98%8E%E8%BF%94%E7%A8%8B%E9%AB%98%E5%B3%B0&Refer=top)
+
+1. [少年的你韩国重映](https://s.weibo.com//weibo?q=%E5%B0%91%E5%B9%B4%E7%9A%84%E4%BD%A0%E9%9F%A9%E5%9B%BD%E9%87%8D%E6%98%A0&Refer=top)
+
+1. [欧文15助攻](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%96%8715%E5%8A%A9%E6%94%BB&Refer=top)
+
+1. [双星伴月呈歪嘴笑脸](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E6%98%9F%E4%BC%B4%E6%9C%88%E5%91%88%E6%AD%AA%E5%98%B4%E7%AC%91%E8%84%B8%23&Refer=top)
+
+1. [LG宣布退出智能手机业务](https://s.weibo.com//weibo?q=LG%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1&Refer=top)
+
+1. [忘摘口罩引发的社死现场](https://s.weibo.com//weibo?q=%23%E5%BF%98%E6%91%98%E5%8F%A3%E7%BD%A9%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
