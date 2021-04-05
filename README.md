@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 01:38:25
+## 微博今日热榜 更新于 2021-04-06 02:23:08
 1. [这个清明直击人心的瞬间](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E6%B8%85%E6%98%8E%E7%9B%B4%E5%87%BB%E4%BA%BA%E5%BF%83%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -104,4 +104,6 @@
 1. [星空下的西藏林芝南迦巴瓦峰](https://s.weibo.com//weibo?q=%23%E6%98%9F%E7%A9%BA%E4%B8%8B%E7%9A%84%E8%A5%BF%E8%97%8F%E6%9E%97%E8%8A%9D%E5%8D%97%E8%BF%A6%E5%B7%B4%E7%93%A6%E5%B3%B0%23&Refer=top)
 
 1. [芒果降价了](https://s.weibo.com//weibo?q=%23%E8%8A%92%E6%9E%9C%E9%99%8D%E4%BB%B7%E4%BA%86%23&Refer=top)
+
+1. [我国目前五款新冠病毒疫苗获批使用](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%9B%AE%E5%89%8D%E4%BA%94%E6%AC%BE%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E4%BD%BF%E7%94%A8%23&Refer=new_time)
 
