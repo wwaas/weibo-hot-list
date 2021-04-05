@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 06:08:52
+## 微博今日热榜 更新于 2021-04-06 07:09:45
 1. [这个清明直击人心的瞬间](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E6%B8%85%E6%98%8E%E7%9B%B4%E5%87%BB%E4%BA%BA%E5%BF%83%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -110,4 +110,8 @@
 1. [吉克隽逸被陌生男子拍肩尾随](https://s.weibo.com//weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%8B%8D%E8%82%A9%E5%B0%BE%E9%9A%8F%23&Refer=top)
 
 1. [JDG FPX](https://s.weibo.com//weibo?q=JDG%20FPX&Refer=top)
+
+1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [于少白绿茶男](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%B0%91%E7%99%BD%E7%BB%BF%E8%8C%B6%E7%94%B7%23&Refer=top)
 
