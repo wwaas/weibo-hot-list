@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-05 10:40:29
+## 微博今日热榜 更新于 2021-04-05 11:16:05
 1. [我家有烈士](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%AE%B6%E6%9C%89%E7%83%88%E5%A3%AB%23&Refer=new_time)
 
 1. [民警牺牲数月女儿还在发微信找爸爸](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E7%89%BA%E7%89%B2%E6%95%B0%E6%9C%88%E5%A5%B3%E5%84%BF%E8%BF%98%E5%9C%A8%E5%8F%91%E5%BE%AE%E4%BF%A1%E6%89%BE%E7%88%B8%E7%88%B8%23&Refer=top)
@@ -216,4 +216,24 @@
 1. [LG宣布退出智能手机业务](https://s.weibo.com//weibo?q=LG%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1&Refer=top)
 
 1. [忘摘口罩引发的社死现场](https://s.weibo.com//weibo?q=%23%E5%BF%98%E6%91%98%E5%8F%A3%E7%BD%A9%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [多名美军涉嫌性侵女学员遭停职](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%90%8D%E7%BE%8E%E5%86%9B%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%A6%E5%91%98%E9%81%AD%E5%81%9C%E8%81%8C%23&Refer=top)
+
+1. [年轻人是否需要每天一粒维生素](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E6%AF%8F%E5%A4%A9%E4%B8%80%E7%B2%92%E7%BB%B4%E7%94%9F%E7%B4%A0%23&Refer=top)
+
+1. [刘娥封后](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A8%A5%E5%B0%81%E5%90%8E%23&Refer=top)
+
+1. [人类减贫的中国实践白皮书将发布](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%87%8F%E8%B4%AB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AE%9E%E8%B7%B5%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%B0%86%E5%8F%91%E5%B8%83%23&Refer=top)
+
+1. [纽约上万人参加反歧视亚裔抗议活动](https://s.weibo.com//weibo?q=%E7%BA%BD%E7%BA%A6%E4%B8%8A%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0%E5%8F%8D%E6%AD%A7%E8%A7%86%E4%BA%9A%E8%A3%94%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8&Refer=top)
+
+1. [张家界雨后云海云瀑](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E9%9B%A8%E5%90%8E%E4%BA%91%E6%B5%B7%E4%BA%91%E7%80%91&Refer=top)
+
+1. [抗美援朝空战英雄部队飞上了歼20](https://s.weibo.com//weibo?q=%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E7%A9%BA%E6%88%98%E8%8B%B1%E9%9B%84%E9%83%A8%E9%98%9F%E9%A3%9E%E4%B8%8A%E4%BA%86%E6%AD%BC20&Refer=top)
+
+1. [埃及文明博物馆正式向公众开放](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E6%96%87%E6%98%8E%E5%8D%9A%E7%89%A9%E9%A6%86%E6%AD%A3%E5%BC%8F%E5%90%91%E5%85%AC%E4%BC%97%E5%BC%80%E6%94%BE%23&Refer=top)
+
+1. [酒泉通报班主任对学生罚款数万](https://s.weibo.com//weibo?q=%23%E9%85%92%E6%B3%89%E9%80%9A%E6%8A%A5%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%AF%B9%E5%AD%A6%E7%94%9F%E7%BD%9A%E6%AC%BE%E6%95%B0%E4%B8%87%23&Refer=top)
+
+1. [原来镜子戏是这样拍的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%95%9C%E5%AD%90%E6%88%8F%E6%98%AF%E8%BF%99%E6%A0%B7%E6%8B%8D%E7%9A%84%23&Refer=top)
 
