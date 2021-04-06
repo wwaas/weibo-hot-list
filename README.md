@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 20:09:37
+## 微博今日热榜 更新于 2021-04-06 21:17:40
 1. [这个清明直击人心的瞬间](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E6%B8%85%E6%98%8E%E7%9B%B4%E5%87%BB%E4%BA%BA%E5%BF%83%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -490,4 +490,38 @@
 1. [2021福布斯全球亿万富豪榜](https://s.weibo.com//weibo?q=2021%E7%A6%8F%E5%B8%83%E6%96%AF%E5%85%A8%E7%90%83%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%A6%9C&Refer=top)
 
 1. [首尔知名商圈美妆店接连倒闭](https://s.weibo.com//weibo?q=%23%E9%A6%96%E5%B0%94%E7%9F%A5%E5%90%8D%E5%95%86%E5%9C%88%E7%BE%8E%E5%A6%86%E5%BA%97%E6%8E%A5%E8%BF%9E%E5%80%92%E9%97%AD%23&Refer=top)
+
+1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
+
+1. [快递过度包装专项治理](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E9%80%92%E8%BF%87%E5%BA%A6%E5%8C%85%E8%A3%85%E4%B8%93%E9%A1%B9%E6%B2%BB%E7%90%86%23&Refer=top)
+
+1. [法院回应南大碎尸案家属撤诉](https://s.weibo.com//weibo?q=%23%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94%E5%8D%97%E5%A4%A7%E7%A2%8E%E5%B0%B8%E6%A1%88%E5%AE%B6%E5%B1%9E%E6%92%A4%E8%AF%89%23&Refer=top)
+
+1. [美国收到联合国人权指控函](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%94%B6%E5%88%B0%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%8C%87%E6%8E%A7%E5%87%BD&Refer=top)
+
+1. [李子柒桃林游记](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%A1%83%E6%9E%97%E6%B8%B8%E8%AE%B0%23&Refer=top)
+
+1. [老虎被大鹅追咬](https://s.weibo.com//weibo?q=%23%E8%80%81%E8%99%8E%E8%A2%AB%E5%A4%A7%E9%B9%85%E8%BF%BD%E5%92%AC%23&Refer=top)
+
+1. [厦门大学100周年校庆](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6100%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23&Refer=top)
+
+1. [司藤扫楼](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4%E6%89%AB%E6%A5%BC&Refer=top)
+
+1. [工信部通报下架60款侵权App](https://s.weibo.com//weibo?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A5%E4%B8%8B%E6%9E%B660%E6%AC%BE%E4%BE%B5%E6%9D%83App&Refer=top)
+
+1. [林峯厦大校庆献唱](https://s.weibo.com//weibo?q=%E6%9E%97%E5%B3%AF%E5%8E%A6%E5%A4%A7%E6%A0%A1%E5%BA%86%E7%8C%AE%E5%94%B1&Refer=top)
+
+1. [SofM](https://s.weibo.com//weibo?q=SofM&Refer=top)
+
+1. [苏醒被林芸芸刁难](https://s.weibo.com//weibo?q=%E8%8B%8F%E9%86%92%E8%A2%AB%E6%9E%97%E8%8A%B8%E8%8A%B8%E5%88%81%E9%9A%BE&Refer=top)
+
+1. [TES战胜SN](https://s.weibo.com//weibo?q=%23TES%E6%88%98%E8%83%9CSN%23&Refer=top)
+
+1. [多个平台又现海量喝播视频](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E4%B8%AA%E5%B9%B3%E5%8F%B0%E5%8F%88%E7%8E%B0%E6%B5%B7%E9%87%8F%E5%96%9D%E6%92%AD%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [父母去世姐姐是否必须抚养幼弟](https://s.weibo.com//weibo?q=%E7%88%B6%E6%AF%8D%E5%8E%BB%E4%B8%96%E5%A7%90%E5%A7%90%E6%98%AF%E5%90%A6%E5%BF%85%E9%A1%BB%E6%8A%9A%E5%85%BB%E5%B9%BC%E5%BC%9F&Refer=top)
+
+1. [小学生建议英语课本撤掉动物表演](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BB%BA%E8%AE%AE%E8%8B%B1%E8%AF%AD%E8%AF%BE%E6%9C%AC%E6%92%A4%E6%8E%89%E5%8A%A8%E7%89%A9%E8%A1%A8%E6%BC%94%23&Refer=top)
+
+1. [JackeyLove的小炮](https://s.weibo.com//weibo?q=JackeyLove%E7%9A%84%E5%B0%8F%E7%82%AE&Refer=top)
 
