@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 03:17:05
+## 微博今日热榜 更新于 2021-04-07 04:08:24
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -118,4 +118,6 @@
 1. [拜登](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB&Refer=top)
 
 1. [美国收到联合国人权指控函](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%94%B6%E5%88%B0%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E6%8C%87%E6%8E%A7%E5%87%BD&Refer=top)
+
+1. [中国减贫之路](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%87%8F%E8%B4%AB%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
 
