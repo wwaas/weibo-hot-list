@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 21:17:40
+## 微博今日热榜 更新于 2021-04-06 22:08:33
 1. [这个清明直击人心的瞬间](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E6%B8%85%E6%98%8E%E7%9B%B4%E5%87%BB%E4%BA%BA%E5%BF%83%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -524,4 +524,28 @@
 1. [小学生建议英语课本撤掉动物表演](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BB%BA%E8%AE%AE%E8%8B%B1%E8%AF%AD%E8%AF%BE%E6%9C%AC%E6%92%A4%E6%8E%89%E5%8A%A8%E7%89%A9%E8%A1%A8%E6%BC%94%23&Refer=top)
 
 1. [JackeyLove的小炮](https://s.weibo.com//weibo?q=JackeyLove%E7%9A%84%E5%B0%8F%E7%82%AE&Refer=top)
+
+1. [颖儿李宗翰互叫原名](https://s.weibo.com//weibo?q=%23%E9%A2%96%E5%84%BF%E6%9D%8E%E5%AE%97%E7%BF%B0%E4%BA%92%E5%8F%AB%E5%8E%9F%E5%90%8D%23&Refer=top)
+
+1. [周笔畅ktv体力透支全记录](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85ktv%E4%BD%93%E5%8A%9B%E9%80%8F%E6%94%AF%E5%85%A8%E8%AE%B0%E5%BD%95%23&Refer=top)
+
+1. [滑雪场回应女子落水多人拍照未救援](https://s.weibo.com//weibo?q=%E6%BB%91%E9%9B%AA%E5%9C%BA%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%90%BD%E6%B0%B4%E5%A4%9A%E4%BA%BA%E6%8B%8D%E7%85%A7%E6%9C%AA%E6%95%91%E6%8F%B4&Refer=top)
+
+1. [刘雨昕加盟舞蹈生](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%8A%A0%E7%9B%9F%E8%88%9E%E8%B9%88%E7%94%9F%23&Refer=top)
+
+1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97&Refer=top)
+
+1. [我的姐姐](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90&Refer=top)
+
+1. [库克回应苹果应用商店佣金高](https://s.weibo.com//weibo?q=%E5%BA%93%E5%85%8B%E5%9B%9E%E5%BA%94%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%BD%A3%E9%87%91%E9%AB%98&Refer=top)
+
+1. [Facebook测试二维码付款功能](https://s.weibo.com//weibo?q=Facebook%E6%B5%8B%E8%AF%95%E4%BA%8C%E7%BB%B4%E7%A0%81%E4%BB%98%E6%AC%BE%E5%8A%9F%E8%83%BD&Refer=top)
+
+1. [利路修对粉丝说我喜欢你](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E5%AF%B9%E7%B2%89%E4%B8%9D%E8%AF%B4%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0%23&Refer=top)
+
+1. [三星堆商标被抢注](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%86%E5%95%86%E6%A0%87%E8%A2%AB%E6%8A%A2%E6%B3%A8&Refer=top)
+
+1. [长歌行预告](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [格鲁吉亚总理确诊新冠肺炎](https://s.weibo.com//weibo?q=%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A%E6%80%BB%E7%90%86%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E&Refer=top)
 
