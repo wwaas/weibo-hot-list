@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 06:07:53
+## 微博今日热榜 更新于 2021-04-07 07:08:36
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -122,4 +122,14 @@
 1. [中国减贫之路](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%87%8F%E8%B4%AB%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
 
 1. [朝鲜不参加东京奥运会](https://s.weibo.com//weibo?q=%23%E6%9C%9D%E9%B2%9C%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
+
+1. [谁是宝藏歌手路透](https://s.weibo.com//weibo?q=%23%E8%B0%81%E6%98%AF%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B%E8%B7%AF%E9%80%8F%23&Refer=top)
+
+1. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top)
+
+1. [官方回应三星堆商标被抢注](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%89%E6%98%9F%E5%A0%86%E5%95%86%E6%A0%87%E8%A2%AB%E6%8A%A2%E6%B3%A8&Refer=top)
+
+1. [吃香蕉的正确方式](https://s.weibo.com//weibo?q=%23%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F%23&Refer=top)
+
+1. [普京签署总统任期法案](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E6%80%BB%E7%BB%9F%E4%BB%BB%E6%9C%9F%E6%B3%95%E6%A1%88&Refer=top)
 
