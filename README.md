@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-06 07:09:45
+## 微博今日热榜 更新于 2021-04-06 08:29:23
 1. [这个清明直击人心的瞬间](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E6%B8%85%E6%98%8E%E7%9B%B4%E5%87%BB%E4%BA%BA%E5%BF%83%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=new_time)
 
 1. [丁真 见到了贾玲的妈妈](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E8%A7%81%E5%88%B0%E4%BA%86%E8%B4%BE%E7%8E%B2%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
@@ -114,4 +114,48 @@
 1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
 
 1. [于少白绿茶男](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%B0%91%E7%99%BD%E7%BB%BF%E8%8C%B6%E7%94%B7%23&Refer=top)
+
+1. [云南现有确诊病例66例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%8E%B0%E6%9C%89%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B66%E4%BE%8B%23&Refer=top)
+
+1. [娄滋博](https://s.weibo.com//weibo?q=%E5%A8%84%E6%BB%8B%E5%8D%9A&Refer=top)
+
+1. [女子购买南航快乐飞后遇14次航变](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B4%AD%E4%B9%B0%E5%8D%97%E8%88%AA%E5%BF%AB%E4%B9%90%E9%A3%9E%E5%90%8E%E9%81%8714%E6%AC%A1%E8%88%AA%E5%8F%98%23&Refer=top)
+
+1. [年下不喊姐](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E4%B8%8B%E4%B8%8D%E5%96%8A%E5%A7%90%23&Refer=top)
+
+1. [小欢喜编剧 南京爱情故事在炼成中](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C%E7%BC%96%E5%89%A7%20%E5%8D%97%E4%BA%AC%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B%E5%9C%A8%E7%82%BC%E6%88%90%E4%B8%AD&Refer=top)
+
+1. [王毅奉劝日方不要把手伸得太长了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E5%A5%89%E5%8A%9D%E6%97%A5%E6%96%B9%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%BE%97%E5%A4%AA%E9%95%BF%E4%BA%86%23&Refer=top)
+
+1. [前NBA球员谈美国种族问题](https://s.weibo.com//weibo?q=%23%E5%89%8DNBA%E7%90%83%E5%91%98%E8%B0%88%E7%BE%8E%E5%9B%BD%E7%A7%8D%E6%97%8F%E9%97%AE%E9%A2%98%23&Refer=top)
+
+1. [陈卓璇点评丁太昇](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E7%82%B9%E8%AF%84%E4%B8%81%E5%A4%AA%E6%98%87%23&Refer=top)
+
+1. [陈坤儿子晒与女生合照](https://s.weibo.com//weibo?q=%E9%99%88%E5%9D%A4%E5%84%BF%E5%AD%90%E6%99%92%E4%B8%8E%E5%A5%B3%E7%94%9F%E5%90%88%E7%85%A7&Refer=top)
+
+1. [106岁奶奶陵园看望长眠边疆独子](https://s.weibo.com//weibo?q=%23106%E5%B2%81%E5%A5%B6%E5%A5%B6%E9%99%B5%E5%9B%AD%E7%9C%8B%E6%9C%9B%E9%95%BF%E7%9C%A0%E8%BE%B9%E7%96%86%E7%8B%AC%E5%AD%90%23&Refer=top)
+
+1. [贾士凯](https://s.weibo.com//weibo?q=%E8%B4%BE%E5%A3%AB%E5%87%AF&Refer=top)
+
+1. [美颜滤镜下的景甜张彬彬](https://s.weibo.com//weibo?q=%E7%BE%8E%E9%A2%9C%E6%BB%A4%E9%95%9C%E4%B8%8B%E7%9A%84%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC&Refer=top)
+
+1. [美国财长呼吁实行全球最低企业税](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E5%91%BC%E5%90%81%E5%AE%9E%E8%A1%8C%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%E4%BC%81%E4%B8%9A%E7%A8%8E&Refer=top)
+
+1. [歌隼](https://s.weibo.com//weibo?q=%E6%AD%8C%E9%9A%BC&Refer=top)
+
+1. [朝鲜不参加东京奥运会](https://s.weibo.com//weibo?q=%E6%9C%9D%E9%B2%9C%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+
+1. [这是刺绣能做到的吗](https://s.weibo.com//weibo?q=%E8%BF%99%E6%98%AF%E5%88%BA%E7%BB%A3%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E5%90%97&Refer=top)
+
+1. [尾鱼在嗑真人CP](https://s.weibo.com//weibo?q=%E5%B0%BE%E9%B1%BC%E5%9C%A8%E5%97%91%E7%9C%9F%E4%BA%BACP&Refer=top)
+
+1. [普京签署总统任期法案](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E6%80%BB%E7%BB%9F%E4%BB%BB%E6%9C%9F%E6%B3%95%E6%A1%88&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [云南新增15例确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E15%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [王鸥中古探店vlog](https://s.weibo.com//weibo?q=%E7%8E%8B%E9%B8%A5%E4%B8%AD%E5%8F%A4%E6%8E%A2%E5%BA%97vlog&Refer=top)
+
+1. [live house全场在蹦好日子](https://s.weibo.com//weibo?q=live%20house%E5%85%A8%E5%9C%BA%E5%9C%A8%E8%B9%A6%E5%A5%BD%E6%97%A5%E5%AD%90&Refer=top)
 
