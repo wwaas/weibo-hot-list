@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 21:18:46
+## 微博今日热榜 更新于 2021-04-07 22:08:25
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -500,4 +500,14 @@
 1. [薇娅欧阳娜娜直播](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9B%B4%E6%92%AD&Refer=top)
 
 1. [iOS14.5上线反追踪用户隐私功能](https://s.weibo.com//weibo?q=%23iOS14.5%E4%B8%8A%E7%BA%BF%E5%8F%8D%E8%BF%BD%E8%B8%AA%E7%94%A8%E6%88%B7%E9%9A%90%E7%A7%81%E5%8A%9F%E8%83%BD%23&Refer=top)
+
+1. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [周柯宇写信鼓励力丸](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E5%86%99%E4%BF%A1%E9%BC%93%E5%8A%B1%E5%8A%9B%E4%B8%B8%23&Refer=top)
+
+1. [人脸识别真的安全吗](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%9C%9F%E7%9A%84%E5%AE%89%E5%85%A8%E5%90%97%23&Refer=top)
+
+1. [李长歌英雄救美弥弥古丽](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%95%BF%E6%AD%8C%E8%8B%B1%E9%9B%84%E6%95%91%E7%BE%8E%E5%BC%A5%E5%BC%A5%E5%8F%A4%E4%B8%BD%23&Refer=top)
+
+1. [张萌说好男人是夸出来的](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E8%AF%B4%E5%A5%BD%E7%94%B7%E4%BA%BA%E6%98%AF%E5%A4%B8%E5%87%BA%E6%9D%A5%E7%9A%84%23&Refer=top)
 
