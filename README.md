@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 07:08:36
+## 微博今日热榜 更新于 2021-04-07 08:28:35
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -132,4 +132,46 @@
 1. [吃香蕉的正确方式](https://s.weibo.com//weibo?q=%23%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F%23&Refer=top)
 
 1. [普京签署总统任期法案](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E6%80%BB%E7%BB%9F%E4%BB%BB%E6%9C%9F%E6%B3%95%E6%A1%88&Refer=top)
+
+1. [19岁网民侮辱南京大屠杀死难者被刑拘](https://s.weibo.com//weibo?q=%2319%E5%B2%81%E7%BD%91%E6%B0%91%E4%BE%AE%E8%BE%B1%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%AD%BB%E9%9A%BE%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
+
+1. [雷军回应小米新logo](https://s.weibo.com//weibo?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%96%B0logo&Refer=top)
+
+1. [清华北大30名学霸参军入伍](https://s.weibo.com//weibo?q=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A730%E5%90%8D%E5%AD%A6%E9%9C%B8%E5%8F%82%E5%86%9B%E5%85%A5%E4%BC%8D&Refer=top)
+
+1. [钟南山呼吁应当坚决接种疫苗](https://s.weibo.com//weibo?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%91%BC%E5%90%81%E5%BA%94%E5%BD%93%E5%9D%9A%E5%86%B3%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [江苏常州一公墓现干部区标牌](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E5%B8%B8%E5%B7%9E%E4%B8%80%E5%85%AC%E5%A2%93%E7%8E%B0%E5%B9%B2%E9%83%A8%E5%8C%BA%E6%A0%87%E7%89%8C&Refer=top)
+
+1. [中国为全球抗疫做了哪些贡献](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E5%85%A8%E7%90%83%E6%8A%97%E7%96%AB%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E8%B4%A1%E7%8C%AE%23&Refer=top)
+
+1. [BBC新疆报道的解说词跟画面完全相反](https://s.weibo.com//weibo?q=%23BBC%E6%96%B0%E7%96%86%E6%8A%A5%E9%81%93%E7%9A%84%E8%A7%A3%E8%AF%B4%E8%AF%8D%E8%B7%9F%E7%94%BB%E9%9D%A2%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%8F%8D%23&Refer=top)
+
+1. [云南现有确诊病例68例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%8E%B0%E6%9C%89%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B68%E4%BE%8B%23&Refer=top)
+
+1. [亲友称江宏杰没有说不离婚](https://s.weibo.com//weibo?q=%E4%BA%B2%E5%8F%8B%E7%A7%B0%E6%B1%9F%E5%AE%8F%E6%9D%B0%E6%B2%A1%E6%9C%89%E8%AF%B4%E4%B8%8D%E7%A6%BB%E5%A9%9A&Refer=top)
+
+1. [女子纹风水眉被纹成两把大刀](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E7%BA%B9%E9%A3%8E%E6%B0%B4%E7%9C%89%E8%A2%AB%E7%BA%B9%E6%88%90%E4%B8%A4%E6%8A%8A%E5%A4%A7%E5%88%80&Refer=top)
+
+1. [网购一定要看清楚尺寸](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%B4%AD%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9C%8B%E6%B8%85%E6%A5%9A%E5%B0%BA%E5%AF%B8%23&Refer=top)
+
+1. [张艺兴方律师声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B9%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [双星伴月](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E6%98%9F%E4%BC%B4%E6%9C%88%23&Refer=top)
+
+1. [90后立遗嘱把身后事纳入人生规划](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E7%AB%8B%E9%81%97%E5%98%B1%E6%8A%8A%E8%BA%AB%E5%90%8E%E4%BA%8B%E7%BA%B3%E5%85%A5%E4%BA%BA%E7%94%9F%E8%A7%84%E5%88%92%23&Refer=top)
+
+1. [重庆4500度悬崖旋转楼梯](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%864500%E5%BA%A6%E6%82%AC%E5%B4%96%E6%97%8B%E8%BD%AC%E6%A5%BC%E6%A2%AF%23&Refer=top)
+
+1. [锦心似玉](https://s.weibo.com//weibo?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89&Refer=top)
+
+1. [麦克勒莫加盟湖人](https://s.weibo.com//weibo?q=%E9%BA%A6%E5%85%8B%E5%8B%92%E8%8E%AB%E5%8A%A0%E7%9B%9F%E6%B9%96%E4%BA%BA&Refer=top)
+
+1. [纽交所决定将蛋壳公寓ADS摘牌](https://s.weibo.com//weibo?q=%E7%BA%BD%E4%BA%A4%E6%89%80%E5%86%B3%E5%AE%9A%E5%B0%86%E8%9B%8B%E5%A3%B3%E5%85%AC%E5%AF%93ADS%E6%91%98%E7%89%8C&Refer=top)
+
+1. [秦岭主峰云海](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%AD%E4%B8%BB%E5%B3%B0%E4%BA%91%E6%B5%B7&Refer=top)
+
+1. [云南2例新增确诊为核酸检测筛查发现](https://s.weibo.com//weibo?q=%E4%BA%91%E5%8D%972%E4%BE%8B%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%AD%9B%E6%9F%A5%E5%8F%91%E7%8E%B0&Refer=top)
+
+1. [湖人猛龙冲突](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E7%8C%9B%E9%BE%99%E5%86%B2%E7%AA%81&Refer=top)
 
