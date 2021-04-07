@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 10:47:01
+## 微博今日热榜 更新于 2021-04-07 11:17:04
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -230,4 +230,12 @@
 1. [27个省会中11城GDP超万亿](https://s.weibo.com//weibo?q=27%E4%B8%AA%E7%9C%81%E4%BC%9A%E4%B8%AD11%E5%9F%8EGDP%E8%B6%85%E4%B8%87%E4%BA%BF&Refer=top)
 
 1. [基金下跌](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91%E4%B8%8B%E8%B7%8C&Refer=top)
+
+1. [木村拓哉因疫情放弃进军美国](https://s.weibo.com//weibo?q=%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E5%9B%A0%E7%96%AB%E6%83%85%E6%94%BE%E5%BC%83%E8%BF%9B%E5%86%9B%E7%BE%8E%E5%9B%BD&Refer=top)
+
+1. [大合唱为什么容易让人动容](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%90%88%E5%94%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B9%E6%98%93%E8%AE%A9%E4%BA%BA%E5%8A%A8%E5%AE%B9%23&Refer=top)
+
+1. [军队文职考试报名](https://s.weibo.com//weibo?q=%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%E8%80%83%E8%AF%95%E6%8A%A5%E5%90%8D&Refer=top)
+
+1. [香港教材对鸦片战争部分做较大修改](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E6%95%99%E6%9D%90%E5%AF%B9%E9%B8%A6%E7%89%87%E6%88%98%E4%BA%89%E9%83%A8%E5%88%86%E5%81%9A%E8%BE%83%E5%A4%A7%E4%BF%AE%E6%94%B9%23&Refer=top)
 
