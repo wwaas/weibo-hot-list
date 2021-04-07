@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-07 09:59:13
+## 微博今日热榜 更新于 2021-04-07 10:47:01
 1. [学校应建立对欺凌的零容忍机制](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%BA%94%E5%BB%BA%E7%AB%8B%E5%AF%B9%E6%AC%BA%E5%87%8C%E7%9A%84%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%9C%BA%E5%88%B6%23&Refer=new_time)
 
 1. [龚俊是去录百变大咖秀吗](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%98%AF%E5%8E%BB%E5%BD%95%E7%99%BE%E5%8F%98%E5%A4%A7%E5%92%96%E7%A7%80%E5%90%97%23&Refer=top)
@@ -212,4 +212,22 @@
 1. [杭州一村千年前排水系统沿用至今](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E6%9D%91%E5%8D%83%E5%B9%B4%E5%89%8D%E6%8E%92%E6%B0%B4%E7%B3%BB%E7%BB%9F%E6%B2%BF%E7%94%A8%E8%87%B3%E4%BB%8A&Refer=top)
 
 1. [贝索斯连续4年全球首富](https://s.weibo.com//weibo?q=%E8%B4%9D%E7%B4%A2%E6%96%AF%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E5%85%A8%E7%90%83%E9%A6%96%E5%AF%8C&Refer=top)
+
+1. [Sunnee认出粉丝手机壳是丁程鑫](https://s.weibo.com//weibo?q=Sunnee%E8%AE%A4%E5%87%BA%E7%B2%89%E4%B8%9D%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%98%AF%E4%B8%81%E7%A8%8B%E9%91%AB&Refer=top)
+
+1. [白琴](https://s.weibo.com//weibo?q=%E7%99%BD%E7%90%B4&Refer=top)
+
+1. [误入桃花源的那一刻](https://s.weibo.com//weibo?q=%23%E8%AF%AF%E5%85%A5%E6%A1%83%E8%8A%B1%E6%BA%90%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%23&Refer=top)
+
+1. [国际奥委会未接到朝鲜退出正式申请](https://s.weibo.com//weibo?q=%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E6%9C%AA%E6%8E%A5%E5%88%B0%E6%9C%9D%E9%B2%9C%E9%80%80%E5%87%BA%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%B7&Refer=top)
+
+1. [原来成龙是发明家](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E6%88%90%E9%BE%99%E6%98%AF%E5%8F%91%E6%98%8E%E5%AE%B6&Refer=top)
+
+1. [沈海高速4车相撞系货车轮胎脱落引发](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%B5%B7%E9%AB%98%E9%80%9F4%E8%BD%A6%E7%9B%B8%E6%92%9E%E7%B3%BB%E8%B4%A7%E8%BD%A6%E8%BD%AE%E8%83%8E%E8%84%B1%E8%90%BD%E5%BC%95%E5%8F%91%23&Refer=top)
+
+1. [特斯拉回应车内摄像头问题](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E8%BD%A6%E5%86%85%E6%91%84%E5%83%8F%E5%A4%B4%E9%97%AE%E9%A2%98&Refer=top)
+
+1. [27个省会中11城GDP超万亿](https://s.weibo.com//weibo?q=27%E4%B8%AA%E7%9C%81%E4%BC%9A%E4%B8%AD11%E5%9F%8EGDP%E8%B6%85%E4%B8%87%E4%BA%BF&Refer=top)
+
+1. [基金下跌](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91%E4%B8%8B%E8%B7%8C&Refer=top)
 
