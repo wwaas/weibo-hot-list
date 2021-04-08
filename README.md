@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 12:12:33
+## 微博今日热榜 更新于 2021-04-08 13:16:22
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -264,4 +264,42 @@
 1. [酒店回应游客堵房间地漏蓄水玩](https://s.weibo.com//weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E5%A0%B5%E6%88%BF%E9%97%B4%E5%9C%B0%E6%BC%8F%E8%93%84%E6%B0%B4%E7%8E%A9%23&Refer=top)
 
 1. [妇联介入女孩不堪养三个弟妹轻生](https://s.weibo.com//weibo?q=%23%E5%A6%87%E8%81%94%E4%BB%8B%E5%85%A5%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%A0%AA%E5%85%BB%E4%B8%89%E4%B8%AA%E5%BC%9F%E5%A6%B9%E8%BD%BB%E7%94%9F%23&Refer=top)
+
+1. [米卡壁咚鞠婧祎](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E5%A3%81%E5%92%9A%E9%9E%A0%E5%A9%A7%E7%A5%8E%23&Refer=top)
+
+1. [龚俊利路修上班状态对比](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%88%A9%E8%B7%AF%E4%BF%AE%E4%B8%8A%E7%8F%AD%E7%8A%B6%E6%80%81%E5%AF%B9%E6%AF%94%23&Refer=top)
+
+1. [赞多公主抱毛晓彤](https://s.weibo.com//weibo?q=%23%E8%B5%9E%E5%A4%9A%E5%85%AC%E4%B8%BB%E6%8A%B1%E6%AF%9B%E6%99%93%E5%BD%A4%23&Refer=top)
+
+1. [浪浪钉](https://s.weibo.com//weibo?q=%23%E6%B5%AA%E6%B5%AA%E9%92%89%23&Refer=top)
+
+1. [刘宇孟美岐对视](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%AF%B9%E8%A7%86%23&Refer=top)
+
+1. [日系麻豆妆](https://s.weibo.com//weibo?q=%23%E6%97%A5%E7%B3%BB%E9%BA%BB%E8%B1%86%E5%A6%86%23&Refer=top)
+
+1. [美国番茄酱告急](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E7%95%AA%E8%8C%84%E9%85%B1%E5%91%8A%E6%80%A5&Refer=top)
+
+1. [密钥的正确读音](https://s.weibo.com//weibo?q=%23%E5%AF%86%E9%92%A5%E7%9A%84%E6%AD%A3%E7%A1%AE%E8%AF%BB%E9%9F%B3%23&Refer=top)
+
+1. [皓衣行](https://s.weibo.com//weibo?q=%E7%9A%93%E8%A1%A3%E8%A1%8C&Refer=top)
+
+1. [瑞丽农民摘13吨西瓜送医护](https://s.weibo.com//weibo?q=%E7%91%9E%E4%B8%BD%E5%86%9C%E6%B0%91%E6%91%9813%E5%90%A8%E8%A5%BF%E7%93%9C%E9%80%81%E5%8C%BB%E6%8A%A4&Refer=top)
+
+1. [景甜仿佛在抽陀螺](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E4%BB%BF%E4%BD%9B%E5%9C%A8%E6%8A%BD%E9%99%80%E8%9E%BA%23&Refer=top)
+
+1. [中国国家电竞足球队开始选拔](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%AB%9E%E8%B6%B3%E7%90%83%E9%98%9F%E5%BC%80%E5%A7%8B%E9%80%89%E6%8B%94%23&Refer=top)
+
+1. [最适合打疫苗的着装](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E6%89%93%E7%96%AB%E8%8B%97%E7%9A%84%E7%9D%80%E8%A3%85%23&Refer=top)
+
+1. [令你无法释怀的漫画结局](https://s.weibo.com//weibo?q=%23%E4%BB%A4%E4%BD%A0%E6%97%A0%E6%B3%95%E9%87%8A%E6%80%80%E7%9A%84%E6%BC%AB%E7%94%BB%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [德国18岁少年成最年轻亿万富豪](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD18%E5%B2%81%E5%B0%91%E5%B9%B4%E6%88%90%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA&Refer=top)
+
+1. [自杀货车司机妻子盼有赔偿金](https://s.weibo.com//weibo?q=%E8%87%AA%E6%9D%80%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%A6%BB%E5%AD%90%E7%9B%BC%E6%9C%89%E8%B5%94%E5%81%BF%E9%87%91&Refer=top)
+
+1. [海南自贸港再迎重大政策红利](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E5%86%8D%E8%BF%8E%E9%87%8D%E5%A4%A7%E6%94%BF%E7%AD%96%E7%BA%A2%E5%88%A9%23&Refer=top)
+
+1. [米切尔绝平三分](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%88%87%E5%B0%94%E7%BB%9D%E5%B9%B3%E4%B8%89%E5%88%86&Refer=top)
+
+1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
 
