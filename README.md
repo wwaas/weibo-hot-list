@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 08:31:31
+## 微博今日热榜 更新于 2021-04-08 10:02:18
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -162,4 +162,40 @@
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
 
 1. [游客三亚堵酒店地漏后蓄水玩](https://s.weibo.com//weibo?q=%E6%B8%B8%E5%AE%A2%E4%B8%89%E4%BA%9A%E5%A0%B5%E9%85%92%E5%BA%97%E5%9C%B0%E6%BC%8F%E5%90%8E%E8%93%84%E6%B0%B4%E7%8E%A9&Refer=top)
+
+1. [瑞丽市委书记被撤职](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%92%A4%E8%81%8C%23&Refer=top)
+
+1. [赵又廷高圆圆片场手拉手](https://s.weibo.com//weibo?q=%E8%B5%B5%E5%8F%88%E5%BB%B7%E9%AB%98%E5%9C%86%E5%9C%86%E7%89%87%E5%9C%BA%E6%89%8B%E6%8B%89%E6%89%8B&Refer=top)
+
+1. [长歌行开分](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E5%BC%80%E5%88%86&Refer=top)
+
+1. [李振宁 郑乃馨](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%8C%AF%E5%AE%81%20%E9%83%91%E4%B9%83%E9%A6%A8&Refer=top)
+
+1. [徐智慧方否认与金正贤恋情](https://s.weibo.com//weibo?q=%E5%BE%90%E6%99%BA%E6%85%A7%E6%96%B9%E5%90%A6%E8%AE%A4%E4%B8%8E%E9%87%91%E6%AD%A3%E8%B4%A4%E6%81%8B%E6%83%85&Refer=top)
+
+1. [全国多地菜市出现掉色香葱](https://s.weibo.com//weibo?q=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E8%8F%9C%E5%B8%82%E5%87%BA%E7%8E%B0%E6%8E%89%E8%89%B2%E9%A6%99%E8%91%B1&Refer=top)
+
+1. [丁程鑫 天官赐福](https://s.weibo.com//weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%20%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+
+1. [27岁医生辞世捐献器官救5人](https://s.weibo.com//weibo?q=%2327%E5%B2%81%E5%8C%BB%E7%94%9F%E8%BE%9E%E4%B8%96%E6%8D%90%E7%8C%AE%E5%99%A8%E5%AE%98%E6%95%915%E4%BA%BA%23&Refer=top)
+
+1. [外媒镜头下解封一周年的武汉](https://s.weibo.com//weibo?q=%E5%A4%96%E5%AA%92%E9%95%9C%E5%A4%B4%E4%B8%8B%E8%A7%A3%E5%B0%81%E4%B8%80%E5%91%A8%E5%B9%B4%E7%9A%84%E6%AD%A6%E6%B1%89&Refer=top)
+
+1. [张哲瀚龚俊TOMFORD方管唇釉](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E9%BE%9A%E4%BF%8ATOMFORD%E6%96%B9%E7%AE%A1%E5%94%87%E9%87%89&Refer=top)
+
+1. [湖南一所高校开礼射课](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E6%89%80%E9%AB%98%E6%A0%A1%E5%BC%80%E7%A4%BC%E5%B0%84%E8%AF%BE%23&Refer=top)
+
+1. [格里芬超远压哨三分](https://s.weibo.com//weibo?q=%E6%A0%BC%E9%87%8C%E8%8A%AC%E8%B6%85%E8%BF%9C%E5%8E%8B%E5%93%A8%E4%B8%89%E5%88%86&Refer=top)
+
+1. [31省区市新增24例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E24%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [尼日利亚工地遇袭1中国公民死亡](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%B7%A5%E5%9C%B0%E9%81%87%E8%A2%AD1%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%AD%BB%E4%BA%A1%23&Refer=top)
+
+1. [这些文物与三星堆文物撞脸啦](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BA%9B%E6%96%87%E7%89%A9%E4%B8%8E%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%87%E7%89%A9%E6%92%9E%E8%84%B8%E5%95%A6%23&Refer=top)
+
+1. [核污水是否排入大海日本将作决定](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%98%AF%E5%90%A6%E6%8E%92%E5%85%A5%E5%A4%A7%E6%B5%B7%E6%97%A5%E6%9C%AC%E5%B0%86%E4%BD%9C%E5%86%B3%E5%AE%9A%23&Refer=top)
+
+1. [浦东车管所回应停止为特斯拉上牌](https://s.weibo.com//weibo?q=%E6%B5%A6%E4%B8%9C%E8%BD%A6%E7%AE%A1%E6%89%80%E5%9B%9E%E5%BA%94%E5%81%9C%E6%AD%A2%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E7%89%8C&Refer=top)
+
+1. [欧文双手暴扣](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%96%87%E5%8F%8C%E6%89%8B%E6%9A%B4%E6%89%A3&Refer=top)
 
