@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 06:08:55
+## 微博今日热榜 更新于 2021-04-09 07:09:39
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -130,4 +130,8 @@
 1. [中国女足 韩国女足](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%20%E9%9F%A9%E5%9B%BD%E5%A5%B3%E8%B6%B3&Refer=top)
 
 1. [我国深海钻机钻探深度刷新世界纪录](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%B7%B1%E6%B5%B7%E9%92%BB%E6%9C%BA%E9%92%BB%E6%8E%A2%E6%B7%B1%E5%BA%A6%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&Refer=new_time)
+
+1. [英雄湖北浴火重生](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E6%B9%96%E5%8C%97%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%23&Refer=new_time)
+
+1. [吴亦凡工作室注册大碗宽面商标](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%B3%A8%E5%86%8C%E5%A4%A7%E7%A2%97%E5%AE%BD%E9%9D%A2%E5%95%86%E6%A0%87&Refer=top)
 
