@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-08 20:11:58
+## 微博今日热榜 更新于 2021-04-08 21:18:42
 1. [今年全国招聘特岗教师8.4万余名](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E6%8B%9B%E8%81%98%E7%89%B9%E5%B2%97%E6%95%99%E5%B8%888.4%E4%B8%87%E4%BD%99%E5%90%8D%23&Refer=new_time)
 
 1. [baby在上海时会每天送小海绵上学](https://s.weibo.com//weibo?q=%23baby%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E4%BC%9A%E6%AF%8F%E5%A4%A9%E9%80%81%E5%B0%8F%E6%B5%B7%E7%BB%B5%E4%B8%8A%E5%AD%A6%23&Refer=top)
@@ -462,4 +462,30 @@
 1. [良辰美景吻戏花絮](https://s.weibo.com//weibo?q=%23%E8%89%AF%E8%BE%B0%E7%BE%8E%E6%99%AF%E5%90%BB%E6%88%8F%E8%8A%B1%E7%B5%AE%23&Refer=top)
 
 1. [杭州将推广抑制梧桐飞絮技术](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%B0%86%E6%8E%A8%E5%B9%BF%E6%8A%91%E5%88%B6%E6%A2%A7%E6%A1%90%E9%A3%9E%E7%B5%AE%E6%8A%80%E6%9C%AF&Refer=top)
+
+1. [咸素媛承认造假](https://s.weibo.com//weibo?q=%E5%92%B8%E7%B4%A0%E5%AA%9B%E6%89%BF%E8%AE%A4%E9%80%A0%E5%81%87&Refer=top)
+
+1. [秦岚腰围](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E5%9B%B4%23&Refer=top)
+
+1. [住建部约谈广州合肥等五市](https://s.weibo.com//weibo?q=%23%E4%BD%8F%E5%BB%BA%E9%83%A8%E7%BA%A6%E8%B0%88%E5%B9%BF%E5%B7%9E%E5%90%88%E8%82%A5%E7%AD%89%E4%BA%94%E5%B8%82%23&Refer=top)
+
+1. [新冠路打新冠疫苗](https://s.weibo.com//weibo?q=%E6%96%B0%E5%86%A0%E8%B7%AF%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [郭艾伦缺席疆辽大战](https://s.weibo.com//weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E7%BC%BA%E5%B8%AD%E7%96%86%E8%BE%BD%E5%A4%A7%E6%88%98&Refer=top)
+
+1. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [黑脸医生易凡重返岗位](https://s.weibo.com//weibo?q=%23%E9%BB%91%E8%84%B8%E5%8C%BB%E7%94%9F%E6%98%93%E5%87%A1%E9%87%8D%E8%BF%94%E5%B2%97%E4%BD%8D%23&Refer=top)
+
+1. [米佧邢克垒求婚吻](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E4%BD%A7%E9%82%A2%E5%85%8B%E5%9E%92%E6%B1%82%E5%A9%9A%E5%90%BB%23&Refer=top)
+
+1. [荣耀乒乓大结局](https://s.weibo.com//weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%92%E4%B9%93%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [侯佩岑对黄柏俊说谢谢你娶我](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E5%AF%B9%E9%BB%84%E6%9F%8F%E4%BF%8A%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0%E5%A8%B6%E6%88%91%23&Refer=top)
+
+1. [梦幻啵啵毛巾卷](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%B9%BB%E5%95%B5%E5%95%B5%E6%AF%9B%E5%B7%BE%E5%8D%B7%23&Refer=top)
+
+1. [北大保安第一人已回乡从教20年](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E4%BF%9D%E5%AE%89%E7%AC%AC%E4%B8%80%E4%BA%BA%E5%B7%B2%E5%9B%9E%E4%B9%A1%E4%BB%8E%E6%95%9920%E5%B9%B4%23&Refer=top)
+
+1. [吴前复出](https://s.weibo.com//weibo?q=%E5%90%B4%E5%89%8D%E5%A4%8D%E5%87%BA&Refer=top)
 
