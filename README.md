@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 03:15:04
+## 微博今日热榜 更新于 2021-04-09 04:08:41
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -126,4 +126,6 @@
 1. [河北迁安两名男子暴力伤医被刑拘](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E8%BF%81%E5%AE%89%E4%B8%A4%E5%90%8D%E7%94%B7%E5%AD%90%E6%9A%B4%E5%8A%9B%E4%BC%A4%E5%8C%BB%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
 
 1. [中国女足战胜韩国女足](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%88%98%E8%83%9C%E9%9F%A9%E5%9B%BD%E5%A5%B3%E8%B6%B3&Refer=top)
+
+1. [中国女足 韩国女足](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%20%E9%9F%A9%E5%9B%BD%E5%A5%B3%E8%B6%B3&Refer=top)
 
