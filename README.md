@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 00:14:38
+## 微博今日热榜 更新于 2021-04-09 01:38:31
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -106,4 +106,18 @@
 1. [疆辽大战](https://s.weibo.com//weibo?q=%23%E7%96%86%E8%BE%BD%E5%A4%A7%E6%88%98%23&Refer=top)
 
 1. [康辉直播唱歌卖藕](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E8%BE%89%E7%9B%B4%E6%92%AD%E5%94%B1%E6%AD%8C%E5%8D%96%E8%97%95%23&Refer=top)
+
+1. [疫后重振看湖北](https://s.weibo.com//weibo?q=%23%E7%96%AB%E5%90%8E%E9%87%8D%E6%8C%AF%E7%9C%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
+
+1. [张凌赫 天官赐福](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+
+1. [徐璐 陆景总是从梁辰的全世界路过](https://s.weibo.com//weibo?q=%E5%BE%90%E7%92%90%20%E9%99%86%E6%99%AF%E6%80%BB%E6%98%AF%E4%BB%8E%E6%A2%81%E8%BE%B0%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87&Refer=top)
+
+1. [宋妍霏选衣服](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E9%80%89%E8%A1%A3%E6%9C%8D%23&Refer=top)
+
+1. [你是我的城池营垒全员抱别](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%9F%8E%E6%B1%A0%E8%90%A5%E5%9E%92%E5%85%A8%E5%91%98%E6%8A%B1%E5%88%AB%23&Refer=top)
+
+1. [吹陶笛的自闭症少年](https://s.weibo.com//weibo?q=%23%E5%90%B9%E9%99%B6%E7%AC%9B%E7%9A%84%E8%87%AA%E9%97%AD%E7%97%87%E5%B0%91%E5%B9%B4%23&Refer=top)
+
+1. [巨人](https://s.weibo.com//weibo?q=%E5%B7%A8%E4%BA%BA&Refer=top)
 
