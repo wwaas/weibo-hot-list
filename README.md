@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 06:08:42
+## 微博今日热榜 更新于 2021-04-10 07:09:48
 1. [2021高燃征兵海报](https://s.weibo.com//weibo?q=%232021%E9%AB%98%E7%87%83%E5%BE%81%E5%85%B5%E6%B5%B7%E6%8A%A5%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -132,4 +132,6 @@
 1. [海南蜜蜂清明节蜇人致1死26伤](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%8D%97%E8%9C%9C%E8%9C%82%E6%B8%85%E6%98%8E%E8%8A%82%E8%9C%87%E4%BA%BA%E8%87%B41%E6%AD%BB26%E4%BC%A4&Refer=top)
 
 1. [三星堆3号青铜神树或为扶桑树](https://s.weibo.com//weibo?q=%E4%B8%89%E6%98%9F%E5%A0%863%E5%8F%B7%E9%9D%92%E9%93%9C%E7%A5%9E%E6%A0%91%E6%88%96%E4%B8%BA%E6%89%B6%E6%A1%91%E6%A0%91&Refer=top)
+
+1. [美军在科索沃战争发射31000颗贫铀弹](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%86%9B%E5%9C%A8%E7%A7%91%E7%B4%A2%E6%B2%83%E6%88%98%E4%BA%89%E5%8F%91%E5%B0%8431000%E9%A2%97%E8%B4%AB%E9%93%80%E5%BC%B9&Refer=top)
 
