@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 08:27:43
+## 微博今日热榜 更新于 2021-04-09 09:55:34
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -176,4 +176,34 @@
 1. [拜登宣布多项控枪行政措施](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E5%A4%9A%E9%A1%B9%E6%8E%A7%E6%9E%AA%E8%A1%8C%E6%94%BF%E6%8E%AA%E6%96%BD%23&Refer=top)
 
 1. [10家平台承诺不用大数据杀熟](https://s.weibo.com//weibo?q=10%E5%AE%B6%E5%B9%B3%E5%8F%B0%E6%89%BF%E8%AF%BA%E4%B8%8D%E7%94%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F&Refer=top)
+
+1. [韩媒吐槽中国球迷加油声太大](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%AA%92%E5%90%90%E6%A7%BD%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%8A%A0%E6%B2%B9%E5%A3%B0%E5%A4%AA%E5%A4%A7%23&Refer=top)
+
+1. [印小天龚俊张哲瀚合照](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%B0%8F%E5%A4%A9%E9%BE%9A%E4%BF%8A%E5%BC%A0%E5%93%B2%E7%80%9A%E5%90%88%E7%85%A7&Refer=top)
+
+1. [林依晨送公公上班图](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E9%80%81%E5%85%AC%E5%85%AC%E4%B8%8A%E7%8F%AD%E5%9B%BE&Refer=top)
+
+1. [湖人将于5月13日揭幕冠军旗帜](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%E5%B0%86%E4%BA%8E5%E6%9C%8813%E6%97%A5%E6%8F%AD%E5%B9%95%E5%86%A0%E5%86%9B%E6%97%97%E5%B8%9C&Refer=top)
+
+1. [郑乃馨方回应与李振宁恋情](https://s.weibo.com//weibo?q=%23%E9%83%91%E4%B9%83%E9%A6%A8%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%8E%E6%9D%8E%E6%8C%AF%E5%AE%81%E6%81%8B%E6%83%85%23&Refer=top)
+
+1. [陆柯燃渐变紫西装](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%9F%AF%E7%87%83%E6%B8%90%E5%8F%98%E7%B4%AB%E8%A5%BF%E8%A3%85%23&Refer=top)
+
+1. [福州10万株茉莉花苗免费送市民](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B7%9E10%E4%B8%87%E6%A0%AA%E8%8C%89%E8%8E%89%E8%8A%B1%E8%8B%97%E5%85%8D%E8%B4%B9%E9%80%81%E5%B8%82%E6%B0%91%23&Refer=top)
+
+1. [奶奶对人生的态度](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E6%80%81%E5%BA%A6%23&Refer=top)
+
+1. [2000元的玩具熊被炒到3万元](https://s.weibo.com//weibo?q=%232000%E5%85%83%E7%9A%84%E7%8E%A9%E5%85%B7%E7%86%8A%E8%A2%AB%E7%82%92%E5%88%B03%E4%B8%87%E5%85%83%23&Refer=top)
+
+1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [美图已累计净购买约1亿美元加密货币](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BE%E5%B7%B2%E7%B4%AF%E8%AE%A1%E5%87%80%E8%B4%AD%E4%B9%B0%E7%BA%A61%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81&Refer=top)
+
+1. [广东河源一水库库底疑现古代建筑](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E6%B2%B3%E6%BA%90%E4%B8%80%E6%B0%B4%E5%BA%93%E5%BA%93%E5%BA%95%E7%96%91%E7%8E%B0%E5%8F%A4%E4%BB%A3%E5%BB%BA%E7%AD%91&Refer=top)
+
+1. [国际护胃日](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E6%8A%A4%E8%83%83%E6%97%A5%23&Refer=top)
+
+1. [一个字形容当兵有多酷](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E5%AD%97%E5%BD%A2%E5%AE%B9%E5%BD%93%E5%85%B5%E6%9C%89%E5%A4%9A%E9%85%B7%23&Refer=top)
+
+1. [印尼极端天气灾害已造成165人死亡](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%BC%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%E7%81%BE%E5%AE%B3%E5%B7%B2%E9%80%A0%E6%88%90165%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
 
