@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 17:10:03
+## 微博今日热榜 更新于 2021-04-09 18:08:36
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -406,4 +406,28 @@
 1. [医学专家称弗洛伊德死于缺氧](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E5%AD%A6%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E6%AD%BB%E4%BA%8E%E7%BC%BA%E6%B0%A7%23&Refer=top)
 
 1. [贵州金沙一煤矿发生煤与瓦斯突出事故](https://s.weibo.com//weibo?q=%E8%B4%B5%E5%B7%9E%E9%87%91%E6%B2%99%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E7%85%A4%E4%B8%8E%E7%93%A6%E6%96%AF%E7%AA%81%E5%87%BA%E4%BA%8B%E6%95%85&Refer=top)
+
+1. [百年奋斗百年征程](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%99%BE%E5%B9%B4%E5%BE%81%E7%A8%8B%23&Refer=new_time)
+
+1. [陈小纭微博小尾巴是关你peace](https://s.weibo.com//weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%E5%BE%AE%E5%8D%9A%E5%B0%8F%E5%B0%BE%E5%B7%B4%E6%98%AF%E5%85%B3%E4%BD%A0peace&Refer=top)
+
+1. [百世极兔因低价倾销被罚](https://s.weibo.com//weibo?q=%E7%99%BE%E4%B8%96%E6%9E%81%E5%85%94%E5%9B%A0%E4%BD%8E%E4%BB%B7%E5%80%BE%E9%94%80%E8%A2%AB%E7%BD%9A&Refer=top)
+
+1. [刘若英力挺林依晨](https://s.weibo.com//weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%E5%8A%9B%E6%8C%BA%E6%9E%97%E4%BE%9D%E6%99%A8&Refer=top)
+
+1. [邓伦生图](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E7%94%9F%E5%9B%BE%23&Refer=top)
+
+1. [李易峰说傻子才不拍号手就位](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E8%AF%B4%E5%82%BB%E5%AD%90%E6%89%8D%E4%B8%8D%E6%8B%8D%E5%8F%B7%E6%89%8B%E5%B0%B1%E4%BD%8D%23&Refer=top)
+
+1. [李兰娟呼吁尽早接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%85%B0%E5%A8%9F%E5%91%BC%E5%90%81%E5%B0%BD%E6%97%A9%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [中海油渤海一油田发生井喷着火事故](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%B5%B7%E6%B2%B9%E6%B8%A4%E6%B5%B7%E4%B8%80%E6%B2%B9%E7%94%B0%E5%8F%91%E7%94%9F%E4%BA%95%E5%96%B7%E7%9D%80%E7%81%AB%E4%BA%8B%E6%95%85%23&Refer=top)
+
+1. [龚俊 厦门](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E5%8E%A6%E9%97%A8&Refer=top)
+
+1. [记者采访工地塌方兜里被塞两千块](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E5%B7%A5%E5%9C%B0%E5%A1%8C%E6%96%B9%E5%85%9C%E9%87%8C%E8%A2%AB%E5%A1%9E%E4%B8%A4%E5%8D%83%E5%9D%97%23&Refer=top)
+
+1. [医生一铁锹拍翻持刀施暴男子](https://s.weibo.com//weibo?q=%E5%8C%BB%E7%94%9F%E4%B8%80%E9%93%81%E9%94%B9%E6%8B%8D%E7%BF%BB%E6%8C%81%E5%88%80%E6%96%BD%E6%9A%B4%E7%94%B7%E5%AD%90&Refer=top)
+
+1. [猪肉价格连降十周](https://s.weibo.com//weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E8%BF%9E%E9%99%8D%E5%8D%81%E5%91%A8%23&Refer=top)
 
