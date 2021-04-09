@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 21:17:18
+## 微博今日热榜 更新于 2021-04-09 22:08:43
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -510,4 +510,20 @@
 1. [人类幼崽社死名场面](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%A4%BE%E6%AD%BB%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
 
 1. [拥有了整个春天的鸭子](https://s.weibo.com//weibo?q=%E6%8B%A5%E6%9C%89%E4%BA%86%E6%95%B4%E4%B8%AA%E6%98%A5%E5%A4%A9%E7%9A%84%E9%B8%AD%E5%AD%90&Refer=top)
+
+1. [美华裔老太反杀袭击者视频](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%8D%8E%E8%A3%94%E8%80%81%E5%A4%AA%E5%8F%8D%E6%9D%80%E8%A2%AD%E5%87%BB%E8%80%85%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [好多宇](https://s.weibo.com//weibo?q=%E5%A5%BD%E5%A4%9A%E5%AE%87&Refer=top)
+
+1. [赞多力丸再现初舞台](https://s.weibo.com//weibo?q=%23%E8%B5%9E%E5%A4%9A%E5%8A%9B%E4%B8%B8%E5%86%8D%E7%8E%B0%E5%88%9D%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [华晨宇关晓彤唱跳护花使者](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%85%B3%E6%99%93%E5%BD%A4%E5%94%B1%E8%B7%B3%E6%8A%A4%E8%8A%B1%E4%BD%BF%E8%80%85%23&Refer=top)
+
+1. [创造营粉丝见面会 难听](https://s.weibo.com//weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%20%E9%9A%BE%E5%90%AC&Refer=top)
+
+1. [瑞丽市第二轮全员核酸检测阳性18份](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E5%B8%82%E7%AC%AC%E4%BA%8C%E8%BD%AE%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A718%E4%BB%BD%23&Refer=top)
+
+1. [周柯宇说力丸打呼噜是全营最响](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E8%AF%B4%E5%8A%9B%E4%B8%B8%E6%89%93%E5%91%BC%E5%99%9C%E6%98%AF%E5%85%A8%E8%90%A5%E6%9C%80%E5%93%8D%23&Refer=top)
+
+1. [林墨张嘉元loverboy88舞台](https://s.weibo.com//weibo?q=%E6%9E%97%E5%A2%A8%E5%BC%A0%E5%98%89%E5%85%83loverboy88%E8%88%9E%E5%8F%B0&Refer=top)
 
