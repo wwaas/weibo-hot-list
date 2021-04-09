@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 07:09:39
+## 微博今日热榜 更新于 2021-04-09 08:27:43
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -134,4 +134,46 @@
 1. [英雄湖北浴火重生](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E6%B9%96%E5%8C%97%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%23&Refer=new_time)
 
 1. [吴亦凡工作室注册大碗宽面商标](https://s.weibo.com//weibo?q=%E5%90%B4%E4%BA%A6%E5%87%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%B3%A8%E5%86%8C%E5%A4%A7%E7%A2%97%E5%AE%BD%E9%9D%A2%E5%95%86%E6%A0%87&Refer=top)
+
+1. [龚俊 我真的不是耍大牌](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%20%E6%88%91%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E8%80%8D%E5%A4%A7%E7%89%8C&Refer=top)
+
+1. [冯巩和他的姐姐](https://s.weibo.com//weibo?q=%E5%86%AF%E5%B7%A9%E5%92%8C%E4%BB%96%E7%9A%84%E5%A7%90%E5%A7%90&Refer=top)
+
+1. [德国记者揭露许多西方媒体是美国CIA傀儡](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%9B%BD%E8%AE%B0%E8%80%85%E6%8F%AD%E9%9C%B2%E8%AE%B8%E5%A4%9A%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%98%AF%E7%BE%8E%E5%9B%BDCIA%E5%82%80%E5%84%A1%23&Refer=top)
+
+1. [云南现有确诊87例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E7%8E%B0%E6%9C%89%E7%A1%AE%E8%AF%8A87%E4%BE%8B%23&Refer=top)
+
+1. [我国成功发射试验六号03星](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E8%AF%95%E9%AA%8C%E5%85%AD%E5%8F%B703%E6%98%9F&Refer=top)
+
+1. [云南新增8例确诊](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E8%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [港警完美回应美媒挖坑式提问](https://s.weibo.com//weibo?q=%23%E6%B8%AF%E8%AD%A6%E5%AE%8C%E7%BE%8E%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AA%92%E6%8C%96%E5%9D%91%E5%BC%8F%E6%8F%90%E9%97%AE%23&Refer=top)
+
+1. [美国两名华人男女遭枪杀](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%90%8D%E5%8D%8E%E4%BA%BA%E7%94%B7%E5%A5%B3%E9%81%AD%E6%9E%AA%E6%9D%80&Refer=top)
+
+1. [人大回应多名考生复试0分](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%90%8D%E8%80%83%E7%94%9F%E5%A4%8D%E8%AF%950%E5%88%86%23&Refer=top)
+
+1. [宣布人传人那天钟南山累到忘词](https://s.weibo.com//weibo?q=%E5%AE%A3%E5%B8%83%E4%BA%BA%E4%BC%A0%E4%BA%BA%E9%82%A3%E5%A4%A9%E9%92%9F%E5%8D%97%E5%B1%B1%E7%B4%AF%E5%88%B0%E5%BF%98%E8%AF%8D&Refer=top)
+
+1. [乌合麒麟 披甲](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%20%E6%8A%AB%E7%94%B2&Refer=top)
+
+1. [男子散布新冠疫苗不实言论被拘](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E5%B8%83%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%B8%8D%E5%AE%9E%E8%A8%80%E8%AE%BA%E8%A2%AB%E6%8B%98%23&Refer=top)
+
+1. [摄影爱好者拍下成群白鹭惊艳一幕](https://s.weibo.com//weibo?q=%23%E6%91%84%E5%BD%B1%E7%88%B1%E5%A5%BD%E8%80%85%E6%8B%8D%E4%B8%8B%E6%88%90%E7%BE%A4%E7%99%BD%E9%B9%AD%E6%83%8A%E8%89%B3%E4%B8%80%E5%B9%95%23&Refer=top)
+
+1. [远离花为何还会花粉过敏](https://s.weibo.com//weibo?q=%23%E8%BF%9C%E7%A6%BB%E8%8A%B1%E4%B8%BA%E4%BD%95%E8%BF%98%E4%BC%9A%E8%8A%B1%E7%B2%89%E8%BF%87%E6%95%8F%23&Refer=top)
+
+1. [2021年第100天](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E7%AC%AC100%E5%A4%A9%23&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
+
+1. [纪录片一级响应](https://s.weibo.com//weibo?q=%23%E7%BA%AA%E5%BD%95%E7%89%87%E4%B8%80%E7%BA%A7%E5%93%8D%E5%BA%94%23&Refer=top)
+
+1. [小朋友的身材有多绝](https://s.weibo.com//weibo?q=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E8%BA%AB%E6%9D%90%E6%9C%89%E5%A4%9A%E7%BB%9D&Refer=top)
+
+1. [上厕所引发的社死现场](https://s.weibo.com//weibo?q=%E4%B8%8A%E5%8E%95%E6%89%80%E5%BC%95%E5%8F%91%E7%9A%84%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA&Refer=top)
+
+1. [拜登宣布多项控枪行政措施](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E5%A4%9A%E9%A1%B9%E6%8E%A7%E6%9E%AA%E8%A1%8C%E6%94%BF%E6%8E%AA%E6%96%BD%23&Refer=top)
+
+1. [10家平台承诺不用大数据杀熟](https://s.weibo.com//weibo?q=10%E5%AE%B6%E5%B9%B3%E5%8F%B0%E6%89%BF%E8%AF%BA%E4%B8%8D%E7%94%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F&Refer=top)
 
