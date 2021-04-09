@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 10:34:56
+## 微博今日热榜 更新于 2021-04-09 11:10:15
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -230,4 +230,14 @@
 1. [欧扎克](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%89%8E%E5%85%8B&Refer=top)
 
 1. [31省区市新增21例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E21%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [2021高燃征兵海报](https://s.weibo.com//weibo?q=%232021%E9%AB%98%E7%87%83%E5%BE%81%E5%85%B5%E6%B5%B7%E6%8A%A5%23&Refer=new_time)
+
+1. [刘诗诗短发](https://s.weibo.com//weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E7%9F%AD%E5%8F%91&Refer=top)
+
+1. [新疆网红怼外媒](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E7%BD%91%E7%BA%A2%E6%80%BC%E5%A4%96%E5%AA%92%23&Refer=top)
+
+1. [杭州区划调整后原则上学区不作调整](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8C%BA%E5%88%92%E8%B0%83%E6%95%B4%E5%90%8E%E5%8E%9F%E5%88%99%E4%B8%8A%E5%AD%A6%E5%8C%BA%E4%B8%8D%E4%BD%9C%E8%B0%83%E6%95%B4%23&Refer=top)
+
+1. [当小学老师也太快乐了](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E4%B9%9F%E5%A4%AA%E5%BF%AB%E4%B9%90%E4%BA%86%23&Refer=top)
 
