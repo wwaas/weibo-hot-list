@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 18:08:36
+## 微博今日热榜 更新于 2021-04-09 19:06:52
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -430,4 +430,30 @@
 1. [医生一铁锹拍翻持刀施暴男子](https://s.weibo.com//weibo?q=%E5%8C%BB%E7%94%9F%E4%B8%80%E9%93%81%E9%94%B9%E6%8B%8D%E7%BF%BB%E6%8C%81%E5%88%80%E6%96%BD%E6%9A%B4%E7%94%B7%E5%AD%90&Refer=top)
 
 1. [猪肉价格连降十周](https://s.weibo.com//weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E8%BF%9E%E9%99%8D%E5%8D%81%E5%91%A8%23&Refer=top)
+
+1. [教育部发文要求缓解家长压力焦虑](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E8%A6%81%E6%B1%82%E7%BC%93%E8%A7%A3%E5%AE%B6%E9%95%BF%E5%8E%8B%E5%8A%9B%E7%84%A6%E8%99%91%23&Refer=new_time)
+
+1. [张彬彬没把钟汉良微信推给景甜](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%B2%A1%E6%8A%8A%E9%92%9F%E6%B1%89%E8%89%AF%E5%BE%AE%E4%BF%A1%E6%8E%A8%E7%BB%99%E6%99%AF%E7%94%9C%23&Refer=top)
+
+1. [闲鱼涉嫌发布违规租赁信息被约谈](https://s.weibo.com//weibo?q=%E9%97%B2%E9%B1%BC%E6%B6%89%E5%AB%8C%E5%8F%91%E5%B8%83%E8%BF%9D%E8%A7%84%E7%A7%9F%E8%B5%81%E4%BF%A1%E6%81%AF%E8%A2%AB%E7%BA%A6%E8%B0%88&Refer=top)
+
+1. [唐嫣为吕一打call](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E4%B8%BA%E5%90%95%E4%B8%80%E6%89%93call%23&Refer=top)
+
+1. [汤姆的梦中情猫](https://s.weibo.com//weibo?q=%23%E6%B1%A4%E5%A7%86%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E7%8C%AB%23&Refer=top)
+
+1. [王鹤棣给秦岚系鞋带](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%99%E7%A7%A6%E5%B2%9A%E7%B3%BB%E9%9E%8B%E5%B8%A6%23&Refer=top)
+
+1. [中学设情绪发泄室让学生解压](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%AE%BE%E6%83%85%E7%BB%AA%E5%8F%91%E6%B3%84%E5%AE%A4%E8%AE%A9%E5%AD%A6%E7%94%9F%E8%A7%A3%E5%8E%8B%23&Refer=top)
+
+1. [允许非居民在海南自由贸易港内买房](https://s.weibo.com//weibo?q=%E5%85%81%E8%AE%B8%E9%9D%9E%E5%B1%85%E6%B0%91%E5%9C%A8%E6%B5%B7%E5%8D%97%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%E6%B8%AF%E5%86%85%E4%B9%B0%E6%88%BF&Refer=top)
+
+1. [不该为前置镜头焦虑的原因](https://s.weibo.com//weibo?q=%E4%B8%8D%E8%AF%A5%E4%B8%BA%E5%89%8D%E7%BD%AE%E9%95%9C%E5%A4%B4%E7%84%A6%E8%99%91%E7%9A%84%E5%8E%9F%E5%9B%A0&Refer=top)
+
+1. [林一新剧上头](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B8%80%E6%96%B0%E5%89%A7%E4%B8%8A%E5%A4%B4%23&Refer=top)
+
+1. [江苏专转本成绩](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%8B%8F%E4%B8%93%E8%BD%AC%E6%9C%AC%E6%88%90%E7%BB%A9&Refer=top)
+
+1. [原来宠物也会争宠](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E5%AE%A0%E7%89%A9%E4%B9%9F%E4%BC%9A%E4%BA%89%E5%AE%A0&Refer=top)
+
+1. [长歌行李乐嫣仿妆](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%AD%8C%E8%A1%8C%E6%9D%8E%E4%B9%90%E5%AB%A3%E4%BB%BF%E5%A6%86%23&Refer=top)
 
