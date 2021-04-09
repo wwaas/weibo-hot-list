@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-09 12:09:25
+## 微博今日热榜 更新于 2021-04-09 13:13:49
 1. [海南自贸港放宽市场准入特别措施发布](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF%E6%94%BE%E5%AE%BD%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E7%89%B9%E5%88%AB%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83%23&Refer=new_time)
 
 1. [邢菲被陌生男子尾随数日报警](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%95%B0%E6%97%A5%E6%8A%A5%E8%AD%A6%23&Refer=top)
@@ -270,4 +270,38 @@
 1. [女子剪掉全球最长指甲](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%89%AA%E6%8E%89%E5%85%A8%E7%90%83%E6%9C%80%E9%95%BF%E6%8C%87%E7%94%B2%23&Refer=top)
 
 1. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top)
+
+1. [幼儿园不得设学前班](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%8D%E5%BE%97%E8%AE%BE%E5%AD%A6%E5%89%8D%E7%8F%AD%23&Refer=top)
+
+1. [小学严格执行免试就近入学](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E4%B8%A5%E6%A0%BC%E6%89%A7%E8%A1%8C%E5%85%8D%E8%AF%95%E5%B0%B1%E8%BF%91%E5%85%A5%E5%AD%A6%23&Refer=top)
+
+1. [乘风破浪的姐姐总决赛](https://s.weibo.com//weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B&Refer=top)
+
+1. [肖战工作室获得行政许可](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%8E%B7%E5%BE%97%E8%A1%8C%E6%94%BF%E8%AE%B8%E5%8F%AF%23&Refer=top)
+
+1. [女毕业生实名举报老师性骚扰](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%AF%95%E4%B8%9A%E7%94%9F%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E8%80%81%E5%B8%88%E6%80%A7%E9%AA%9A%E6%89%B0%23&Refer=top)
+
+1. [董思成 天官赐福](https://s.weibo.com//weibo?q=%E8%91%A3%E6%80%9D%E6%88%90%20%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+
+1. [花70万买画女孩被指在娃圈做代理](https://s.weibo.com//weibo?q=%E8%8A%B170%E4%B8%87%E4%B9%B0%E7%94%BB%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%A8%83%E5%9C%88%E5%81%9A%E4%BB%A3%E7%90%86&Refer=top)
+
+1. [张艺兴向往5常驻](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%90%91%E5%BE%805%E5%B8%B8%E9%A9%BB%23&Refer=top)
+
+1. [择君记官宣](https://s.weibo.com//weibo?q=%23%E6%8B%A9%E5%90%9B%E8%AE%B0%E5%AE%98%E5%AE%A3%23&Refer=top)
+
+1. [向往的生活家庭氛围感海报](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%AE%B6%E5%BA%AD%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%B5%B7%E6%8A%A5%23&Refer=top)
+
+1. [上海地铁通过实名申请可免安检](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E9%80%9A%E8%BF%87%E5%AE%9E%E5%90%8D%E7%94%B3%E8%AF%B7%E5%8F%AF%E5%85%8D%E5%AE%89%E6%A3%80%23&Refer=top)
+
+1. [刘涛给男小编化妆](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E7%BB%99%E7%94%B7%E5%B0%8F%E7%BC%96%E5%8C%96%E5%A6%86%23&Refer=top)
+
+1. [贝弗利二级恶意犯规](https://s.weibo.com//weibo?q=%E8%B4%9D%E5%BC%97%E5%88%A9%E4%BA%8C%E7%BA%A7%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84&Refer=top)
+
+1. [伦纳德隔扣艾顿](https://s.weibo.com//weibo?q=%23%E4%BC%A6%E7%BA%B3%E5%BE%B7%E9%9A%94%E6%89%A3%E8%89%BE%E9%A1%BF%23&Refer=top)
+
+1. [拐卖妇女儿童乞丐哥获刑13年半](https://s.weibo.com//weibo?q=%23%E6%8B%90%E5%8D%96%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E4%B9%9E%E4%B8%90%E5%93%A5%E8%8E%B7%E5%88%9113%E5%B9%B4%E5%8D%8A%23&Refer=top)
+
+1. [马斯克公布猴子用意念打游戏视频](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%B8%83%E7%8C%B4%E5%AD%90%E7%94%A8%E6%84%8F%E5%BF%B5%E6%89%93%E6%B8%B8%E6%88%8F%E8%A7%86%E9%A2%91&Refer=top)
+
+1. [顺丰控股一季度预亏约10亿元](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E6%8E%A7%E8%82%A1%E4%B8%80%E5%AD%A3%E5%BA%A6%E9%A2%84%E4%BA%8F%E7%BA%A610%E4%BA%BF%E5%85%83%23&Refer=top)
 
