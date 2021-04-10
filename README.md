@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-10 09:55:22
+## 微博今日热榜 更新于 2021-04-10 10:33:03
 1. [2021高燃征兵海报](https://s.weibo.com//weibo?q=%232021%E9%AB%98%E7%87%83%E5%BE%81%E5%85%B5%E6%B5%B7%E6%8A%A5%23&Refer=new_time)
 
 1. [顺丰董事长王卫因预亏致歉](https://s.weibo.com//weibo?q=%23%E9%A1%BA%E4%B8%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%8E%8B%E5%8D%AB%E5%9B%A0%E9%A2%84%E4%BA%8F%E8%87%B4%E6%AD%89%23&Refer=top)
@@ -202,4 +202,14 @@
 1. [美股再创历史新高](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98&Refer=top)
 
 1. [长歌行细节](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E7%BB%86%E8%8A%82&Refer=top)
+
+1. [阿里巴巴回应被行政处罚](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%23&Refer=top)
+
+1. [孙燕姿的推特画风](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E7%9A%84%E6%8E%A8%E7%89%B9%E7%94%BB%E9%A3%8E%23&Refer=top)
+
+1. [人间世张丽君](https://s.weibo.com//weibo?q=%E4%BA%BA%E9%97%B4%E4%B8%96%E5%BC%A0%E4%B8%BD%E5%90%9B&Refer=top)
+
+1. [DOTA2新英雄](https://s.weibo.com//weibo?q=DOTA2%E6%96%B0%E8%8B%B1%E9%9B%84&Refer=top)
+
+1. [全球食品价格10连涨](https://s.weibo.com//weibo?q=%E5%85%A8%E7%90%83%E9%A3%9F%E5%93%81%E4%BB%B7%E6%A0%BC10%E8%BF%9E%E6%B6%A8&Refer=top)
 
