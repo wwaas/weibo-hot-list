@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 03:12:22
+## 微博今日热榜 更新于 2021-04-11 04:07:48
 1. [人民日报评监管部门处罚阿里巴巴](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%A4%84%E7%BD%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [孟鹤堂rap](https://s.weibo.com//weibo?q=%E5%AD%9F%E9%B9%A4%E5%A0%82rap&Refer=top)
 
 1. [LPL](https://s.weibo.com//weibo?q=LPL&Refer=top)
+
+1. [外交天团为武汉代言合集](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E5%A4%A9%E5%9B%A2%E4%B8%BA%E6%AD%A6%E6%B1%89%E4%BB%A3%E8%A8%80%E5%90%88%E9%9B%86%23&Refer=new_time)
+
+1. [虞书欣王鹤棣反击代拍](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%8D%E5%87%BB%E4%BB%A3%E6%8B%8D&Refer=top)
 
