@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 00:12:01
+## 微博今日热榜 更新于 2021-04-11 01:32:42
 1. [人民日报评监管部门处罚阿里巴巴](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%A4%84%E7%BD%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -104,4 +104,18 @@
 1. [苏醒奚彬带娃看病](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E5%A5%9A%E5%BD%AC%E5%B8%A6%E5%A8%83%E7%9C%8B%E7%97%85%23&Refer=top)
 
 1. [RNG战胜TES](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CTES%23&Refer=top)
+
+1. [坚决刹住滥建山寨文物之风](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E5%86%B3%E5%88%B9%E4%BD%8F%E6%BB%A5%E5%BB%BA%E5%B1%B1%E5%AF%A8%E6%96%87%E7%89%A9%E4%B9%8B%E9%A3%8E%23&Refer=new_time)
+
+1. [张雨绮 一旦接受了这个设定](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%20%E4%B8%80%E6%97%A6%E6%8E%A5%E5%8F%97%E4%BA%86%E8%BF%99%E4%B8%AA%E8%AE%BE%E5%AE%9A&Refer=top)
+
+1. [文森佐](https://s.weibo.com//weibo?q=%E6%96%87%E6%A3%AE%E4%BD%90&Refer=top)
+
+1. [流言究竟有多可怕](https://s.weibo.com//weibo?q=%23%E6%B5%81%E8%A8%80%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23&Refer=top)
+
+1. [小学严格执行免试就近入学](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E4%B8%A5%E6%A0%BC%E6%89%A7%E8%A1%8C%E5%85%8D%E8%AF%95%E5%B0%B1%E8%BF%91%E5%85%A5%E5%AD%A6%23&Refer=top)
+
+1. [李俊濠邓孝慈演小时代](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BF%8A%E6%BF%A0%E9%82%93%E5%AD%9D%E6%85%88%E6%BC%94%E5%B0%8F%E6%97%B6%E4%BB%A3&Refer=top)
+
+1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
 
