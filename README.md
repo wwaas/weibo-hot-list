@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 06:08:09
+## 微博今日热榜 更新于 2021-04-11 07:09:17
 1. [人民日报评监管部门处罚阿里巴巴](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%A4%84%E7%BD%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -130,4 +130,8 @@
 1. [职工医保将迎四大新变化](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E5%B0%86%E8%BF%8E%E5%9B%9B%E5%A4%A7%E6%96%B0%E5%8F%98%E5%8C%96%23&Refer=new_time)
 
 1. [幼儿连续用电子产品不宜超过15分钟](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E8%BF%9E%E7%BB%AD%E7%94%A8%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E4%B8%8D%E5%AE%9C%E8%B6%85%E8%BF%8715%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [美国黑市假新冠疫苗接种卡泛滥](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%91%E5%B8%82%E5%81%87%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E5%8D%A1%E6%B3%9B%E6%BB%A5%23&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
