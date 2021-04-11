@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-11 16:09:04
+## 微博今日热榜 更新于 2021-04-11 17:07:41
 1. [人民日报评监管部门处罚阿里巴巴](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%A4%84%E7%BD%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&Refer=new_time)
 
 1. [王子文改微博名](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E6%94%B9%E5%BE%AE%E5%8D%9A%E5%90%8D%23&Refer=top)
@@ -328,4 +328,34 @@
 1. [演员的语言天赋有多绝](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E7%9A%84%E8%AF%AD%E8%A8%80%E5%A4%A9%E8%B5%8B%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
 
 1. [脆皮爆浆烤棉花糖冰淇淋](https://s.weibo.com//weibo?q=%23%E8%84%86%E7%9A%AE%E7%88%86%E6%B5%86%E7%83%A4%E6%A3%89%E8%8A%B1%E7%B3%96%E5%86%B0%E6%B7%87%E6%B7%8B%23&Refer=top)
+
+1. [总台主持人花式介绍家乡地名故事](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%8A%B1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E5%AE%B6%E4%B9%A1%E5%9C%B0%E5%90%8D%E6%95%85%E4%BA%8B%23&Refer=new_time)
+
+1. [岳云鹏买128G手机实际只有112G](https://s.weibo.com//weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E4%B9%B0128G%E6%89%8B%E6%9C%BA%E5%AE%9E%E9%99%85%E5%8F%AA%E6%9C%89112G&Refer=top)
+
+1. [周琦呕吐](https://s.weibo.com//weibo?q=%E5%91%A8%E7%90%A6%E5%91%95%E5%90%90&Refer=top)
+
+1. [教育局局长回应秀霹雳舞](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%B1%80%E9%95%BF%E5%9B%9E%E5%BA%94%E7%A7%80%E9%9C%B9%E9%9B%B3%E8%88%9E%23&Refer=top)
+
+1. [吴尊友回应五一假期如何防疫](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%9B%9E%E5%BA%94%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E5%A6%82%E4%BD%95%E9%98%B2%E7%96%AB%23&Refer=top)
+
+1. [护师考试 纽曼是哪国人](https://s.weibo.com//weibo?q=%E6%8A%A4%E5%B8%88%E8%80%83%E8%AF%95%20%E7%BA%BD%E6%9B%BC%E6%98%AF%E5%93%AA%E5%9B%BD%E4%BA%BA&Refer=top)
+
+1. [又尴尬又想继续看](https://s.weibo.com//weibo?q=%23%E5%8F%88%E5%B0%B4%E5%B0%AC%E5%8F%88%E6%83%B3%E7%BB%A7%E7%BB%AD%E7%9C%8B%23&Refer=top)
+
+1. [TOPIK考试](https://s.weibo.com//weibo?q=TOPIK%E8%80%83%E8%AF%95&Refer=top)
+
+1. [我国累计接种新冠疫苗超1.6亿剂次](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%B6%851.6%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=top)
+
+1. [原来这就是死神辣椒的威力](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E6%AD%BB%E7%A5%9E%E8%BE%A3%E6%A4%92%E7%9A%84%E5%A8%81%E5%8A%9B%23&Refer=top)
+
+1. [接种新冠疫苗前后不宜饮酒](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%89%8D%E5%90%8E%E4%B8%8D%E5%AE%9C%E9%A5%AE%E9%85%92%23&Refer=top)
+
+1. [2021LPL](https://s.weibo.com//weibo?q=%232021LPL%23&Refer=top)
+
+1. [以假乱真的监控摄像头](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E7%9A%84%E7%9B%91%E6%8E%A7%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top)
+
+1. [松花江佳木斯段开江](https://s.weibo.com//weibo?q=%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%BD%B3%E6%9C%A8%E6%96%AF%E6%AE%B5%E5%BC%80%E6%B1%9F&Refer=top)
+
+1. [雅虎问答将永久关闭](https://s.weibo.com//weibo?q=%E9%9B%85%E8%99%8E%E9%97%AE%E7%AD%94%E5%B0%86%E6%B0%B8%E4%B9%85%E5%85%B3%E9%97%AD&Refer=top)
 
