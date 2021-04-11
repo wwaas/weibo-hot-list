@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 02:18:36
+## 微博今日热榜 更新于 2021-04-12 03:12:31
 1. [总台主持人花式介绍家乡地名故事](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%8A%B1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E5%AE%B6%E4%B9%A1%E5%9C%B0%E5%90%8D%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
