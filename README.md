@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 01:32:18
+## 微博今日热榜 更新于 2021-04-12 02:18:36
 1. [总台主持人花式介绍家乡地名故事](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%8A%B1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E5%AE%B6%E4%B9%A1%E5%9C%B0%E5%90%8D%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -108,4 +108,6 @@
 1. [唐宫小姐姐遇见书院小哥哥](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AE%AB%E5%B0%8F%E5%A7%90%E5%A7%90%E9%81%87%E8%A7%81%E4%B9%A6%E9%99%A2%E5%B0%8F%E5%93%A5%E5%93%A5%23&Refer=top)
 
 1. [德云社封箱](https://s.weibo.com//weibo?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%B0%81%E7%AE%B1&Refer=top)
+
+1. [那时他们的爱情](https://s.weibo.com//weibo?q=%23%E9%82%A3%E6%97%B6%E4%BB%96%E4%BB%AC%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=new_time)
 
