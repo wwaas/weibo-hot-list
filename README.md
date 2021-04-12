@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 19:07:04
+## 微博今日热榜 更新于 2021-04-12 20:11:38
 1. [总台主持人花式介绍家乡地名故事](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%8A%B1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E5%AE%B6%E4%B9%A1%E5%9C%B0%E5%90%8D%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -482,4 +482,28 @@
 1. [财政部对19家医药企业作出行政处罚](https://s.weibo.com//weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%AF%B919%E5%AE%B6%E5%8C%BB%E8%8D%AF%E4%BC%81%E4%B8%9A%E4%BD%9C%E5%87%BA%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%23&Refer=top)
 
 1. [大气东方美人妆](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B0%94%E4%B8%9C%E6%96%B9%E7%BE%8E%E4%BA%BA%E5%A6%86%23&Refer=top)
+
+1. [朱亚文刘浩存演恋人](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%BA%9A%E6%96%87%E5%88%98%E6%B5%A9%E5%AD%98%E6%BC%94%E6%81%8B%E4%BA%BA%23&Refer=top)
+
+1. [头发乱竟然是种病](https://s.weibo.com//weibo?q=%23%E5%A4%B4%E5%8F%91%E4%B9%B1%E7%AB%9F%E7%84%B6%E6%98%AF%E7%A7%8D%E7%97%85%23&Refer=top)
+
+1. [因吴磊骑行引发的家庭危机](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E5%90%B4%E7%A3%8A%E9%AA%91%E8%A1%8C%E5%BC%95%E5%8F%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%8D%B1%E6%9C%BA%23&Refer=top)
+
+1. [邹韵](https://s.weibo.com//weibo?q=%E9%82%B9%E9%9F%B5&Refer=top)
+
+1. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+
+1. [美国3岁男孩玩枪误杀8月大弟弟](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD3%E5%B2%81%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%9E%AA%E8%AF%AF%E6%9D%808%E6%9C%88%E5%A4%A7%E5%BC%9F%E5%BC%9F%23&Refer=top)
+
+1. [DIOR大秀](https://s.weibo.com//weibo?q=DIOR%E5%A4%A7%E7%A7%80&Refer=top)
+
+1. [贾跃亭被罚款2.41亿](https://s.weibo.com//weibo?q=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%A2%AB%E7%BD%9A%E6%AC%BE2.41%E4%BA%BF&Refer=top)
+
+1. [数字人民币增加6个试点测试地区](https://s.weibo.com//weibo?q=%23%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A2%9E%E5%8A%A06%E4%B8%AA%E8%AF%95%E7%82%B9%E6%B5%8B%E8%AF%95%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [张小寒](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%B0%8F%E5%AF%92&Refer=top)
+
+1. [蚂蚁集团回应再次被约谈](https://s.weibo.com//weibo?q=%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E5%86%8D%E6%AC%A1%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
+
+1. [当我问妈妈不结婚可以吗](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%88%91%E9%97%AE%E5%A6%88%E5%A6%88%E4%B8%8D%E7%BB%93%E5%A9%9A%E5%8F%AF%E4%BB%A5%E5%90%97%23&Refer=top)
 
