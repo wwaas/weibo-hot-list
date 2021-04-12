@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 02:20:59
+## 微博今日热榜 更新于 2021-04-13 03:15:51
 1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&Refer=top)
@@ -110,4 +110,10 @@
 1. [两年内将有12名中国航天员飞天](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B9%B4%E5%86%85%E5%B0%86%E6%9C%8912%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%23&Refer=new_time)
 
 1. [皓都询问乐嫣行踪时的语气变化](https://s.weibo.com//weibo?q=%23%E7%9A%93%E9%83%BD%E8%AF%A2%E9%97%AE%E4%B9%90%E5%AB%A3%E8%A1%8C%E8%B8%AA%E6%97%B6%E7%9A%84%E8%AF%AD%E6%B0%94%E5%8F%98%E5%8C%96%23&Refer=top)
+
+1. [疫后重振看湖北](https://s.weibo.com//weibo?q=%23%E7%96%AB%E5%90%8E%E9%87%8D%E6%8C%AF%E7%9C%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
+
+1. [见过最离谱的吻戏](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E5%90%BB%E6%88%8F%23&Refer=top)
+
+1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=top)
 
