@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 10:46:11
+## 微博今日热榜 更新于 2021-04-12 11:17:21
 1. [总台主持人花式介绍家乡地名故事](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%8A%B1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E5%AE%B6%E4%B9%A1%E5%9C%B0%E5%90%8D%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -214,4 +214,20 @@
 1. [瑞丽大妈为医护做红糖糯米饭](https://s.weibo.com//weibo?q=%23%E7%91%9E%E4%B8%BD%E5%A4%A7%E5%A6%88%E4%B8%BA%E5%8C%BB%E6%8A%A4%E5%81%9A%E7%BA%A2%E7%B3%96%E7%B3%AF%E7%B1%B3%E9%A5%AD%23&Refer=top)
 
 1. [骑行大哥只想要吴磊的车子](https://s.weibo.com//weibo?q=%E9%AA%91%E8%A1%8C%E5%A4%A7%E5%93%A5%E5%8F%AA%E6%83%B3%E8%A6%81%E5%90%B4%E7%A3%8A%E7%9A%84%E8%BD%A6%E5%AD%90&Refer=top)
+
+1. [国新办介绍海南自由贸易港建设进展](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%BB%8B%E7%BB%8D%E6%B5%B7%E5%8D%97%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%E6%B8%AF%E5%BB%BA%E8%AE%BE%E8%BF%9B%E5%B1%95%23&Refer=new_time)
+
+1. [郭美美等人售有毒减肥药案侦破](https://s.weibo.com//weibo?q=%E9%83%AD%E7%BE%8E%E7%BE%8E%E7%AD%89%E4%BA%BA%E5%94%AE%E6%9C%89%E6%AF%92%E5%87%8F%E8%82%A5%E8%8D%AF%E6%A1%88%E4%BE%A6%E7%A0%B4&Refer=top)
+
+1. [55岁女子火车上霸座被行拘](https://s.weibo.com//weibo?q=%2355%E5%B2%81%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E4%B8%8A%E9%9C%B8%E5%BA%A7%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
+
+1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
+
+1. [张杰新歌MV](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9D%B0%E6%96%B0%E6%AD%8CMV&Refer=top)
+
+1. [猫咪滞留动物园遭猴子撕咬](https://s.weibo.com//weibo?q=%E7%8C%AB%E5%92%AA%E6%BB%9E%E7%95%99%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%81%AD%E7%8C%B4%E5%AD%90%E6%92%95%E5%92%AC&Refer=top)
+
+1. [四川选调生考试](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E9%80%89%E8%B0%83%E7%94%9F%E8%80%83%E8%AF%95&Refer=top)
+
+1. [老人把保健品当药吃延误病情去世](https://s.weibo.com//weibo?q=%E8%80%81%E4%BA%BA%E6%8A%8A%E4%BF%9D%E5%81%A5%E5%93%81%E5%BD%93%E8%8D%AF%E5%90%83%E5%BB%B6%E8%AF%AF%E7%97%85%E6%83%85%E5%8E%BB%E4%B8%96&Refer=top)
 
