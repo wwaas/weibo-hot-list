@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 05:07:40
+## 微博今日热榜 更新于 2021-04-13 06:08:55
 1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&Refer=top)
