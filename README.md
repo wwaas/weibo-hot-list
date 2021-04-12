@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-12 11:17:21
+## 微博今日热榜 更新于 2021-04-12 12:12:25
 1. [总台主持人花式介绍家乡地名故事](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%8A%B1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E5%AE%B6%E4%B9%A1%E5%9C%B0%E5%90%8D%E6%95%85%E4%BA%8B%23&Refer=new_time)
 
 1. [沈梦辰 催婚根本催不动海涛](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%82%AC%E5%A9%9A%E6%A0%B9%E6%9C%AC%E5%82%AC%E4%B8%8D%E5%8A%A8%E6%B5%B7%E6%B6%9B&Refer=top)
@@ -230,4 +230,28 @@
 1. [四川选调生考试](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E9%80%89%E8%B0%83%E7%94%9F%E8%80%83%E8%AF%95&Refer=top)
 
 1. [老人把保健品当药吃延误病情去世](https://s.weibo.com//weibo?q=%E8%80%81%E4%BA%BA%E6%8A%8A%E4%BF%9D%E5%81%A5%E5%93%81%E5%BD%93%E8%8D%AF%E5%90%83%E5%BB%B6%E8%AF%AF%E7%97%85%E6%83%85%E5%8E%BB%E4%B8%96&Refer=top)
+
+1. [拼多多发声明处罚极兔](https://s.weibo.com//weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8F%91%E5%A3%B0%E6%98%8E%E5%A4%84%E7%BD%9A%E6%9E%81%E5%85%94&Refer=top)
+
+1. [汪小菲连麦女主播](https://s.weibo.com//weibo?q=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%BF%9E%E9%BA%A6%E5%A5%B3%E4%B8%BB%E6%92%AD&Refer=top)
+
+1. [山东城市的名字有多诗意](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9F%8E%E5%B8%82%E7%9A%84%E5%90%8D%E5%AD%97%E6%9C%89%E5%A4%9A%E8%AF%97%E6%84%8F%23&Refer=top)
+
+1. [五一多条热门航线机票价格上涨](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%A4%9A%E6%9D%A1%E7%83%AD%E9%97%A8%E8%88%AA%E7%BA%BF%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%23&Refer=top)
+
+1. [退休人员养老金将迎来17连涨](https://s.weibo.com//weibo?q=%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%85%BB%E8%80%81%E9%87%91%E5%B0%86%E8%BF%8E%E6%9D%A517%E8%BF%9E%E6%B6%A8&Refer=top)
+
+1. [路人经过广场时头发会竖起](https://s.weibo.com//weibo?q=%E8%B7%AF%E4%BA%BA%E7%BB%8F%E8%BF%87%E5%B9%BF%E5%9C%BA%E6%97%B6%E5%A4%B4%E5%8F%91%E4%BC%9A%E7%AB%96%E8%B5%B7&Refer=top)
+
+1. [2.5亿年前地球生命大灭绝或因镍雾霾](https://s.weibo.com//weibo?q=%232.5%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E5%A4%A7%E7%81%AD%E7%BB%9D%E6%88%96%E5%9B%A0%E9%95%8D%E9%9B%BE%E9%9C%BE%23&Refer=top)
+
+1. [徐贤](https://s.weibo.com//weibo?q=%E5%BE%90%E8%B4%A4&Refer=top)
+
+1. [王俊凯回应高反](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%9E%E5%BA%94%E9%AB%98%E5%8F%8D%23&Refer=top)
+
+1. [海南省长回应三亚海胆事件](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E7%9C%81%E9%95%BF%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E6%B5%B7%E8%83%86%E4%BA%8B%E4%BB%B6%23&Refer=top)
+
+1. [商家为高价销售有货不发需三倍赔偿](https://s.weibo.com//weibo?q=%E5%95%86%E5%AE%B6%E4%B8%BA%E9%AB%98%E4%BB%B7%E9%94%80%E5%94%AE%E6%9C%89%E8%B4%A7%E4%B8%8D%E5%8F%91%E9%9C%80%E4%B8%89%E5%80%8D%E8%B5%94%E5%81%BF&Refer=top)
+
+1. [深圳交警回应佛山高速口频现违章](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E4%BD%9B%E5%B1%B1%E9%AB%98%E9%80%9F%E5%8F%A3%E9%A2%91%E7%8E%B0%E8%BF%9D%E7%AB%A0%23&Refer=top)
 
