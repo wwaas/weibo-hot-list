@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 04:08:36
+## 微博今日热榜 更新于 2021-04-13 05:07:40
 1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&Refer=top)
@@ -120,4 +120,8 @@
 1. [秦岚晒王鹤棣点的外卖](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%9A%E6%99%92%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%82%B9%E7%9A%84%E5%A4%96%E5%8D%96&Refer=top)
 
 1. [司藤](https://s.weibo.com//weibo?q=%E5%8F%B8%E8%97%A4&Refer=top)
+
+1. [北京疾控发布接种新冠疫苗提示](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%BE%E6%8E%A7%E5%8F%91%E5%B8%83%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8F%90%E7%A4%BA%23&Refer=new_time)
+
+1. [上海市原市长杨雄逝世](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%BF%E6%9D%A8%E9%9B%84%E9%80%9D%E4%B8%96&Refer=top)
 
