@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 11:17:44
+## 微博今日热榜 更新于 2021-04-13 12:12:33
 1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&Refer=top)
@@ -212,4 +212,22 @@
 1. [冉高鸣称自己是秃学家](https://s.weibo.com//weibo?q=%23%E5%86%89%E9%AB%98%E9%B8%A3%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%98%AF%E7%A7%83%E5%AD%A6%E5%AE%B6%23&Refer=top)
 
 1. [库里成为勇士队史得分王](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8C%E6%88%90%E4%B8%BA%E5%8B%87%E5%A3%AB%E9%98%9F%E5%8F%B2%E5%BE%97%E5%88%86%E7%8E%8B%23&Refer=top)
+
+1. [秦牛正威 吴岱林](https://s.weibo.com//weibo?q=%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%20%E5%90%B4%E5%B2%B1%E6%9E%97&Refer=top)
+
+1. [何炅父亲被强制执行](https://s.weibo.com//weibo?q=%E4%BD%95%E7%82%85%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C&Refer=top)
+
+1. [迪士尼的初始形象有多吓人](https://s.weibo.com//weibo?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E5%88%9D%E5%A7%8B%E5%BD%A2%E8%B1%A1%E6%9C%89%E5%A4%9A%E5%90%93%E4%BA%BA&Refer=top)
+
+1. [乖乖洗头的小朋友有多可爱](https://s.weibo.com//weibo?q=%23%E4%B9%96%E4%B9%96%E6%B4%97%E5%A4%B4%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top)
+
+1. [野生大熊猫求偶打斗3小时](https://s.weibo.com//weibo?q=%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B1%82%E5%81%B6%E6%89%93%E6%96%973%E5%B0%8F%E6%97%B6&Refer=top)
+
+1. [人脸识别年龄有多不靠谱](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E5%B9%B4%E9%BE%84%E6%9C%89%E5%A4%9A%E4%B8%8D%E9%9D%A0%E8%B0%B1%23&Refer=top)
+
+1. [2020年度全国考古十大新发现](https://s.weibo.com//weibo?q=2020%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E8%80%83%E5%8F%A4%E5%8D%81%E5%A4%A7%E6%96%B0%E5%8F%91%E7%8E%B0&Refer=top)
+
+1. [2哥来了怎么办定档](https://s.weibo.com//weibo?q=%232%E5%93%A5%E6%9D%A5%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [剑网3七秀](https://s.weibo.com//weibo?q=%23%E5%89%91%E7%BD%913%E4%B8%83%E7%A7%80%23&Refer=top)
 
