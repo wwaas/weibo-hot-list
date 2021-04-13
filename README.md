@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 06:08:45
+## 微博今日热榜 更新于 2021-04-14 07:08:54
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -132,4 +132,6 @@
 1. [中国女子三大球全部打进奥运会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E4%B8%89%E5%A4%A7%E7%90%83%E5%85%A8%E9%83%A8%E6%89%93%E8%BF%9B%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
 
 1. [山河令](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4&Refer=top)
+
+1. [理想照耀中国首曝全阵容](https://s.weibo.com//weibo?q=%E7%90%86%E6%83%B3%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9B%9D%E5%85%A8%E9%98%B5%E5%AE%B9&Refer=top)
 
