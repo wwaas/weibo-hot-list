@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 21:18:13
+## 微博今日热榜 更新于 2021-04-13 22:08:34
 1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&Refer=top)
@@ -520,4 +520,28 @@
 1. [EDG扳平比分](https://s.weibo.com//weibo?q=EDG%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86&Refer=top)
 
 1. [丁辉人新歌MV](https://s.weibo.com//weibo?q=%23%E4%B8%81%E8%BE%89%E4%BA%BA%E6%96%B0%E6%AD%8CMV%23&Refer=top)
+
+1. [周韦彤一个月瘦了25斤](https://s.weibo.com//weibo?q=%23%E5%91%A8%E9%9F%A6%E5%BD%A4%E4%B8%80%E4%B8%AA%E6%9C%88%E7%98%A6%E4%BA%8625%E6%96%A4%23&Refer=top)
+
+1. [香港人讲普通话有多好笑](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%BA%BA%E8%AE%B2%E6%99%AE%E9%80%9A%E8%AF%9D%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
+
+1. [王俊凯宋亚轩同框](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%90%8C%E6%A1%86%23&Refer=top)
+
+1. [你有多久没有静下心看书了](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%9C%89%E5%A4%9A%E4%B9%85%E6%B2%A1%E6%9C%89%E9%9D%99%E4%B8%8B%E5%BF%83%E7%9C%8B%E4%B9%A6%E4%BA%86%23&Refer=top)
+
+1. [戚薇剁鱼背后的真相](https://s.weibo.com//weibo?q=%23%E6%88%9A%E8%96%87%E5%89%81%E9%B1%BC%E8%83%8C%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%23&Refer=top)
+
+1. [LPL季后赛](https://s.weibo.com//weibo?q=LPL%E5%AD%A3%E5%90%8E%E8%B5%9B&Refer=top)
+
+1. [RNG战胜EDG](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CEDG%23&Refer=top)
+
+1. [策马雪原女副县长贺娇龙已履新](https://s.weibo.com//weibo?q=%23%E7%AD%96%E9%A9%AC%E9%9B%AA%E5%8E%9F%E5%A5%B3%E5%89%AF%E5%8E%BF%E9%95%BF%E8%B4%BA%E5%A8%87%E9%BE%99%E5%B7%B2%E5%B1%A5%E6%96%B0%23&Refer=top)
+
+1. [女足比赛现场中国球迷高唱国歌](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E8%B6%B3%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E9%AB%98%E5%94%B1%E5%9B%BD%E6%AD%8C%23&Refer=top)
+
+1. [北控广州末轮争夺季后赛席位](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%8E%A7%E5%B9%BF%E5%B7%9E%E6%9C%AB%E8%BD%AE%E4%BA%89%E5%A4%BA%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%B8%AD%E4%BD%8D%23&Refer=top)
+
+1. [圣枪哥状态](https://s.weibo.com//weibo?q=%E5%9C%A3%E6%9E%AA%E5%93%A5%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [原来你是这样的顾先生](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E9%A1%BE%E5%85%88%E7%94%9F&Refer=top)
 
