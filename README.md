@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-13 08:30:33
+## 微博今日热榜 更新于 2021-04-13 09:59:30
 1. [外交部向全球特别推介湖北](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%91%E5%85%A8%E7%90%83%E7%89%B9%E5%88%AB%E6%8E%A8%E4%BB%8B%E6%B9%96%E5%8C%97%23&Refer=new_time)
 
 1. [王子文吴永恩牵手走红毯](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%E5%90%B4%E6%B0%B8%E6%81%A9%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF&Refer=top)
@@ -152,4 +152,32 @@
 1. [日本政府要求2年后能开始核废水排海](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%822%E5%B9%B4%E5%90%8E%E8%83%BD%E5%BC%80%E5%A7%8B%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%8E%92%E6%B5%B7&Refer=top)
 
 1. [篮网森林狼比赛延期](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%E6%A3%AE%E6%9E%97%E7%8B%BC%E6%AF%94%E8%B5%9B%E5%BB%B6%E6%9C%9F&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [羊肉涨价近30%](https://s.weibo.com//weibo?q=%23%E7%BE%8A%E8%82%89%E6%B6%A8%E4%BB%B7%E8%BF%9130%25%23&Refer=top)
+
+1. [佛山已优化天量罚单高速岔口](https://s.weibo.com//weibo?q=%E4%BD%9B%E5%B1%B1%E5%B7%B2%E4%BC%98%E5%8C%96%E5%A4%A9%E9%87%8F%E7%BD%9A%E5%8D%95%E9%AB%98%E9%80%9F%E5%B2%94%E5%8F%A3&Refer=top)
+
+1. [婚礼社死现场](https://s.weibo.com//weibo?q=%23%E5%A9%9A%E7%A4%BC%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [男子打110要求加微信接警员秒懂](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93110%E8%A6%81%E6%B1%82%E5%8A%A0%E5%BE%AE%E4%BF%A1%E6%8E%A5%E8%AD%A6%E5%91%98%E7%A7%92%E6%87%82%23&Refer=top)
+
+1. [大连地铁](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E5%9C%B0%E9%93%81&Refer=top)
+
+1. [广州地铁3号线](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF%23&Refer=top)
+
+1. [美国小伙扎根武当山学武11年](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E6%89%8E%E6%A0%B9%E6%AD%A6%E5%BD%93%E5%B1%B1%E5%AD%A6%E6%AD%A611%E5%B9%B4&Refer=top)
+
+1. [太空也能寄快递](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E7%A9%BA%E4%B9%9F%E8%83%BD%E5%AF%84%E5%BF%AB%E9%80%92%23&Refer=top)
+
+1. [100秒混剪解放军霸气喊话](https://s.weibo.com//weibo?q=%23100%E7%A7%92%E6%B7%B7%E5%89%AA%E8%A7%A3%E6%94%BE%E5%86%9B%E9%9C%B8%E6%B0%94%E5%96%8A%E8%AF%9D%23&Refer=top)
+
+1. [世卫称有望在几个月内控制新冠疫情](https://s.weibo.com//weibo?q=%E4%B8%96%E5%8D%AB%E7%A7%B0%E6%9C%89%E6%9C%9B%E5%9C%A8%E5%87%A0%E4%B8%AA%E6%9C%88%E5%86%85%E6%8E%A7%E5%88%B6%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85&Refer=top)
+
+1. [31省区市新增9例确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E9%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [湖人 尼克斯](https://s.weibo.com//weibo?q=%E6%B9%96%E4%BA%BA%20%E5%B0%BC%E5%85%8B%E6%96%AF&Refer=top)
+
+1. [人类的智商是个谜](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%99%BA%E5%95%86%E6%98%AF%E4%B8%AA%E8%B0%9C%23&Refer=top)
 
