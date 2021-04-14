@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-14 20:11:26
+## 微博今日热榜 更新于 2021-04-14 21:16:52
 1. [中国人工智能专利申请量世界第1](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC1%23&Refer=new_time)
 
 1. [福岛核废水57天可废掉半个太平洋](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E6%B0%B457%E5%A4%A9%E5%8F%AF%E5%BA%9F%E6%8E%89%E5%8D%8A%E4%B8%AA%E5%A4%AA%E5%B9%B3%E6%B4%8B%23&Refer=top)
@@ -442,4 +442,34 @@
 1. [吉野家2020年净亏75亿日元](https://s.weibo.com//weibo?q=%23%E5%90%89%E9%87%8E%E5%AE%B62020%E5%B9%B4%E5%87%80%E4%BA%8F75%E4%BA%BF%E6%97%A5%E5%85%83%23&Refer=top)
 
 1. [日本番茄酱大王停止进口新疆番茄](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%95%AA%E8%8C%84%E9%85%B1%E5%A4%A7%E7%8E%8B%E5%81%9C%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%96%B0%E7%96%86%E7%95%AA%E8%8C%84%23&Refer=top)
+
+1. [李亨利](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BA%A8%E5%88%A9&Refer=top)
+
+1. [脱粉](https://s.weibo.com//weibo?q=%E8%84%B1%E7%B2%89&Refer=top)
+
+1. [教资69](https://s.weibo.com//weibo?q=%E6%95%99%E8%B5%8469&Refer=top)
+
+1. [肖战晒武汉长江大桥夜景照](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E6%99%92%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E5%A4%9C%E6%99%AF%E7%85%A7&Refer=top)
+
+1. [女主颜值最能打的国漫](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E4%B8%BB%E9%A2%9C%E5%80%BC%E6%9C%80%E8%83%BD%E6%89%93%E7%9A%84%E5%9B%BD%E6%BC%AB%23&Refer=top)
+
+1. [新疆小伙用沙画怒怼西方谣言](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%B0%8F%E4%BC%99%E7%94%A8%E6%B2%99%E7%94%BB%E6%80%92%E6%80%BC%E8%A5%BF%E6%96%B9%E8%B0%A3%E8%A8%80%23&Refer=top)
+
+1. [广东警方通报医生医院坠亡](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8C%BB%E7%94%9F%E5%8C%BB%E9%99%A2%E5%9D%A0%E4%BA%A1%23&Refer=top)
+
+1. [赵丽颖五登时尚芭莎](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%BA%94%E7%99%BB%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%23&Refer=top)
+
+1. [想吃教资面试的苦](https://s.weibo.com//weibo?q=%23%E6%83%B3%E5%90%83%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E7%9A%84%E8%8B%A6%23&Refer=top)
+
+1. [四川人取名也用叠词](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%BA%BA%E5%8F%96%E5%90%8D%E4%B9%9F%E7%94%A8%E5%8F%A0%E8%AF%8D%23&Refer=top)
+
+1. [父母不理解的爱情](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%8D%E7%90%86%E8%A7%A3%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=top)
+
+1. [张柏芝打call团](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%89%93call%E5%9B%A2&Refer=top)
+
+1. [壮族小朋友的节日装扮](https://s.weibo.com//weibo?q=%23%E5%A3%AE%E6%97%8F%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E8%8A%82%E6%97%A5%E8%A3%85%E6%89%AE%23&Refer=top)
+
+1. [纸巾盒可以有多沙雕](https://s.weibo.com//weibo?q=%23%E7%BA%B8%E5%B7%BE%E7%9B%92%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E6%B2%99%E9%9B%95%23&Refer=top)
+
+1. [直男是怎么切蛋糕的](https://s.weibo.com//weibo?q=%23%E7%9B%B4%E7%94%B7%E6%98%AF%E6%80%8E%E4%B9%88%E5%88%87%E8%9B%8B%E7%B3%95%E7%9A%84%23&Refer=top)
 
