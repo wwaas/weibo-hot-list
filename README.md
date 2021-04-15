@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-16 01:33:37
+## 微博今日热榜 更新于 2021-04-16 02:20:27
 1. [那些你没见过的国旗设计稿](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E4%BD%A0%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E5%9B%BD%E6%97%97%E8%AE%BE%E8%AE%A1%E7%A8%BF%23&Refer=new_time)
 
 1. [程莉莎不愿跟郭晓东回农村养老](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E4%B8%8D%E6%84%BF%E8%B7%9F%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81%23&Refer=top)
@@ -108,4 +108,6 @@
 1. [黄圣依杨子的暗号是狗叫](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E7%9A%84%E6%9A%97%E5%8F%B7%E6%98%AF%E7%8B%97%E5%8F%AB%23&Refer=top)
 
 1. [骊歌行](https://s.weibo.com//weibo?q=%E9%AA%8A%E6%AD%8C%E8%A1%8C&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
