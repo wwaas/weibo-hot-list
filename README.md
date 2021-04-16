@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-17 01:33:15
+## 微博今日热榜 更新于 2021-04-17 02:20:20
 1. [最新沙尘防护指南](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B0%E6%B2%99%E5%B0%98%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [乘风破浪的姐姐2成团名单](https://s.weibo.com//weibo?q=%23%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%902%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23&Refer=top)
@@ -118,4 +118,10 @@
 1. [5月1日起遛狗不拴绳违法](https://s.weibo.com//weibo?q=%235%E6%9C%881%E6%97%A5%E8%B5%B7%E9%81%9B%E7%8B%97%E4%B8%8D%E6%8B%B4%E7%BB%B3%E8%BF%9D%E6%B3%95%23&Refer=top)
 
 1. [景甜谈人生低谷期](https://s.weibo.com//weibo?q=%E6%99%AF%E7%94%9C%E8%B0%88%E4%BA%BA%E7%94%9F%E4%BD%8E%E8%B0%B7%E6%9C%9F&Refer=top)
+
+1. [脱贫攻坚巡礼网络名人宁夏行](https://s.weibo.com//weibo?q=%23%E8%84%B1%E8%B4%AB%E6%94%BB%E5%9D%9A%E5%B7%A1%E7%A4%BC%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E5%AE%81%E5%A4%8F%E8%A1%8C%23&Refer=new_time)
+
+1. [王大陆发弹幕让林允接电话](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%A4%A7%E9%99%86%E5%8F%91%E5%BC%B9%E5%B9%95%E8%AE%A9%E6%9E%97%E5%85%81%E6%8E%A5%E7%94%B5%E8%AF%9D&Refer=top)
+
+1. [苏醒奚彬分居](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E5%A5%9A%E5%BD%AC%E5%88%86%E5%B1%85%23&Refer=top)
 
