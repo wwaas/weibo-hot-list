@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-17 05:07:17
+## 微博今日热榜 更新于 2021-04-17 06:08:31
 1. [最新沙尘防护指南](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B0%E6%B2%99%E5%B0%98%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%23&Refer=new_time)
 
 1. [乘风破浪的姐姐2成团名单](https://s.weibo.com//weibo?q=%23%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%902%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23&Refer=top)
