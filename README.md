@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-18 00:12:08
+## 微博今日热榜 更新于 2021-04-18 01:30:28
 1. [追寻先烈足迹](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E5%AF%BB%E5%85%88%E7%83%88%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [郑恺今年办婚礼](https://s.weibo.com//weibo?q=%E9%83%91%E6%81%BA%E4%BB%8A%E5%B9%B4%E5%8A%9E%E5%A9%9A%E7%A4%BC&Refer=top)
@@ -104,4 +104,8 @@
 1. [还有两周五一小长假](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%89%E4%B8%A4%E5%91%A8%E4%BA%94%E4%B8%80%E5%B0%8F%E9%95%BF%E5%81%87%23&Refer=top)
 
 1. [CBA季后赛8进4对阵](https://s.weibo.com//weibo?q=CBA%E5%AD%A3%E5%90%8E%E8%B5%9B8%E8%BF%9B4%E5%AF%B9%E9%98%B5&Refer=top)
+
+1. [宋亚轩 我一定会当起哥哥的责任](https://s.weibo.com//weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E6%88%91%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BD%93%E8%B5%B7%E5%93%A5%E5%93%A5%E7%9A%84%E8%B4%A3%E4%BB%BB&Refer=top)
+
+1. [小朋友写的诗有多温柔](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%86%99%E7%9A%84%E8%AF%97%E6%9C%89%E5%A4%9A%E6%B8%A9%E6%9F%94%23&Refer=top)
 
