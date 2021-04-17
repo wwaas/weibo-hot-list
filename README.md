@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-18 01:30:28
+## 微博今日热榜 更新于 2021-04-18 02:16:45
 1. [追寻先烈足迹](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E5%AF%BB%E5%85%88%E7%83%88%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
 
 1. [郑恺今年办婚礼](https://s.weibo.com//weibo?q=%E9%83%91%E6%81%BA%E4%BB%8A%E5%B9%B4%E5%8A%9E%E5%A9%9A%E7%A4%BC&Refer=top)
@@ -108,4 +108,12 @@
 1. [宋亚轩 我一定会当起哥哥的责任](https://s.weibo.com//weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E6%88%91%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%BD%93%E8%B5%B7%E5%93%A5%E5%93%A5%E7%9A%84%E8%B4%A3%E4%BB%BB&Refer=top)
 
 1. [小朋友写的诗有多温柔](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%86%99%E7%9A%84%E8%AF%97%E6%9C%89%E5%A4%9A%E6%B8%A9%E6%9F%94%23&Refer=top)
+
+1. [热门红色旅游景点](https://s.weibo.com//weibo?q=%23%E7%83%AD%E9%97%A8%E7%BA%A2%E8%89%B2%E6%97%85%E6%B8%B8%E6%99%AF%E7%82%B9%23&Refer=new_time)
+
+1. [高空索降军犬紧紧抱住特战队员胳膊](https://s.weibo.com//weibo?q=%E9%AB%98%E7%A9%BA%E7%B4%A2%E9%99%8D%E5%86%9B%E7%8A%AC%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F%E7%89%B9%E6%88%98%E9%98%9F%E5%91%98%E8%83%B3%E8%86%8A&Refer=top)
+
+1. [美国近一个月发生45起大规模枪击案](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E5%8F%91%E7%94%9F45%E8%B5%B7%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%9E%AA%E5%87%BB%E6%A1%88&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
