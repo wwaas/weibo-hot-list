@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-19 06:08:18
+## 微博今日热榜 更新于 2021-04-19 07:07:18
 1. [这20年博鳌的变化有多大](https://s.weibo.com//weibo?q=%23%E8%BF%9920%E5%B9%B4%E5%8D%9A%E9%B3%8C%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=new_time)
 
 1. [贾乃亮是从工地回来吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%98%AF%E4%BB%8E%E5%B7%A5%E5%9C%B0%E5%9B%9E%E6%9D%A5%E5%90%97%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [柯南](https://s.weibo.com//weibo?q=%E6%9F%AF%E5%8D%97&Refer=top)
 
 1. [福建震感](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E9%9C%87%E6%84%9F&Refer=top)
+
+1. [欧洲超级联赛正式成立](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E8%B6%85%E7%BA%A7%E8%81%94%E8%B5%9B%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B%23&Refer=top)
+
+1. [圆明园锦鲤如流动的黄金画卷](https://s.weibo.com//weibo?q=%23%E5%9C%86%E6%98%8E%E5%9B%AD%E9%94%A6%E9%B2%A4%E5%A6%82%E6%B5%81%E5%8A%A8%E7%9A%84%E9%BB%84%E9%87%91%E7%94%BB%E5%8D%B7%23&Refer=top)
 
