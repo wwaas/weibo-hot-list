@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-19 05:07:03
+## 微博今日热榜 更新于 2021-04-19 06:08:18
 1. [这20年博鳌的变化有多大](https://s.weibo.com//weibo?q=%23%E8%BF%9920%E5%B9%B4%E5%8D%9A%E9%B3%8C%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=new_time)
 
 1. [贾乃亮是从工地回来吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%98%AF%E4%BB%8E%E5%B7%A5%E5%9C%B0%E5%9B%9E%E6%9D%A5%E5%90%97%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [偷鸡蛋被拦猝死家属索赔38万被驳](https://s.weibo.com//weibo?q=%23%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8B%A6%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9438%E4%B8%87%E8%A2%AB%E9%A9%B3%23&Refer=top)
 
 1. [交警通报大巴车撞限高杆致1死6伤](https://s.weibo.com//weibo?q=%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%B7%B4%E8%BD%A6%E6%92%9E%E9%99%90%E9%AB%98%E6%9D%86%E8%87%B41%E6%AD%BB6%E4%BC%A4&Refer=top)
+
+1. [柯南](https://s.weibo.com//weibo?q=%E6%9F%AF%E5%8D%97&Refer=top)
+
+1. [福建震感](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E9%9C%87%E6%84%9F&Refer=top)
 
