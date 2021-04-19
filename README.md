@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-19 10:39:22
+## 微博今日热榜 更新于 2021-04-19 11:15:53
 1. [这20年博鳌的变化有多大](https://s.weibo.com//weibo?q=%23%E8%BF%9920%E5%B9%B4%E5%8D%9A%E9%B3%8C%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=new_time)
 
 1. [贾乃亮是从工地回来吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%98%AF%E4%BB%8E%E5%B7%A5%E5%9C%B0%E5%9B%9E%E6%9D%A5%E5%90%97%23&Refer=top)
@@ -222,4 +222,24 @@
 1. [高级工匠一匠难求](https://s.weibo.com//weibo?q=%23%E9%AB%98%E7%BA%A7%E5%B7%A5%E5%8C%A0%E4%B8%80%E5%8C%A0%E9%9A%BE%E6%B1%82%23&Refer=top)
 
 1. [教育部强调及时清除教师队伍的害群之马](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%BC%BA%E8%B0%83%E5%8F%8A%E6%97%B6%E6%B8%85%E9%99%A4%E6%95%99%E5%B8%88%E9%98%9F%E4%BC%8D%E7%9A%84%E5%AE%B3%E7%BE%A4%E4%B9%8B%E9%A9%AC%23&Refer=top)
+
+1. [唐汉霄 刘雨昕经过时我会害羞](https://s.weibo.com//weibo?q=%E5%94%90%E6%B1%89%E9%9C%84%20%E5%88%98%E9%9B%A8%E6%98%95%E7%BB%8F%E8%BF%87%E6%97%B6%E6%88%91%E4%BC%9A%E5%AE%B3%E7%BE%9E&Refer=top)
+
+1. [武汉公交车要是放开跑](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%A6%81%E6%98%AF%E6%94%BE%E5%BC%80%E8%B7%91%23&Refer=top)
+
+1. [特斯拉撞树起火致2人丧生](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E6%A0%91%E8%B5%B7%E7%81%AB%E8%87%B42%E4%BA%BA%E4%B8%A7%E7%94%9F&Refer=top)
+
+1. [秦岚回应被男粉叫老公](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%94%B7%E7%B2%89%E5%8F%AB%E8%80%81%E5%85%AC%23&Refer=top)
+
+1. [12岁女孩被高空抛砖砸进ICU](https://s.weibo.com//weibo?q=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%A0%96%E7%A0%B8%E8%BF%9BICU&Refer=top)
+
+1. [女孩还原山海经近百位上古人物](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%A9%E8%BF%98%E5%8E%9F%E5%B1%B1%E6%B5%B7%E7%BB%8F%E8%BF%91%E7%99%BE%E4%BD%8D%E4%B8%8A%E5%8F%A4%E4%BA%BA%E7%89%A9&Refer=top)
+
+1. [上班时的想法](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%97%B6%E7%9A%84%E6%83%B3%E6%B3%95%23&Refer=top)
+
+1. [张哲瀚LANVIN](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9ALANVIN&Refer=top)
+
+1. [揭秘电商平台假苗木陷阱](https://s.weibo.com//weibo?q=%E6%8F%AD%E7%A7%98%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%81%87%E8%8B%97%E6%9C%A8%E9%99%B7%E9%98%B1&Refer=top)
+
+1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
 
