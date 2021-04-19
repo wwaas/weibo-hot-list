@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-19 20:11:34
+## 微博今日热榜 更新于 2021-04-19 21:17:51
 1. [这20年博鳌的变化有多大](https://s.weibo.com//weibo?q=%23%E8%BF%9920%E5%B9%B4%E5%8D%9A%E9%B3%8C%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=new_time)
 
 1. [贾乃亮是从工地回来吗](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%98%AF%E4%BB%8E%E5%B7%A5%E5%9C%B0%E5%9B%9E%E6%9D%A5%E5%90%97%23&Refer=top)
@@ -476,4 +476,28 @@
 1. [我国已接种新冠病毒疫苗19212.7万剂次](https://s.weibo.com//weibo?q=%E6%88%91%E5%9B%BD%E5%B7%B2%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%9719212.7%E4%B8%87%E5%89%82%E6%AC%A1&Refer=top)
 
 1. [穆里尼奥下课](https://s.weibo.com//weibo?q=%E7%A9%86%E9%87%8C%E5%B0%BC%E5%A5%A5%E4%B8%8B%E8%AF%BE&Refer=top)
+
+1. [卫健委调查医生反映肿瘤治疗黑幕](https://s.weibo.com//weibo?q=%E5%8D%AB%E5%81%A5%E5%A7%94%E8%B0%83%E6%9F%A5%E5%8C%BB%E7%94%9F%E5%8F%8D%E6%98%A0%E8%82%BF%E7%98%A4%E6%B2%BB%E7%96%97%E9%BB%91%E5%B9%95&Refer=top)
+
+1. [张腾直播](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%85%BE%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [白敬亭吴倩倪大红新剧定档](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%90%B4%E5%80%A9%E5%80%AA%E5%A4%A7%E7%BA%A2%E6%96%B0%E5%89%A7%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [妻子遭调戏丈夫出面阻止被持刀追砍](https://s.weibo.com//weibo?q=%E5%A6%BB%E5%AD%90%E9%81%AD%E8%B0%83%E6%88%8F%E4%B8%88%E5%A4%AB%E5%87%BA%E9%9D%A2%E9%98%BB%E6%AD%A2%E8%A2%AB%E6%8C%81%E5%88%80%E8%BF%BD%E7%A0%8D&Refer=top)
+
+1. [张子枫晒怼脸自拍](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%99%92%E6%80%BC%E8%84%B8%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [动物园猩猩被游客投喂出高血糖](https://s.weibo.com//weibo?q=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%8C%A9%E7%8C%A9%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%8A%95%E5%96%82%E5%87%BA%E9%AB%98%E8%A1%80%E7%B3%96&Refer=top)
+
+1. [子悠说妈妈爱的不是我是考满分的我](https://s.weibo.com//weibo?q=%23%E5%AD%90%E6%82%A0%E8%AF%B4%E5%A6%88%E5%A6%88%E7%88%B1%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91%E6%98%AF%E8%80%83%E6%BB%A1%E5%88%86%E7%9A%84%E6%88%91%23&Refer=top)
+
+1. [长歌行预告](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [我国首个火星车名称即将公布](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%81%AB%E6%98%9F%E8%BD%A6%E5%90%8D%E7%A7%B0%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83%23&Refer=top)
+
+1. [刘昊然 好几个音乐节目找我当导师](https://s.weibo.com//weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%20%E5%A5%BD%E5%87%A0%E4%B8%AA%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%AE%E6%89%BE%E6%88%91%E5%BD%93%E5%AF%BC%E5%B8%88&Refer=top)
+
+1. [全国首条荣军街开街](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E6%9D%A1%E8%8D%A3%E5%86%9B%E8%A1%97%E5%BC%80%E8%A1%97%23&Refer=top)
+
+1. [5年4次起诉离婚女子丈夫扬言报复被拘](https://s.weibo.com//weibo?q=%235%E5%B9%B44%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E5%A5%B3%E5%AD%90%E4%B8%88%E5%A4%AB%E6%89%AC%E8%A8%80%E6%8A%A5%E5%A4%8D%E8%A2%AB%E6%8B%98%23&Refer=top)
 
