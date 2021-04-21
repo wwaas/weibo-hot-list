@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 09:57:03
+## 微博今日热榜 更新于 2021-04-21 10:38:12
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -192,4 +192,28 @@
 1. [欧超暂停](https://s.weibo.com//weibo?q=%E6%AC%A7%E8%B6%85%E6%9A%82%E5%81%9C&Refer=top)
 
 1. [弗洛伊德案宣判后家人振臂高呼](https://s.weibo.com//weibo?q=%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E6%A1%88%E5%AE%A3%E5%88%A4%E5%90%8E%E5%AE%B6%E4%BA%BA%E6%8C%AF%E8%87%82%E9%AB%98%E5%91%BC&Refer=top)
+
+1. [我国建成世界最大语言资源库](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90%E5%BA%93%23&Refer=new_time)
+
+1. [印度飞香港一航班机上53人确诊](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E9%A3%9E%E9%A6%99%E6%B8%AF%E4%B8%80%E8%88%AA%E7%8F%AD%E6%9C%BA%E4%B8%8A53%E4%BA%BA%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [云南大学食堂推出玫瑰宴](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E6%8E%A8%E5%87%BA%E7%8E%AB%E7%91%B0%E5%AE%B4%23&Refer=top)
+
+1. [肖万获罪美国民众激动流泪](https://s.weibo.com//weibo?q=%E8%82%96%E4%B8%87%E8%8E%B7%E7%BD%AA%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E6%BF%80%E5%8A%A8%E6%B5%81%E6%B3%AA&Refer=top)
+
+1. [60多国将汉语教学纳入国民教育体系](https://s.weibo.com//weibo?q=60%E5%A4%9A%E5%9B%BD%E5%B0%86%E6%B1%89%E8%AF%AD%E6%95%99%E5%AD%A6%E7%BA%B3%E5%85%A5%E5%9B%BD%E6%B0%91%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB&Refer=top)
+
+1. [福州防空警报](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%B7%9E%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5&Refer=top)
+
+1. [佩洛西感谢弗洛伊德为正义牺牲](https://s.weibo.com//weibo?q=%E4%BD%A9%E6%B4%9B%E8%A5%BF%E6%84%9F%E8%B0%A2%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E4%B8%BA%E6%AD%A3%E4%B9%89%E7%89%BA%E7%89%B2&Refer=top)
+
+1. [安倍晋三参拜靖国神社](https://s.weibo.com//weibo?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE&Refer=top)
+
+1. [唐山耕地种树初查情况公布](https://s.weibo.com//weibo?q=%E5%94%90%E5%B1%B1%E8%80%95%E5%9C%B0%E7%A7%8D%E6%A0%91%E5%88%9D%E6%9F%A5%E6%83%85%E5%86%B5%E5%85%AC%E5%B8%83&Refer=top)
+
+1. [菅义伟向靖国神社供奉供品](https://s.weibo.com//weibo?q=%E8%8F%85%E4%B9%89%E4%BC%9F%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BE%9B%E5%A5%89%E4%BE%9B%E5%93%81&Refer=top)
+
+1. [台媒称许玮甯离婚](https://s.weibo.com//weibo?q=%E5%8F%B0%E5%AA%92%E7%A7%B0%E8%AE%B8%E7%8E%AE%E7%94%AF%E7%A6%BB%E5%A9%9A&Refer=top)
+
+1. [特斯拉陶琳缺席博鳌亚洲论坛](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%B6%E7%90%B3%E7%BC%BA%E5%B8%AD%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B&Refer=top)
 
