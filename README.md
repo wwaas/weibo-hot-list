@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 10:38:12
+## 微博今日热榜 更新于 2021-04-21 11:15:20
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -216,4 +216,16 @@
 1. [台媒称许玮甯离婚](https://s.weibo.com//weibo?q=%E5%8F%B0%E5%AA%92%E7%A7%B0%E8%AE%B8%E7%8E%AE%E7%94%AF%E7%A6%BB%E5%A9%9A&Refer=top)
 
 1. [特斯拉陶琳缺席博鳌亚洲论坛](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%B6%E7%90%B3%E7%BC%BA%E5%B8%AD%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B&Refer=top)
+
+1. [周柯宇哥哥发长文回应](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E5%93%A5%E5%93%A5%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%23&Refer=top)
+
+1. [佟大为发长文谈教育孩子](https://s.weibo.com//weibo?q=%E4%BD%9F%E5%A4%A7%E4%B8%BA%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E6%95%99%E8%82%B2%E5%AD%A9%E5%AD%90&Refer=top)
+
+1. [风起陇西](https://s.weibo.com//weibo?q=%E9%A3%8E%E8%B5%B7%E9%99%87%E8%A5%BF&Refer=top)
+
+1. [哈登将无限期休战](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E5%B0%86%E6%97%A0%E9%99%90%E6%9C%9F%E4%BC%91%E6%88%98&Refer=top)
+
+1. [篮网险胜鹈鹕](https://s.weibo.com//weibo?q=%E7%AF%AE%E7%BD%91%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95&Refer=top)
+
+1. [Jeff Kaplan离开暴雪](https://s.weibo.com//weibo?q=Jeff%20Kaplan%E7%A6%BB%E5%BC%80%E6%9A%B4%E9%9B%AA&Refer=top)
 
