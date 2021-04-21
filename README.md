@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 16:10:07
+## 微博今日热榜 更新于 2021-04-21 17:08:11
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -364,4 +364,14 @@
 1. [林峯曾开小号回怼黑张馨月的网友](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%B3%AF%E6%9B%BE%E5%BC%80%E5%B0%8F%E5%8F%B7%E5%9B%9E%E6%80%BC%E9%BB%91%E5%BC%A0%E9%A6%A8%E6%9C%88%E7%9A%84%E7%BD%91%E5%8F%8B%23&Refer=top)
 
 1. [收费小姐姐温柔劝返限高货车](https://s.weibo.com//weibo?q=%23%E6%94%B6%E8%B4%B9%E5%B0%8F%E5%A7%90%E5%A7%90%E6%B8%A9%E6%9F%94%E5%8A%9D%E8%BF%94%E9%99%90%E9%AB%98%E8%B4%A7%E8%BD%A6%23&Refer=top)
+
+1. [汪文斌敦促日本以实际行动取信邻国](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E6%95%A6%E4%BF%83%E6%97%A5%E6%9C%AC%E4%BB%A5%E5%AE%9E%E9%99%85%E8%A1%8C%E5%8A%A8%E5%8F%96%E4%BF%A1%E9%82%BB%E5%9B%BD%23&Refer=top)
+
+1. [双胞胎兄弟同时加入火箭军](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E5%90%8C%E6%97%B6%E5%8A%A0%E5%85%A5%E7%81%AB%E7%AE%AD%E5%86%9B%23&Refer=top)
+
+1. [刘涛工具人](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B6%9B%E5%B7%A5%E5%85%B7%E4%BA%BA%23&Refer=top)
+
+1. [北二外回应副教授著作涉嫌抄袭](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%8C%E5%A4%96%E5%9B%9E%E5%BA%94%E5%89%AF%E6%95%99%E6%8E%88%E8%91%97%E4%BD%9C%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD%23&Refer=top)
+
+1. [伊能静喊话秦昊少损自己](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%96%8A%E8%AF%9D%E7%A7%A6%E6%98%8A%E5%B0%91%E6%8D%9F%E8%87%AA%E5%B7%B1%23&Refer=top)
 
