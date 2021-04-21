@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 01:33:32
+## 微博今日热榜 更新于 2021-04-22 02:20:19
 1. [我国首辆火星车名称24日揭晓](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%90%8D%E7%A7%B024%E6%97%A5%E6%8F%AD%E6%99%93%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -112,4 +112,10 @@
 1. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
 
 1. [揭露BCI及美国制裁新疆棉花全过程](https://s.weibo.com//weibo?q=%23%E6%8F%AD%E9%9C%B2BCI%E5%8F%8A%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%96%B0%E7%96%86%E6%A3%89%E8%8A%B1%E5%85%A8%E8%BF%87%E7%A8%8B%23&Refer=top)
+
+1. [一季度全国纪检监察机关共处分11.6万人](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%85%A8%E5%9B%BD%E7%BA%AA%E6%A3%80%E7%9B%91%E5%AF%9F%E6%9C%BA%E5%85%B3%E5%85%B1%E5%A4%84%E5%88%8611.6%E4%B8%87%E4%BA%BA%23&Refer=new_time)
+
+1. [女足主帅称即刻进入奥运时间](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%B6%B3%E4%B8%BB%E5%B8%85%E7%A7%B0%E5%8D%B3%E5%88%BB%E8%BF%9B%E5%85%A5%E5%A5%A5%E8%BF%90%E6%97%B6%E9%97%B4&Refer=top)
+
+1. [长歌行](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C&Refer=top)
 
