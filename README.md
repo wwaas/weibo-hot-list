@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-21 13:14:00
+## 微博今日热榜 更新于 2021-04-21 14:10:12
 1. [2021博鳌论坛](https://s.weibo.com//weibo?q=%232021%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
 
 1. [吴彤 刚刚上台紧张的我鞋都掉了](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E5%88%9A%E5%88%9A%E4%B8%8A%E5%8F%B0%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%88%91%E9%9E%8B%E9%83%BD%E6%8E%89%E4%BA%86&Refer=top)
@@ -296,4 +296,22 @@
 1. [菅义伟决定取消访问印度](https://s.weibo.com//weibo?q=%23%E8%8F%85%E4%B9%89%E4%BC%9F%E5%86%B3%E5%AE%9A%E5%8F%96%E6%B6%88%E8%AE%BF%E9%97%AE%E5%8D%B0%E5%BA%A6%23&Refer=top)
 
 1. [陕西大学生为研发锅巴延毕](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BA%E7%A0%94%E5%8F%91%E9%94%85%E5%B7%B4%E5%BB%B6%E6%AF%95%23&Refer=top)
+
+1. [女子用身体挡住失控轮椅](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E8%BA%AB%E4%BD%93%E6%8C%A1%E4%BD%8F%E5%A4%B1%E6%8E%A7%E8%BD%AE%E6%A4%85%23&Refer=top)
+
+1. [大雄静香婚礼前奏预告](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%9B%84%E9%9D%99%E9%A6%99%E5%A9%9A%E7%A4%BC%E5%89%8D%E5%A5%8F%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [宿舍的学霸姐妹全部上岸](https://s.weibo.com//weibo?q=%E5%AE%BF%E8%88%8D%E7%9A%84%E5%AD%A6%E9%9C%B8%E5%A7%90%E5%A6%B9%E5%85%A8%E9%83%A8%E4%B8%8A%E5%B2%B8&Refer=top)
+
+1. [乔治罚球绝杀](https://s.weibo.com//weibo?q=%E4%B9%94%E6%B2%BB%E7%BD%9A%E7%90%83%E7%BB%9D%E6%9D%80&Refer=top)
+
+1. [老师用两人站一凳化解学生矛盾](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E7%94%A8%E4%B8%A4%E4%BA%BA%E7%AB%99%E4%B8%80%E5%87%B3%E5%8C%96%E8%A7%A3%E5%AD%A6%E7%94%9F%E7%9F%9B%E7%9B%BE%23&Refer=top)
+
+1. [岳云鹏 请叫我题库](https://s.weibo.com//weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%20%E8%AF%B7%E5%8F%AB%E6%88%91%E9%A2%98%E5%BA%93&Refer=top)
+
+1. [黑人之死案宣判后拜登发表讲话](https://s.weibo.com//weibo?q=%E9%BB%91%E4%BA%BA%E4%B9%8B%E6%AD%BB%E6%A1%88%E5%AE%A3%E5%88%A4%E5%90%8E%E6%8B%9C%E7%99%BB%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D&Refer=top)
+
+1. [肿瘤治疗黑幕患者家属发声](https://s.weibo.com//weibo?q=%E8%82%BF%E7%98%A4%E6%B2%BB%E7%96%97%E9%BB%91%E5%B9%95%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [夏之光翻唱下雨天](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E4%B9%8B%E5%85%89%E7%BF%BB%E5%94%B1%E4%B8%8B%E9%9B%A8%E5%A4%A9%23&Refer=top)
 
