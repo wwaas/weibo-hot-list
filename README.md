@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 10:37:59
+## 微博今日热榜 更新于 2021-04-22 11:14:49
 1. [我国首辆火星车名称24日揭晓](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%90%8D%E7%A7%B024%E6%97%A5%E6%8F%AD%E6%99%93%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -180,4 +180,12 @@
 1. [大连出现中华白海豚](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%87%BA%E7%8E%B0%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23&Refer=top)
 
 1. [诈骗团伙用翻译软件专骗外国女性](https://s.weibo.com//weibo?q=%E8%AF%88%E9%AA%97%E5%9B%A2%E4%BC%99%E7%94%A8%E7%BF%BB%E8%AF%91%E8%BD%AF%E4%BB%B6%E4%B8%93%E9%AA%97%E5%A4%96%E5%9B%BD%E5%A5%B3%E6%80%A7&Refer=top)
+
+1. [美参院将施压拜登政府对抗中国](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%8F%82%E9%99%A2%E5%B0%86%E6%96%BD%E5%8E%8B%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%AF%B9%E6%8A%97%E4%B8%AD%E5%9B%BD&Refer=top)
+
+1. [女演员发言可以有多绝](https://s.weibo.com//weibo?q=%E5%A5%B3%E6%BC%94%E5%91%98%E5%8F%91%E8%A8%80%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%BB%9D&Refer=top)
+
+1. [8岁孩子给父母报辅导班](https://s.weibo.com//weibo?q=8%E5%B2%81%E5%AD%A9%E5%AD%90%E7%BB%99%E7%88%B6%E6%AF%8D%E6%8A%A5%E8%BE%85%E5%AF%BC%E7%8F%AD&Refer=top)
+
+1. [林巧稚逝世38周年](https://s.weibo.com//weibo?q=%E6%9E%97%E5%B7%A7%E7%A8%9A%E9%80%9D%E4%B8%9638%E5%91%A8%E5%B9%B4&Refer=top)
 
