@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 04:08:34
+## 微博今日热榜 更新于 2021-04-23 05:07:25
 1. [领导人气候峰会](https://s.weibo.com//weibo?q=%23%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B&Refer=top)
