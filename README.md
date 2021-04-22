@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 05:07:25
+## 微博今日热榜 更新于 2021-04-23 06:09:01
 1. [领导人气候峰会](https://s.weibo.com//weibo?q=%23%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B&Refer=top)
@@ -126,4 +126,6 @@
 1. [火烧云晚霞有多惊艳](https://s.weibo.com//weibo?q=%23%E7%81%AB%E7%83%A7%E4%BA%91%E6%99%9A%E9%9C%9E%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&Refer=top)
 
 1. [原来你是这样的人民海军](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%23&Refer=top)
+
+1. [张哲瀚 我在我生命每个阶段都尽力了](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E6%88%91%E5%9C%A8%E6%88%91%E7%94%9F%E5%91%BD%E6%AF%8F%E4%B8%AA%E9%98%B6%E6%AE%B5%E9%83%BD%E5%B0%BD%E5%8A%9B%E4%BA%86&Refer=top)
 
