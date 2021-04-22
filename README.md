@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 07:09:10
+## 微博今日热榜 更新于 2021-04-22 08:29:39
 1. [我国首辆火星车名称24日揭晓](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%90%8D%E7%A7%B024%E6%97%A5%E6%8F%AD%E6%99%93%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -122,4 +122,26 @@
 1. [法式复古海报妆](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%BC%8F%E5%A4%8D%E5%8F%A4%E6%B5%B7%E6%8A%A5%E5%A6%86%23&Refer=top)
 
 1. [周杰伦为女儿建粉红色城堡](https://s.weibo.com//weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%BB%BA%E7%B2%89%E7%BA%A2%E8%89%B2%E5%9F%8E%E5%A0%A1&Refer=top)
+
+1. [特斯拉称会提供事故前行车数据](https://s.weibo.com//weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E7%A7%B0%E4%BC%9A%E6%8F%90%E4%BE%9B%E4%BA%8B%E6%95%85%E5%89%8D%E8%A1%8C%E8%BD%A6%E6%95%B0%E6%8D%AE&Refer=top)
+
+1. [错换人生28年郭威称许敏的质疑没意义](https://s.weibo.com//weibo?q=%23%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E9%83%AD%E5%A8%81%E7%A7%B0%E8%AE%B8%E6%95%8F%E7%9A%84%E8%B4%A8%E7%96%91%E6%B2%A1%E6%84%8F%E4%B9%89%23&Refer=top)
+
+1. [2020年全国5.9万家酒店关停](https://s.weibo.com//weibo?q=2020%E5%B9%B4%E5%85%A8%E5%9B%BD5.9%E4%B8%87%E5%AE%B6%E9%85%92%E5%BA%97%E5%85%B3%E5%81%9C&Refer=top)
+
+1. [全球超3.7万物种濒临灭绝](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E8%B6%853.7%E4%B8%87%E7%89%A9%E7%A7%8D%E6%BF%92%E4%B8%B4%E7%81%AD%E7%BB%9D%23&Refer=top)
+
+1. [见过最可爱的喵喵拳](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E5%96%B5%E5%96%B5%E6%8B%B3%23&Refer=top)
+
+1. [山河令花絮](https://s.weibo.com//weibo?q=%E5%B1%B1%E6%B2%B3%E4%BB%A4%E8%8A%B1%E7%B5%AE&Refer=top)
+
+1. [黑龙江一企业4名工人检修时中毒死亡](https://s.weibo.com//weibo?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E4%BC%81%E4%B8%9A4%E5%90%8D%E5%B7%A5%E4%BA%BA%E6%A3%80%E4%BF%AE%E6%97%B6%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1&Refer=top)
+
+1. [世界地球日](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%83%E6%97%A5&Refer=top)
+
+1. [高原精灵雪中迁徙](https://s.weibo.com//weibo?q=%E9%AB%98%E5%8E%9F%E7%B2%BE%E7%81%B5%E9%9B%AA%E4%B8%AD%E8%BF%81%E5%BE%99&Refer=top)
+
+1. [我国约有70万名发作性睡病患者](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%A6%E6%9C%8970%E4%B8%87%E5%90%8D%E5%8F%91%E4%BD%9C%E6%80%A7%E7%9D%A1%E7%97%85%E6%82%A3%E8%80%85%23&Refer=top)
+
+1. [鄂尔多斯启动HPV疫苗免费接种](https://s.weibo.com//weibo?q=%23%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E5%90%AF%E5%8A%A8HPV%E7%96%AB%E8%8B%97%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8D%23&Refer=top)
 
