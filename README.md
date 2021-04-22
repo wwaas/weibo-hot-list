@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-22 09:57:10
+## 微博今日热榜 更新于 2021-04-22 10:37:59
 1. [我国首辆火星车名称24日揭晓](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%90%8D%E7%A7%B024%E6%97%A5%E6%8F%AD%E6%99%93%23&Refer=new_time)
 
 1. [丁真 不怯场](https://s.weibo.com//weibo?q=%E4%B8%81%E7%9C%9F%20%E4%B8%8D%E6%80%AF%E5%9C%BA&Refer=top)
@@ -168,4 +168,16 @@
 1. [库里生涯18000分](https://s.weibo.com//weibo?q=%E5%BA%93%E9%87%8C%E7%94%9F%E6%B6%AF18000%E5%88%86&Refer=top)
 
 1. [31省区市新增6例确诊均为境外输入](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E6%E4%BE%8B%E7%A1%AE%E8%AF%8A%E5%9D%87%E4%B8%BA%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%23&Refer=top)
+
+1. [Bo禁赛四个月](https://s.weibo.com//weibo?q=%23Bo%E7%A6%81%E8%B5%9B%E5%9B%9B%E4%B8%AA%E6%9C%88%23&Refer=top)
+
+1. [拜登宣布接种2亿剂新冠疫苗任务完成](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E5%AE%A3%E5%B8%83%E6%8E%A5%E7%A7%8D2%E4%BA%BF%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90&Refer=top)
+
+1. [李佳航 耳濡目染是最好的教育](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E8%80%B3%E6%BF%A1%E7%9B%AE%E6%9F%93%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%95%99%E8%82%B2&Refer=top)
+
+1. [山西一动物园圈养泰迪](https://s.weibo.com//weibo?q=%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9C%88%E5%85%BB%E6%B3%B0%E8%BF%AA&Refer=top)
+
+1. [大连出现中华白海豚](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%87%BA%E7%8E%B0%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23&Refer=top)
+
+1. [诈骗团伙用翻译软件专骗外国女性](https://s.weibo.com//weibo?q=%E8%AF%88%E9%AA%97%E5%9B%A2%E4%BC%99%E7%94%A8%E7%BF%BB%E8%AF%91%E8%BD%AF%E4%BB%B6%E4%B8%93%E9%AA%97%E5%A4%96%E5%9B%BD%E5%A5%B3%E6%80%A7&Refer=top)
 
