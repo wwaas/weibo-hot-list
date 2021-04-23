@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 01:38:52
+## 微博今日热榜 更新于 2021-04-24 02:21:54
 1. [湖北一季度GDP增速居首](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%80%9F%E5%B1%85%E9%A6%96%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -120,4 +120,6 @@
 1. [工作中被领导骂哭丢人吗](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%B8%AD%E8%A2%AB%E9%A2%86%E5%AF%BC%E9%AA%82%E5%93%AD%E4%B8%A2%E4%BA%BA%E5%90%97%23&Refer=top)
 
 1. [王嘉尔裸眼3D舞台](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E8%A3%B8%E7%9C%BC3D%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [人民海军成立72周年](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E6%88%90%E7%AB%8B72%E5%91%A8%E5%B9%B4%23&Refer=new_time)
 
