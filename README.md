@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-23 15:13:22
+## 微博今日热榜 更新于 2021-04-23 16:10:08
 1. [领导人气候峰会](https://s.weibo.com//weibo?q=%23%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A%23&Refer=new_time)
 
 1. [吴彤收到十万条私信不敢看](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%E6%94%B6%E5%88%B0%E5%8D%81%E4%B8%87%E6%9D%A1%E7%A7%81%E4%BF%A1%E4%B8%8D%E6%95%A2%E7%9C%8B&Refer=top)
@@ -304,4 +304,24 @@
 1. [对张桂梅影响最大的一本书](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E5%BC%A0%E6%A1%82%E6%A2%85%E5%BD%B1%E5%93%8D%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E6%9C%AC%E4%B9%A6%23&Refer=top)
 
 1. [韩国一海军舰艇暴发集体感染](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%80%E6%B5%B7%E5%86%9B%E8%88%B0%E8%89%87%E6%9A%B4%E5%8F%91%E9%9B%86%E4%BD%93%E6%84%9F%E6%9F%93&Refer=top)
+
+1. [1分钟混剪人民海军高燃场面](https://s.weibo.com//weibo?q=%231%E5%88%86%E9%92%9F%E6%B7%B7%E5%89%AA%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E9%AB%98%E7%87%83%E5%9C%BA%E9%9D%A2%23&Refer=new_time)
+
+1. [人均每天接触手机100.75分钟](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%9D%87%E6%AF%8F%E5%A4%A9%E6%8E%A5%E8%A7%A6%E6%89%8B%E6%9C%BA100.75%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [中文九级来了](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%87%E4%B9%9D%E7%BA%A7%E6%9D%A5%E4%BA%86%23&Refer=top)
+
+1. [这个回复真是绝了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9B%9E%E5%A4%8D%E7%9C%9F%E6%98%AF%E7%BB%9D%E4%BA%86%23&Refer=top)
+
+1. [文津图书奖获奖书单](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%B4%A5%E5%9B%BE%E4%B9%A6%E5%A5%96%E8%8E%B7%E5%A5%96%E4%B9%A6%E5%8D%95%23&Refer=top)
+
+1. [谁是宝藏歌手定档](https://s.weibo.com//weibo?q=%23%E8%B0%81%E6%98%AF%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [中消协提醒消费者理性看待机票盲盒](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%B6%88%E5%8D%8F%E6%8F%90%E9%86%92%E6%B6%88%E8%B4%B9%E8%80%85%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E6%9C%BA%E7%A5%A8%E7%9B%B2%E7%9B%92%23&Refer=top)
+
+1. [明代王妃的时尚圈](https://s.weibo.com//weibo?q=%23%E6%98%8E%E4%BB%A3%E7%8E%8B%E5%A6%83%E7%9A%84%E6%97%B6%E5%B0%9A%E5%9C%88%23&Refer=top)
+
+1. [日本删除放射性氚吉祥物形象](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%88%A0%E9%99%A4%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%BD%A2%E8%B1%A1%23&Refer=top)
+
+1. [吉林省考成绩](https://s.weibo.com//weibo?q=%E5%90%89%E6%9E%97%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&Refer=top)
 
