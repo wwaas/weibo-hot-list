@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 07:09:21
+## 微博今日热榜 更新于 2021-04-24 08:29:38
 1. [湖北一季度GDP增速居首](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%80%9F%E5%B1%85%E9%A6%96%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -130,4 +130,30 @@
 1. [7部门联合发文规范直播带货](https://s.weibo.com//weibo?q=%237%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E5%8F%91%E6%96%87%E8%A7%84%E8%8C%83%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=new_time)
 
 1. [张艺兴与彩灯的安全距离](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%8E%E5%BD%A9%E7%81%AF%E7%9A%84%E5%AE%89%E5%85%A8%E8%B7%9D%E7%A6%BB&Refer=top)
+
+1. [王毅称民主不是可口可乐](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E7%A7%B0%E6%B0%91%E4%B8%BB%E4%B8%8D%E6%98%AF%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%23&Refer=top)
+
+1. [专八考试](https://s.weibo.com//weibo?q=%E4%B8%93%E5%85%AB%E8%80%83%E8%AF%95&Refer=top)
+
+1. [东方红一号卫星发射51周年](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E6%96%B9%E7%BA%A2%E4%B8%80%E5%8F%B7%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%8451%E5%91%A8%E5%B9%B4%23&Refer=top)
+
+1. [肖战晒玫瑰花](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%99%92%E7%8E%AB%E7%91%B0%E8%8A%B1%23&Refer=top)
+
+1. [被狗狗骗得好惨](https://s.weibo.com//weibo?q=%E8%A2%AB%E7%8B%97%E7%8B%97%E9%AA%97%E5%BE%97%E5%A5%BD%E6%83%A8&Refer=top)
+
+1. [故宫抢票](https://s.weibo.com//weibo?q=%23%E6%95%85%E5%AE%AB%E6%8A%A2%E7%A5%A8%23&Refer=top)
+
+1. [中国航天起名有多浪漫](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E8%B5%B7%E5%90%8D%E6%9C%89%E5%A4%9A%E6%B5%AA%E6%BC%AB%23&Refer=top)
+
+1. [爸爸是如何安慰失业的妈妈](https://s.weibo.com//weibo?q=%E7%88%B8%E7%88%B8%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%89%E6%85%B0%E5%A4%B1%E4%B8%9A%E7%9A%84%E5%A6%88%E5%A6%88&Refer=top)
+
+1. [龚俊花衬衫配粉裤子](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E8%8A%B1%E8%A1%AC%E8%A1%AB%E9%85%8D%E7%B2%89%E8%A3%A4%E5%AD%90&Refer=top)
+
+1. [中国航天日](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5&Refer=top)
+
+1. [拜登批准肯塔基州进入重大灾难状态](https://s.weibo.com//weibo?q=%E6%8B%9C%E7%99%BB%E6%89%B9%E5%87%86%E8%82%AF%E5%A1%94%E5%9F%BA%E5%B7%9E%E8%BF%9B%E5%85%A5%E9%87%8D%E5%A4%A7%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81&Refer=top)
+
+1. [胡兵 丁嘉运你可适可而止吧](https://s.weibo.com//weibo?q=%E8%83%A1%E5%85%B5%20%E4%B8%81%E5%98%89%E8%BF%90%E4%BD%A0%E5%8F%AF%E9%80%82%E5%8F%AF%E8%80%8C%E6%AD%A2%E5%90%A7&Refer=top)
+
+1. [护士资格考试](https://s.weibo.com//weibo?q=%E6%8A%A4%E5%A3%AB%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95&Refer=top)
 
