@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-24 09:59:28
+## 微博今日热榜 更新于 2021-04-24 10:44:19
 1. [湖北一季度GDP增速居首](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E5%AD%A3%E5%BA%A6GDP%E5%A2%9E%E9%80%9F%E5%B1%85%E9%A6%96%23&Refer=new_time)
 
 1. [向往的生活](https://s.weibo.com//weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
@@ -196,4 +196,12 @@
 1. [押运枪支走火击中同伴](https://s.weibo.com//weibo?q=%E6%8A%BC%E8%BF%90%E6%9E%AA%E6%94%AF%E8%B5%B0%E7%81%AB%E5%87%BB%E4%B8%AD%E5%90%8C%E4%BC%B4&Refer=top)
 
 1. [广东辽宁谁能夺得CBA总冠军](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%BE%BD%E5%AE%81%E8%B0%81%E8%83%BD%E5%A4%BA%E5%BE%97CBA%E6%80%BB%E5%86%A0%E5%86%9B%23&Refer=top)
+
+1. [张哲瀚 娱乐圈在逃拉面师傅](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%20%E5%A8%B1%E4%B9%90%E5%9C%88%E5%9C%A8%E9%80%83%E6%8B%89%E9%9D%A2%E5%B8%88%E5%82%85&Refer=top)
+
+1. [中国首辆火星车命名祝融号](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%BE%86%E7%81%AB%E6%98%9F%E8%BD%A6%E5%91%BD%E5%90%8D%E7%A5%9D%E8%9E%8D%E5%8F%B7%23&Refer=top)
+
+1. [女子刮蹭奔驰后遭两男子掌掴](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%AE%E8%B9%AD%E5%A5%94%E9%A9%B0%E5%90%8E%E9%81%AD%E4%B8%A4%E7%94%B7%E5%AD%90%E6%8E%8C%E6%8E%B4%23&Refer=top)
+
+1. [北京多家教育机构违规招生收费](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%AE%B6%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E8%BF%9D%E8%A7%84%E6%8B%9B%E7%94%9F%E6%94%B6%E8%B4%B9%23&Refer=top)
 
