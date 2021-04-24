@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-25 00:13:13
+## 微博今日热榜 更新于 2021-04-25 01:36:48
 1. [声音回顾中国航天征程](https://s.weibo.com//weibo?q=%23%E5%A3%B0%E9%9F%B3%E5%9B%9E%E9%A1%BE%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%BE%81%E7%A8%8B%23&Refer=new_time)
 
 1. [创造营成团名单](https://s.weibo.com//weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23&Refer=top)
@@ -104,4 +104,10 @@
 1. [调查曝光陕西洛南脱贫摘帽掺假](https://s.weibo.com//weibo?q=%23%E8%B0%83%E6%9F%A5%E6%9B%9D%E5%85%89%E9%99%95%E8%A5%BF%E6%B4%9B%E5%8D%97%E8%84%B1%E8%B4%AB%E6%91%98%E5%B8%BD%E6%8E%BA%E5%81%87%23&Refer=top)
 
 1. [进村东北虎已送至饲养繁育中心](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E6%9D%91%E4%B8%9C%E5%8C%97%E8%99%8E%E5%B7%B2%E9%80%81%E8%87%B3%E9%A5%B2%E5%85%BB%E7%B9%81%E8%82%B2%E4%B8%AD%E5%BF%83%23&Refer=top)
+
+1. [中国航天史上的9个第一次](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%B2%E4%B8%8A%E7%9A%849%E4%B8%AA%E7%AC%AC%E4%B8%80%E6%AC%A1%23&Refer=new_time)
+
+1. [Amu想让妹妹参加创造营](https://s.weibo.com//weibo?q=Amu%E6%83%B3%E8%AE%A9%E5%A6%B9%E5%A6%B9%E5%8F%82%E5%8A%A0%E5%88%9B%E9%80%A0%E8%90%A5&Refer=top)
+
+1. [李佳琦范丞丞直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9B%B4%E6%92%AD&Refer=top)
 
