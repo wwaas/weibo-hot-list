@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-26 02:21:36
+## 微博今日热榜 更新于 2021-04-26 03:14:27
 1. [穿越时光的对比照](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E5%AF%B9%E6%AF%94%E7%85%A7%23&Refer=new_time)
 
 1. [500余名艺人发声反对短视频侵权](https://s.weibo.com//weibo?q=%23500%E4%BD%99%E5%90%8D%E8%89%BA%E4%BA%BA%E5%8F%91%E5%A3%B0%E5%8F%8D%E5%AF%B9%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [圆明园万株牡丹齐盛放](https://s.weibo.com//weibo?q=%23%E5%9C%86%E6%98%8E%E5%9B%AD%E4%B8%87%E6%A0%AA%E7%89%A1%E4%B8%B9%E9%BD%90%E7%9B%9B%E6%94%BE%23&Refer=top)
 
 1. [清华大学110周年校庆](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6110%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23&Refer=top)
+
+1. [秦岭终南山梦幻星轨](https://s.weibo.com//weibo?q=%E7%A7%A6%E5%B2%AD%E7%BB%88%E5%8D%97%E5%B1%B1%E6%A2%A6%E5%B9%BB%E6%98%9F%E8%BD%A8&Refer=top)
 
