@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-26 06:08:45
+## 微博今日热榜 更新于 2021-04-26 07:08:24
 1. [穿越时光的对比照](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E5%AF%B9%E6%AF%94%E7%85%A7%23&Refer=new_time)
 
 1. [500余名艺人发声反对短视频侵权](https://s.weibo.com//weibo?q=%23500%E4%BD%99%E5%90%8D%E8%89%BA%E4%BA%BA%E5%8F%91%E5%A3%B0%E5%8F%8D%E5%AF%B9%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%23&Refer=top)
@@ -132,4 +132,8 @@
 1. [清华大学110周年校庆日](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6110%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%E6%97%A5%23&Refer=new_time)
 
 1. [中国有约ADatewithChina](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6ADatewithChina%23&Refer=new_time)
+
+1. [上海车展车顶维权车主发声](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E8%BD%A6%E5%B1%95%E8%BD%A6%E9%A1%B6%E7%BB%B4%E6%9D%83%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0&Refer=top)
+
+1. [张家界通报导游怒骂游客骗吃骗喝](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E9%80%9A%E6%8A%A5%E5%AF%BC%E6%B8%B8%E6%80%92%E9%AA%82%E6%B8%B8%E5%AE%A2%E9%AA%97%E5%90%83%E9%AA%97%E5%96%9D%23&Refer=top)
 
