@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-27 04:08:29
+## 微博今日热榜 更新于 2021-04-27 05:07:24
 1. [强化超大互联网平台个人信息保护义务](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E5%8C%96%E8%B6%85%E5%A4%A7%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B3%E5%8F%B0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4%E4%B9%89%E5%8A%A1%23&Refer=new_time)
 
 1. [王子文 为什么叫我小丸](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E6%96%87%20%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E5%B0%8F%E4%B8%B8&Refer=top)
@@ -126,4 +126,6 @@
 1. [我国数字经济总量跃居世界第二](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%80%BB%E9%87%8F%E8%B7%83%E5%B1%85%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%23&Refer=new_time)
 
 1. [长歌行预告](https://s.weibo.com//weibo?q=%E9%95%BF%E6%AD%8C%E8%A1%8C%E9%A2%84%E5%91%8A&Refer=top)
+
+1. [福建专升本成绩](https://s.weibo.com//weibo?q=%E7%A6%8F%E5%BB%BA%E4%B8%93%E5%8D%87%E6%9C%AC%E6%88%90%E7%BB%A9&Refer=top)
 
