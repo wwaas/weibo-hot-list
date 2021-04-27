@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-28 06:09:03
+## 微博今日热榜 更新于 2021-04-28 07:08:48
 1. [我国一箭9星大丰收](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%80%E7%AE%AD9%E6%98%9F%E5%A4%A7%E4%B8%B0%E6%94%B6%23&Refer=new_time)
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD&Refer=top)
@@ -128,4 +128,8 @@
 1. [汪文斌说澳方自己得病却让别人吃药](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E8%AF%B4%E6%BE%B3%E6%96%B9%E8%87%AA%E5%B7%B1%E5%BE%97%E7%97%85%E5%8D%B4%E8%AE%A9%E5%88%AB%E4%BA%BA%E5%90%83%E8%8D%AF%23&Refer=top)
 
 1. [贵州茅台一季度净利139.54亿元](https://s.weibo.com//weibo?q=%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9139.54%E4%BA%BF%E5%85%83&Refer=top)
+
+1. [子悠抑郁了](https://s.weibo.com//weibo?q=%23%E5%AD%90%E6%82%A0%E6%8A%91%E9%83%81%E4%BA%86%23&Refer=top)
+
+1. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top)
 
