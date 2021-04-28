@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-04-28 09:56:12
+## 微博今日热榜 更新于 2021-04-28 10:38:40
 1. [我国一箭9星大丰收](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%80%E7%AE%AD9%E6%98%9F%E5%A4%A7%E4%B8%B0%E6%94%B6%23&Refer=new_time)
 
 1. [印度男子杀害感染新冠妻子后跳楼自尽](https://s.weibo.com//weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%A6%BB%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%87%AA%E5%B0%BD&Refer=top)
@@ -214,4 +214,32 @@
 1. [熟蛋返生培训学校学生家长发声](https://s.weibo.com//weibo?q=%E7%86%9F%E8%9B%8B%E8%BF%94%E7%94%9F%E5%9F%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0&Refer=top)
 
 1. [3点半爷爷自办辅导站12年](https://s.weibo.com//weibo?q=%233%E7%82%B9%E5%8D%8A%E7%88%B7%E7%88%B7%E8%87%AA%E5%8A%9E%E8%BE%85%E5%AF%BC%E7%AB%9912%E5%B9%B4%23&Refer=top)
+
+1. [清华教授为被驱逐流浪歌手据理力争](https://s.weibo.com//weibo?q=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E4%B8%BA%E8%A2%AB%E9%A9%B1%E9%80%90%E6%B5%81%E6%B5%AA%E6%AD%8C%E6%89%8B%E6%8D%AE%E7%90%86%E5%8A%9B%E4%BA%89&Refer=top)
+
+1. [北京取消高校毕业生入职重复体检](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%96%E6%B6%88%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E5%85%A5%E8%81%8C%E9%87%8D%E5%A4%8D%E4%BD%93%E6%A3%80%23&Refer=top)
+
+1. [英雄联盟arcana皮肤](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9Farcana%E7%9A%AE%E8%82%A4&Refer=top)
+
+1. [理发店门口三色柱的由来](https://s.weibo.com//weibo?q=%23%E7%90%86%E5%8F%91%E5%BA%97%E9%97%A8%E5%8F%A3%E4%B8%89%E8%89%B2%E6%9F%B1%E7%9A%84%E7%94%B1%E6%9D%A5%23&Refer=top)
+
+1. [加拿大中国留学生遇袭时无人救助](https://s.weibo.com//weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E9%81%87%E8%A2%AD%E6%97%B6%E6%97%A0%E4%BA%BA%E6%95%91%E5%8A%A9&Refer=top)
+
+1. [官方回应导游称孩子没死就得购物](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AF%BC%E6%B8%B8%E7%A7%B0%E5%AD%A9%E5%AD%90%E6%B2%A1%E6%AD%BB%E5%B0%B1%E5%BE%97%E8%B4%AD%E7%89%A9&Refer=top)
+
+1. [光遇 蜡烛](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87%20%E8%9C%A1%E7%83%9B&Refer=top)
+
+1. [给小孩取名笔画不要太多](https://s.weibo.com//weibo?q=%23%E7%BB%99%E5%B0%8F%E5%AD%A9%E5%8F%96%E5%90%8D%E7%AC%94%E7%94%BB%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%A4%9A%23&Refer=top)
+
+1. [依法打击短视频侵权盗版行为](https://s.weibo.com//weibo?q=%E4%BE%9D%E6%B3%95%E6%89%93%E5%87%BB%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83%E7%9B%97%E7%89%88%E8%A1%8C%E4%B8%BA&Refer=top)
+
+1. [发消息发错对象有多尴尬](https://s.weibo.com//weibo?q=%23%E5%8F%91%E6%B6%88%E6%81%AF%E5%8F%91%E9%94%99%E5%AF%B9%E8%B1%A1%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC%23&Refer=top)
+
+1. [起底鸡蛋返生作者](https://s.weibo.com//weibo?q=%23%E8%B5%B7%E5%BA%95%E9%B8%A1%E8%9B%8B%E8%BF%94%E7%94%9F%E4%BD%9C%E8%80%85%23&Refer=top)
+
+1. [还有40天高考](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%8940%E5%A4%A9%E9%AB%98%E8%80%83%23&Refer=top)
+
+1. [五一档电影片单](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%89%87%E5%8D%95%23&Refer=top)
+
+1. [猫扑关闭发帖功能](https://s.weibo.com//weibo?q=%E7%8C%AB%E6%89%91%E5%85%B3%E9%97%AD%E5%8F%91%E5%B8%96%E5%8A%9F%E8%83%BD&Refer=top)
 
