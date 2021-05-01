@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-02 06:04:23
+## 微博今日热榜 更新于 2021-05-02 07:06:41
 1. [平凡又伟大的劳动者](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%87%A1%E5%8F%88%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%23&Refer=new_time)
 
 1. [李一桐 姐会凭本事让你们闭嘴](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%20%E5%A7%90%E4%BC%9A%E5%87%AD%E6%9C%AC%E4%BA%8B%E8%AE%A9%E4%BD%A0%E4%BB%AC%E9%97%AD%E5%98%B4&Refer=top)
@@ -122,4 +122,8 @@
 1. [五一劳动节](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E5%8A%B3%E5%8A%A8%E8%8A%82%23&Refer=top)
 
 1. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
+
+1. [致敬每一位劳动者](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%AF%8F%E4%B8%80%E4%BD%8D%E5%8A%B3%E5%8A%A8%E8%80%85%23&Refer=new_time)
+
+1. [良辰美景好时光大结局](https://s.weibo.com//weibo?q=%E8%89%AF%E8%BE%B0%E7%BE%8E%E6%99%AF%E5%A5%BD%E6%97%B6%E5%85%89%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
 
