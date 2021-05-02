@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-03 02:12:29
+## 微博今日热榜 更新于 2021-05-03 03:09:02
 1. [致敬劳动节里的劳动者](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E5%8A%B3%E5%8A%A8%E8%8A%82%E9%87%8C%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%23&Refer=new_time)
 
 1. [李沁让邓伦公主抱孙越](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E8%AE%A9%E9%82%93%E4%BC%A6%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%AD%99%E8%B6%8A%23&Refer=top)
@@ -126,4 +126,10 @@
 1. [两代年轻人穿越百年的对话](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E5%AF%B9%E8%AF%9D%23&Refer=new_time)
 
 1. [尹正减肥后吃到米饭的表情](https://s.weibo.com//weibo?q=%E5%B0%B9%E6%AD%A3%E5%87%8F%E8%82%A5%E5%90%8E%E5%90%83%E5%88%B0%E7%B1%B3%E9%A5%AD%E7%9A%84%E8%A1%A8%E6%83%85&Refer=top)
+
+1. [携笔从戎精忠报国](https://s.weibo.com//weibo?q=%23%E6%90%BA%E7%AC%94%E4%BB%8E%E6%88%8E%E7%B2%BE%E5%BF%A0%E6%8A%A5%E5%9B%BD%23&Refer=new_time)
+
+1. [西藏发现多座吐蕃时期高级墓葬](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%97%8F%E5%8F%91%E7%8E%B0%E5%A4%9A%E5%BA%A7%E5%90%90%E8%95%83%E6%97%B6%E6%9C%9F%E9%AB%98%E7%BA%A7%E5%A2%93%E8%91%AC&Refer=top)
+
+1. [曾涵江直播](https://s.weibo.com//weibo?q=%E6%9B%BE%E6%B6%B5%E6%B1%9F%E7%9B%B4%E6%92%AD&Refer=top)
 
