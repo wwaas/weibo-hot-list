@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-03 03:09:02
+## 微博今日热榜 更新于 2021-05-03 04:03:52
 1. [致敬劳动节里的劳动者](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E5%8A%B3%E5%8A%A8%E8%8A%82%E9%87%8C%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%23&Refer=new_time)
 
 1. [李沁让邓伦公主抱孙越](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E8%AE%A9%E9%82%93%E4%BC%A6%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%AD%99%E8%B6%8A%23&Refer=top)
