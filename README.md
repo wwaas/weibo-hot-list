@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-05 02:06:35
+## 微博今日热榜 更新于 2021-05-05 03:05:48
 1. [大湾区青年快闪合唱我和我的祖国](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E9%9D%92%E5%B9%B4%E5%BF%AB%E9%97%AA%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%23&Refer=new_time)
 
 1. [菲律宾外长已向王毅道歉](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E5%B7%B2%E5%90%91%E7%8E%8B%E6%AF%85%E9%81%93%E6%AD%89%23&Refer=top)
