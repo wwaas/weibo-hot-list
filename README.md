@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-04 10:33:20
+## 微博今日热榜 更新于 2021-05-04 11:09:38
 1. [我就是中国](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [华晨宇发色](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2%23&Refer=top)
@@ -212,4 +212,14 @@
 1. [少女因病辍学4年写下500篇文章](https://s.weibo.com//weibo?q=%E5%B0%91%E5%A5%B3%E5%9B%A0%E7%97%85%E8%BE%8D%E5%AD%A64%E5%B9%B4%E5%86%99%E4%B8%8B500%E7%AF%87%E6%96%87%E7%AB%A0&Refer=top)
 
 1. [菲律宾总统回应接种中国新冠疫苗](https://s.weibo.com//weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E6%8E%A5%E7%A7%8D%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
+
+1. [丁太升](https://s.weibo.com//weibo?q=%E4%B8%81%E5%A4%AA%E5%8D%87&Refer=top)
+
+1. [刘宇机场](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E6%9C%BA%E5%9C%BA%23&Refer=top)
+
+1. [售价2200元的神药成本仅50元](https://s.weibo.com//weibo?q=%E5%94%AE%E4%BB%B72200%E5%85%83%E7%9A%84%E7%A5%9E%E8%8D%AF%E6%88%90%E6%9C%AC%E4%BB%8550%E5%85%83&Refer=top)
+
+1. [多大年龄算青年](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%A4%A7%E5%B9%B4%E9%BE%84%E7%AE%97%E9%9D%92%E5%B9%B4%23&Refer=top)
+
+1. [鄂尔多斯沙尘暴突袭游客被困缆车](https://s.weibo.com//weibo?q=%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E6%B2%99%E5%B0%98%E6%9A%B4%E7%AA%81%E8%A2%AD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%9B%B0%E7%BC%86%E8%BD%A6&Refer=top)
 
