@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-06 02:10:54
+## 微博今日热榜 更新于 2021-05-06 03:07:01
 1. [大湾区一分钟](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E4%B8%80%E5%88%86%E9%92%9F%23&Refer=new_time)
 
 1. [张萌 我道歉每次都是真心的](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%90%8C%20%E6%88%91%E9%81%93%E6%AD%89%E6%AF%8F%E6%AC%A1%E9%83%BD%E6%98%AF%E7%9C%9F%E5%BF%83%E7%9A%84&Refer=top)
