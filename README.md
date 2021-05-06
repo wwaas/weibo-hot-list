@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-07 04:02:34
+## 微博今日热榜 更新于 2021-05-07 05:02:25
 1. [中国国际消费品博览会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E6%B6%88%E8%B4%B9%E5%93%81%E5%8D%9A%E8%A7%88%E4%BC%9A%23&Refer=new_time)
 
 1. [青春有你 决赛夜返厂](https://s.weibo.com//weibo?q=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%20%E5%86%B3%E8%B5%9B%E5%A4%9C%E8%BF%94%E5%8E%82&Refer=top)
@@ -120,4 +120,6 @@
 1. [云南滇池南岸别墅密布成水泥森林](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%BB%87%E6%B1%A0%E5%8D%97%E5%B2%B8%E5%88%AB%E5%A2%85%E5%AF%86%E5%B8%83%E6%88%90%E6%B0%B4%E6%B3%A5%E6%A3%AE%E6%9E%97%23&Refer=top)
 
 1. [MSI](https://s.weibo.com//weibo?q=MSI&Refer=top)
+
+1. [G7](https://s.weibo.com//weibo?q=G7&Refer=top)
 
