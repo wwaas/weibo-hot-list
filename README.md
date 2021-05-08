@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-09 02:08:54
+## 微博今日热榜 更新于 2021-05-09 03:05:16
 1. [脚踏云层的坚守者](https://s.weibo.com//weibo?q=%23%E8%84%9A%E8%B8%8F%E4%BA%91%E5%B1%82%E7%9A%84%E5%9D%9A%E5%AE%88%E8%80%85%23&Refer=new_time)
 
 1. [盖茨婚后与前女友度假豪宅](https://s.weibo.com//weibo?q=%23%E7%9B%96%E8%8C%A8%E5%A9%9A%E5%90%8E%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%BA%A6%E5%81%87%E8%B1%AA%E5%AE%85%23&Refer=top)
@@ -110,4 +110,6 @@
 1. [演员的眼技能有多绝](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E7%9A%84%E7%9C%BC%E6%8A%80%E8%83%BD%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
 
 1. [杭州野生动物世界第二只外逃豹子找到](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%8C%E5%8F%AA%E5%A4%96%E9%80%83%E8%B1%B9%E5%AD%90%E6%89%BE%E5%88%B0%23&Refer=top)
+
+1. [2021MSI](https://s.weibo.com//weibo?q=%232021MSI%23&Refer=top)
 
