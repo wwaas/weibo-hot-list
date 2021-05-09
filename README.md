@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-10 02:09:25
+## 微博今日热榜 更新于 2021-05-10 03:06:04
 1. [90秒拾起你习以为常的母爱](https://s.weibo.com//weibo?q=%2390%E7%A7%92%E6%8B%BE%E8%B5%B7%E4%BD%A0%E4%B9%A0%E4%BB%A5%E4%B8%BA%E5%B8%B8%E7%9A%84%E6%AF%8D%E7%88%B1%23&Refer=new_time)
 
 1. [言承旭状态](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -118,4 +118,8 @@
 1. [万吨大桥空中转体33度精准合龙](https://s.weibo.com//weibo?q=%23%E4%B8%87%E5%90%A8%E5%A4%A7%E6%A1%A5%E7%A9%BA%E4%B8%AD%E8%BD%AC%E4%BD%9333%E5%BA%A6%E7%B2%BE%E5%87%86%E5%90%88%E9%BE%99%23&Refer=new_time)
 
 1. [狗狗币](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%B8%81%23&Refer=top)
+
+1. [杨迪吐槽妈妈配音葫芦娃像蛇精](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%90%90%E6%A7%BD%E5%A6%88%E5%A6%88%E9%85%8D%E9%9F%B3%E8%91%AB%E8%8A%A6%E5%A8%83%E5%83%8F%E8%9B%87%E7%B2%BE%23&Refer=top)
+
+1. [UOL RNG](https://s.weibo.com//weibo?q=UOL%20RNG&Refer=top)
 
