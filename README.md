@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-10 06:02:49
+## 微博今日热榜 更新于 2021-05-10 07:02:24
 1. [90秒拾起你习以为常的母爱](https://s.weibo.com//weibo?q=%2390%E7%A7%92%E6%8B%BE%E8%B5%B7%E4%BD%A0%E4%B9%A0%E4%BB%A5%E4%B8%BA%E5%B8%B8%E7%9A%84%E6%AF%8D%E7%88%B1%23&Refer=new_time)
 
 1. [言承旭状态](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E7%8A%B6%E6%80%81%23&Refer=top)
