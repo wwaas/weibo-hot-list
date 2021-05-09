@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-10 04:02:26
+## 微博今日热榜 更新于 2021-05-10 05:02:37
 1. [90秒拾起你习以为常的母爱](https://s.weibo.com//weibo?q=%2390%E7%A7%92%E6%8B%BE%E8%B5%B7%E4%BD%A0%E4%B9%A0%E4%BB%A5%E4%B8%BA%E5%B8%B8%E7%9A%84%E6%AF%8D%E7%88%B1%23&Refer=new_time)
 
 1. [言承旭状态](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -128,4 +128,6 @@
 1. [上海海关截获人体细胞247支](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%B7%E5%85%B3%E6%88%AA%E8%8E%B7%E4%BA%BA%E4%BD%93%E7%BB%86%E8%83%9E247%E6%94%AF%23&Refer=top)
 
 1. [HIStory4近距离爱上你](https://s.weibo.com//weibo?q=HIStory4%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%88%B1%E4%B8%8A%E4%BD%A0&Refer=top)
+
+1. [小区车库出口断头路司机差点坠落](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%8C%BA%E8%BD%A6%E5%BA%93%E5%87%BA%E5%8F%A3%E6%96%AD%E5%A4%B4%E8%B7%AF%E5%8F%B8%E6%9C%BA%E5%B7%AE%E7%82%B9%E5%9D%A0%E8%90%BD&Refer=top)
 
