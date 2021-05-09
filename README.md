@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-10 01:29:38
+## 微博今日热榜 更新于 2021-05-10 02:09:25
 1. [90秒拾起你习以为常的母爱](https://s.weibo.com//weibo?q=%2390%E7%A7%92%E6%8B%BE%E8%B5%B7%E4%BD%A0%E4%B9%A0%E4%BB%A5%E4%B8%BA%E5%B8%B8%E7%9A%84%E6%AF%8D%E7%88%B1%23&Refer=new_time)
 
 1. [言承旭状态](https://s.weibo.com//weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [第二只外逃豹子后掌疑断裂缺失](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%BA%8C%E5%8F%AA%E5%A4%96%E9%80%83%E8%B1%B9%E5%AD%90%E5%90%8E%E6%8E%8C%E7%96%91%E6%96%AD%E8%A3%82%E7%BC%BA%E5%A4%B1%23&Refer=top)
 
 1. [三星堆博物馆临时闭馆2天](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%8D%9A%E7%89%A9%E9%A6%86%E4%B8%B4%E6%97%B6%E9%97%AD%E9%A6%862%E5%A4%A9%23&Refer=top)
+
+1. [万吨大桥空中转体33度精准合龙](https://s.weibo.com//weibo?q=%23%E4%B8%87%E5%90%A8%E5%A4%A7%E6%A1%A5%E7%A9%BA%E4%B8%AD%E8%BD%AC%E4%BD%9333%E5%BA%A6%E7%B2%BE%E5%87%86%E5%90%88%E9%BE%99%23&Refer=new_time)
+
+1. [狗狗币](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E5%B8%81%23&Refer=top)
 
