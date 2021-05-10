@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-11 03:10:27
+## 微博今日热榜 更新于 2021-05-11 04:02:45
 1. [中国品牌世界共享](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E4%B8%96%E7%95%8C%E5%85%B1%E4%BA%AB%23&Refer=new_time)
 
 1. [撒贝宁催婚李佳琦金靖](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%82%AC%E5%A9%9A%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%87%91%E9%9D%96%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [瞒豹真是吃了豹子胆](https://s.weibo.com//weibo?q=%23%E7%9E%92%E8%B1%B9%E7%9C%9F%E6%98%AF%E5%90%83%E4%BA%86%E8%B1%B9%E5%AD%90%E8%83%86%23&Refer=new_time)
 
 1. [武汉队 北京国安](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E9%98%9F%20%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89&Refer=top)
+
+1. [中国消费一秒钟](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E4%B8%80%E7%A7%92%E9%92%9F%23&Refer=new_time)
 
