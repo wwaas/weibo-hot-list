@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-13 06:04:09
+## 微博今日热榜 更新于 2021-05-13 07:04:43
 1. [13年后空降兵15勇士再点名答到](https://s.weibo.com//weibo?q=%2313%E5%B9%B4%E5%90%8E%E7%A9%BA%E9%99%8D%E5%85%B515%E5%8B%87%E5%A3%AB%E5%86%8D%E7%82%B9%E5%90%8D%E7%AD%94%E5%88%B0%23&Refer=new_time)
 
 1. [阿迪达斯被罚](https://s.weibo.com//weibo?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E7%BD%9A&Refer=top)
