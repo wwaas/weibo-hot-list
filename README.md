@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-15 06:04:18
+## 微博今日热榜 更新于 2021-05-15 07:06:17
 1. [火星的中国时刻](https://s.weibo.com//weibo?q=%23%E7%81%AB%E6%98%9F%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%88%BB%23&Refer=new_time)
 
 1. [齐齐哈尔咬死羊的动物不是狼是狗](https://s.weibo.com//weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%92%AC%E6%AD%BB%E7%BE%8A%E7%9A%84%E5%8A%A8%E7%89%A9%E4%B8%8D%E6%98%AF%E7%8B%BC%E6%98%AF%E7%8B%97%23&Refer=top)
