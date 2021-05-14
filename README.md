@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-14 21:18:10
+## 微博今日热榜 更新于 2021-05-14 22:04:20
 1. [歼20飞行员提起一幅画突然哽咽](https://s.weibo.com//weibo?q=%23%E6%AD%BC20%E9%A3%9E%E8%A1%8C%E5%91%98%E6%8F%90%E8%B5%B7%E4%B8%80%E5%B9%85%E7%94%BB%E7%AA%81%E7%84%B6%E5%93%BD%E5%92%BD%23&Refer=new_time)
 
 1. [钟南山称全球通过疫苗免疫需二到三年](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E5%85%A8%E7%90%83%E9%80%9A%E8%BF%87%E7%96%AB%E8%8B%97%E5%85%8D%E7%96%AB%E9%9C%80%E4%BA%8C%E5%88%B0%E4%B8%89%E5%B9%B4%23&Refer=top)
@@ -504,4 +504,32 @@
 1. [便利贴发明者西尔弗去世](https://s.weibo.com//weibo?q=%23%E4%BE%BF%E5%88%A9%E8%B4%B4%E5%8F%91%E6%98%8E%E8%80%85%E8%A5%BF%E5%B0%94%E5%BC%97%E5%8E%BB%E4%B8%96%23&Refer=top)
 
 1. [RNG DK](https://s.weibo.com//weibo?q=RNG%20DK&Refer=top)
+
+1. [国家卫健委提示病毒变异呈现三个特点](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E6%8F%90%E7%A4%BA%E7%97%85%E6%AF%92%E5%8F%98%E5%BC%82%E5%91%88%E7%8E%B0%E4%B8%89%E4%B8%AA%E7%89%B9%E7%82%B9%23&Refer=new_time)
+
+1. [武汉冰雹](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E5%86%B0%E9%9B%B9&Refer=top)
+
+1. [蔡徐坤社会摇](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%A4%BE%E4%BC%9A%E6%91%87%23&Refer=top)
+
+1. [黄景瑜加盟做家务的男人](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%8A%A0%E7%9B%9F%E5%81%9A%E5%AE%B6%E5%8A%A1%E7%9A%84%E7%94%B7%E4%BA%BA%23&Refer=top)
+
+1. [比亚迪广告门双面人李娟被判14年](https://s.weibo.com//weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%B9%BF%E5%91%8A%E9%97%A8%E5%8F%8C%E9%9D%A2%E4%BA%BA%E6%9D%8E%E5%A8%9F%E8%A2%AB%E5%88%A414%E5%B9%B4%23&Refer=top)
+
+1. [米卡分享自己写的歌](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E5%88%86%E4%BA%AB%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E6%AD%8C%23&Refer=top)
+
+1. [大度是一个贬义词](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%BA%A6%E6%98%AF%E4%B8%80%E4%B8%AA%E8%B4%AC%E4%B9%89%E8%AF%8D%23&Refer=top)
+
+1. [RNG九连胜](https://s.weibo.com//weibo?q=%23RNG%E4%B9%9D%E8%BF%9E%E8%83%9C%23&Refer=top)
+
+1. [丁程鑫下腰](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E4%B8%8B%E8%85%B0%23&Refer=top)
+
+1. [广西一中学食堂因浪费食物被罚](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E4%B8%AD%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%9B%A0%E6%B5%AA%E8%B4%B9%E9%A3%9F%E7%89%A9%E8%A2%AB%E7%BD%9A%23&Refer=top)
+
+1. [辽宁营口开展全员核酸检测](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E5%BC%80%E5%B1%95%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+
+1. [郑恺沙溢圆规公主抱](https://s.weibo.com//weibo?q=%23%E9%83%91%E6%81%BA%E6%B2%99%E6%BA%A2%E5%9C%86%E8%A7%84%E5%85%AC%E4%B8%BB%E6%8A%B1%23&Refer=top)
+
+1. [辽宁营口8个重点小区封闭管理](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A38%E4%B8%AA%E9%87%8D%E7%82%B9%E5%B0%8F%E5%8C%BA%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86%23&Refer=top)
+
+1. [宝藏歌手](https://s.weibo.com//weibo?q=%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B&Refer=top)
 
