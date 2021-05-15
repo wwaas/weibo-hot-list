@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-16 00:12:12
+## 微博今日热榜 更新于 2021-05-16 01:35:24
 1. [我国首次火星探测任务着陆火星圆满成功](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E7%9D%80%E9%99%86%E7%81%AB%E6%98%9F%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&Refer=new_time)
 
 1. [向佐药水哥对决](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%AF%E6%B0%B4%E5%93%A5%E5%AF%B9%E5%86%B3%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [景甜说看完刘宇宁直播失眠了](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E8%AF%B4%E7%9C%8B%E5%AE%8C%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%A4%B1%E7%9C%A0%E4%BA%86%23&Refer=top)
 
 1. [刘诗雯](https://s.weibo.com//weibo?q=%E5%88%98%E8%AF%97%E9%9B%AF&Refer=top)
+
+1. [金曲青春](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%9B%B2%E9%9D%92%E6%98%A5%23&Refer=top)
+
+1. [严屹宽自毁颜值式演技](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E5%B1%B9%E5%AE%BD%E8%87%AA%E6%AF%81%E9%A2%9C%E5%80%BC%E5%BC%8F%E6%BC%94%E6%8A%80%23&Refer=top)
+
+1. [硬糖少女改编版平凡之路](https://s.weibo.com//weibo?q=%23%E7%A1%AC%E7%B3%96%E5%B0%91%E5%A5%B3%E6%94%B9%E7%BC%96%E7%89%88%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF%23&Refer=top)
+
+1. [天问一号](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%23&Refer=top)
 
