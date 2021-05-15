@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-16 05:02:50
+## 微博今日热榜 更新于 2021-05-16 06:03:46
 1. [我国首次火星探测任务着陆火星圆满成功](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E7%9D%80%E9%99%86%E7%81%AB%E6%98%9F%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&Refer=new_time)
 
 1. [向佐药水哥对决](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%AF%E6%B0%B4%E5%93%A5%E5%AF%B9%E5%86%B3%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [MSI](https://s.weibo.com//weibo?q=%23MSI%23&Refer=top)
 
 1. [天问一号成功着陆](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E6%88%90%E5%8A%9F%E7%9D%80%E9%99%86%23&Refer=new_time)
+
+1. [祝融](https://s.weibo.com//weibo?q=%E7%A5%9D%E8%9E%8D&Refer=top)
+
+1. [教资面试](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%23&Refer=top)
 
