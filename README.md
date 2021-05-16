@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-16 20:11:02
+## 微博今日热榜 更新于 2021-05-16 21:24:25
 1. [我国首次火星探测任务着陆火星圆满成功](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E7%9D%80%E9%99%86%E7%81%AB%E6%98%9F%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&Refer=new_time)
 
 1. [向佐药水哥对决](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E8%8D%AF%E6%B0%B4%E5%93%A5%E5%AF%B9%E5%86%B3%23&Refer=top)
@@ -432,4 +432,14 @@
 1. [护士人群中多看一眼救人一命](https://s.weibo.com//weibo?q=%23%E6%8A%A4%E5%A3%AB%E4%BA%BA%E7%BE%A4%E4%B8%AD%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD%23&Refer=top)
 
 1. [4AM吃鸡](https://s.weibo.com//weibo?q=%234AM%E5%90%83%E9%B8%A1%23&Refer=top)
+
+1. [辽宁营口新增2例本土确诊](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+
+1. [粉丝坐在男朋友肩上看蔡徐坤](https://s.weibo.com//weibo?q=%23%E7%B2%89%E4%B8%9D%E5%9D%90%E5%9C%A8%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%82%A9%E4%B8%8A%E7%9C%8B%E8%94%A1%E5%BE%90%E5%9D%A4%23&Refer=top)
+
+1. [义乌菜市场摊主秀阿拉伯语](https://s.weibo.com//weibo?q=%23%E4%B9%89%E4%B9%8C%E8%8F%9C%E5%B8%82%E5%9C%BA%E6%91%8A%E4%B8%BB%E7%A7%80%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%23&Refer=top)
+
+1. [八零九零大结局](https://s.weibo.com//weibo?q=%23%E5%85%AB%E9%9B%B6%E4%B9%9D%E9%9B%B6%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+
+1. [薇娅周笔畅直播](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%91%A8%E7%AC%94%E7%95%85%E7%9B%B4%E6%92%AD%23&Refer=top)
 
