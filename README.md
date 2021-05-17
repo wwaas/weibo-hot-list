@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-18 04:04:29
+## 微博今日热榜 更新于 2021-05-18 05:03:27
 1. [最新10问了解新冠疫苗接种](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B010%E9%97%AE%E4%BA%86%E8%A7%A3%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=new_time)
 
 1. [景甜问刘宇宁直播咋没叫她](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E9%97%AE%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%92%8B%E6%B2%A1%E5%8F%AB%E5%A5%B9%23&Refer=top)
@@ -118,4 +118,6 @@
 1. [中国科学家观测到迄今最高能量光子](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A7%82%E6%B5%8B%E5%88%B0%E8%BF%84%E4%BB%8A%E6%9C%80%E9%AB%98%E8%83%BD%E9%87%8F%E5%85%89%E5%AD%90%23&Refer=top)
 
 1. [限制民办校无序跨区域掐尖招生](https://s.weibo.com//weibo?q=%23%E9%99%90%E5%88%B6%E6%B0%91%E5%8A%9E%E6%A0%A1%E6%97%A0%E5%BA%8F%E8%B7%A8%E5%8C%BA%E5%9F%9F%E6%8E%90%E5%B0%96%E6%8B%9B%E7%94%9F%23&Refer=top)
+
+1. [多国祝贺天问一号成功着陆火星](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9B%BD%E7%A5%9D%E8%B4%BA%E5%A4%A9%E9%97%AE%E4%B8%80%E5%8F%B7%E6%88%90%E5%8A%9F%E7%9D%80%E9%99%86%E7%81%AB%E6%98%9F%23&Refer=top)
 
