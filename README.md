@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 06:04:11
+## 微博今日热榜 更新于 2021-05-19 07:05:48
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [只需打1针的新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E9%9C%80%E6%89%931%E9%92%88%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [热依扎问岳云鹏用我帮你吗](https://s.weibo.com//weibo?q=%23%E7%83%AD%E4%BE%9D%E6%89%8E%E9%97%AE%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%94%A8%E6%88%91%E5%B8%AE%E4%BD%A0%E5%90%97%23&Refer=top)
 
 1. [台州遭特斯拉撞击交警1人牺牲](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%B7%9E%E9%81%AD%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E5%87%BB%E4%BA%A4%E8%AD%A61%E4%BA%BA%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [Twins微博直播](https://s.weibo.com//weibo?q=%23Twins%E5%BE%AE%E5%8D%9A%E7%9B%B4%E6%92%AD%23&Refer=top)
 
