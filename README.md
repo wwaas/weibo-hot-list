@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 05:02:40
+## 微博今日热榜 更新于 2021-05-19 06:04:11
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [只需打1针的新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E9%9C%80%E6%89%931%E9%92%88%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
