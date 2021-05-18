@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 02:23:01
+## 微博今日热榜 更新于 2021-05-19 03:17:47
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [只需打1针的新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E9%9C%80%E6%89%931%E9%92%88%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
@@ -122,4 +122,10 @@
 1. [22岁辅警被拖行1600多米牺牲](https://s.weibo.com//weibo?q=%2322%E5%B2%81%E8%BE%85%E8%AD%A6%E8%A2%AB%E6%8B%96%E8%A1%8C1600%E5%A4%9A%E7%B1%B3%E7%89%BA%E7%89%B2%23&Refer=top)
 
 1. [RNG战胜DK](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CDK%23&Refer=top)
+
+1. [进村东北虎成功放归自然](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E6%9D%91%E4%B8%9C%E5%8C%97%E8%99%8E%E6%88%90%E5%8A%9F%E6%94%BE%E5%BD%92%E8%87%AA%E7%84%B6%23&Refer=new_time)
+
+1. [江疏影被单身狗素材冒犯到](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E7%96%8F%E5%BD%B1%E8%A2%AB%E5%8D%95%E8%BA%AB%E7%8B%97%E7%B4%A0%E6%9D%90%E5%86%92%E7%8A%AF%E5%88%B0%23&Refer=top)
+
+1. [热依扎问岳云鹏用我帮你吗](https://s.weibo.com//weibo?q=%23%E7%83%AD%E4%BE%9D%E6%89%8E%E9%97%AE%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%94%A8%E6%88%91%E5%B8%AE%E4%BD%A0%E5%90%97%23&Refer=top)
 
