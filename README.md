@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-18 19:02:49
+## 微博今日热榜 更新于 2021-05-18 20:07:12
 1. [最新10问了解新冠疫苗接种](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B010%E9%97%AE%E4%BA%86%E8%A7%A3%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=new_time)
 
 1. [景甜问刘宇宁直播咋没叫她](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E9%97%AE%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%92%8B%E6%B2%A1%E5%8F%AB%E5%A5%B9%23&Refer=top)
@@ -410,4 +410,24 @@
 1. [全国医保电子凭证用户突破6亿](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%8C%BB%E4%BF%9D%E7%94%B5%E5%AD%90%E5%87%AD%E8%AF%81%E7%94%A8%E6%88%B7%E7%AA%81%E7%A0%B46%E4%BA%BF%23&Refer=top)
 
 1. [只需打1针的新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E9%9C%80%E6%89%931%E9%92%88%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+
+1. [韩版乘风破浪的姐姐 退役女团成员](https://s.weibo.com//weibo?q=%E9%9F%A9%E7%89%88%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%E5%A7%90%E5%A7%90%20%E9%80%80%E5%BD%B9%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98&Refer=top)
+
+1. [既然提到privilege](https://s.weibo.com//weibo?q=%23%E6%97%A2%E7%84%B6%E6%8F%90%E5%88%B0privilege%23&Refer=top)
+
+1. [清华附中国际班](https://s.weibo.com//weibo?q=%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%E5%9B%BD%E9%99%85%E7%8F%AD&Refer=top)
+
+1. [李慧珍敷面膜爬山](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%85%A7%E7%8F%8D%E6%95%B7%E9%9D%A2%E8%86%9C%E7%88%AC%E5%B1%B1%23&Refer=top)
+
+1. [赵妍找到一瞪眼就下跪的那个人](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E5%A6%8D%E6%89%BE%E5%88%B0%E4%B8%80%E7%9E%AA%E7%9C%BC%E5%B0%B1%E4%B8%8B%E8%B7%AA%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA%23&Refer=top)
+
+1. [萌探探探案横店录制](https://s.weibo.com//weibo?q=%23%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88%E6%A8%AA%E5%BA%97%E5%BD%95%E5%88%B6%23&Refer=top)
+
+1. [教育局回应学校强迫老师直播带货](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E6%A0%A1%E5%BC%BA%E8%BF%AB%E8%80%81%E5%B8%88%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=top)
+
+1. [5.4亿人次打卡博物馆](https://s.weibo.com//weibo?q=%235.4%E4%BA%BF%E4%BA%BA%E6%AC%A1%E6%89%93%E5%8D%A1%E5%8D%9A%E7%89%A9%E9%A6%86%23&Refer=top)
+
+1. [迪塞尔要求速激9先在中国上映](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E5%A1%9E%E5%B0%94%E8%A6%81%E6%B1%82%E9%80%9F%E6%BF%809%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%98%A0%23&Refer=top)
+
+1. [顾川冷落姜小宁](https://s.weibo.com//weibo?q=%23%E9%A1%BE%E5%B7%9D%E5%86%B7%E8%90%BD%E5%A7%9C%E5%B0%8F%E5%AE%81%23&Refer=top)
 
