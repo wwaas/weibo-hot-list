@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 00:12:22
+## 微博今日热榜 更新于 2021-05-19 01:37:25
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [只需打1针的新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E9%9C%80%E6%89%931%E9%92%88%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [张彬彬机场被安保架着走](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%9C%BA%E5%9C%BA%E8%A2%AB%E5%AE%89%E4%BF%9D%E6%9E%B6%E7%9D%80%E8%B5%B0%23&Refer=top)
 
 1. [深圳应急管理回应赛格大厦摇晃](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E5%9B%9E%E5%BA%94%E8%B5%9B%E6%A0%BC%E5%A4%A7%E5%8E%A6%E6%91%87%E6%99%83%23&Refer=top)
+
+1. [网友为张艺兴掏鸡蛋打call](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BA%E5%BC%A0%E8%89%BA%E5%85%B4%E6%8E%8F%E9%B8%A1%E8%9B%8B%E6%89%93call%23&Refer=top)
+
+1. [张新成背头](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E8%83%8C%E5%A4%B4%23&Refer=top)
+
+1. [深圳华强北赛格大楼](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E8%B5%9B%E6%A0%BC%E5%A4%A7%E6%A5%BC%23&Refer=top)
+
+1. [全国医保电子凭证用户突破6亿](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%8C%BB%E4%BF%9D%E7%94%B5%E5%AD%90%E5%87%AD%E8%AF%81%E7%94%A8%E6%88%B7%E7%AA%81%E7%A0%B46%E4%BA%BF%23&Refer=top)
 
