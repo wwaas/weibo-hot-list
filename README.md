@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-18 18:05:26
+## 微博今日热榜 更新于 2021-05-18 19:02:49
 1. [最新10问了解新冠疫苗接种](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B010%E9%97%AE%E4%BA%86%E8%A7%A3%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=new_time)
 
 1. [景甜问刘宇宁直播咋没叫她](https://s.weibo.com//weibo?q=%23%E6%99%AF%E7%94%9C%E9%97%AE%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%92%8B%E6%B2%A1%E5%8F%AB%E5%A5%B9%23&Refer=top)
@@ -392,4 +392,22 @@
 1. [外交部回应美方称结束新冠需美领导](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E7%A7%B0%E7%BB%93%E6%9D%9F%E6%96%B0%E5%86%A0%E9%9C%80%E7%BE%8E%E9%A2%86%E5%AF%BC%23&Refer=top)
 
 1. [进村东北虎放归自然现场视频](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E6%9D%91%E4%B8%9C%E5%8C%97%E8%99%8E%E6%94%BE%E5%BD%92%E8%87%AA%E7%84%B6%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23&Refer=top)
+
+1. [张哲瀚直播](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%93%B2%E7%80%9A%E7%9B%B4%E6%92%AD&Refer=top)
+
+1. [中国古籍离家百年被AI找回](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%B1%8D%E7%A6%BB%E5%AE%B6%E7%99%BE%E5%B9%B4%E8%A2%ABAI%E6%89%BE%E5%9B%9E%23&Refer=top)
+
+1. [当你卖掉了前任送的东西](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E5%8D%96%E6%8E%89%E4%BA%86%E5%89%8D%E4%BB%BB%E9%80%81%E7%9A%84%E4%B8%9C%E8%A5%BF%23&Refer=top)
+
+1. [一家四代20多位乡村教师学生超2万](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%AE%B6%E5%9B%9B%E4%BB%A320%E5%A4%9A%E4%BD%8D%E4%B9%A1%E6%9D%91%E6%95%99%E5%B8%88%E5%AD%A6%E7%94%9F%E8%B6%852%E4%B8%87%23&Refer=top)
+
+1. [深圳赛格大厦初步检测情况](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%B5%9B%E6%A0%BC%E5%A4%A7%E5%8E%A6%E5%88%9D%E6%AD%A5%E6%A3%80%E6%B5%8B%E6%83%85%E5%86%B5%23&Refer=top)
+
+1. [沈阳3地调为中风险地区](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B33%E5%9C%B0%E8%B0%83%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top)
+
+1. [芒果燕麦酸奶啵啵杯](https://s.weibo.com//weibo?q=%23%E8%8A%92%E6%9E%9C%E7%87%95%E9%BA%A6%E9%85%B8%E5%A5%B6%E5%95%B5%E5%95%B5%E6%9D%AF%23&Refer=top)
+
+1. [全国医保电子凭证用户突破6亿](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%8C%BB%E4%BF%9D%E7%94%B5%E5%AD%90%E5%87%AD%E8%AF%81%E7%94%A8%E6%88%B7%E7%AA%81%E7%A0%B46%E4%BA%BF%23&Refer=top)
+
+1. [只需打1针的新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E9%9C%80%E6%89%931%E9%92%88%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
 
