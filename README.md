@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-19 01:37:25
+## 微博今日热榜 更新于 2021-05-19 02:23:01
 1. [开最硬的潜水器完成最IN的任务](https://s.weibo.com//weibo?q=%23%E5%BC%80%E6%9C%80%E7%A1%AC%E7%9A%84%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%AE%8C%E6%88%90%E6%9C%80IN%E7%9A%84%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
 
 1. [只需打1针的新冠疫苗](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E9%9C%80%E6%89%931%E9%92%88%E7%9A%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
@@ -114,4 +114,12 @@
 1. [深圳华强北赛格大楼](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E8%B5%9B%E6%A0%BC%E5%A4%A7%E6%A5%BC%23&Refer=top)
 
 1. [全国医保电子凭证用户突破6亿](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%8C%BB%E4%BF%9D%E7%94%B5%E5%AD%90%E5%87%AD%E8%AF%81%E7%94%A8%E6%88%B7%E7%AA%81%E7%A0%B46%E4%BA%BF%23&Refer=top)
+
+1. [天和核心舱完成在轨测试验证](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%92%8C%E6%A0%B8%E5%BF%83%E8%88%B1%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E6%B5%8B%E8%AF%95%E9%AA%8C%E8%AF%81%23&Refer=new_time)
+
+1. [遇龙](https://s.weibo.com//weibo?q=%E9%81%87%E9%BE%99&Refer=top)
+
+1. [22岁辅警被拖行1600多米牺牲](https://s.weibo.com//weibo?q=%2322%E5%B2%81%E8%BE%85%E8%AD%A6%E8%A2%AB%E6%8B%96%E8%A1%8C1600%E5%A4%9A%E7%B1%B3%E7%89%BA%E7%89%B2%23&Refer=top)
+
+1. [RNG战胜DK](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CDK%23&Refer=top)
 
