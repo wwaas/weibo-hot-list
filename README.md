@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-20 04:04:20
+## 微博今日热榜 更新于 2021-05-20 05:03:14
 1. [全国群众安全感逐年上升](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%84%9F%E9%80%90%E5%B9%B4%E4%B8%8A%E5%8D%87%23&Refer=new_time)
 
 1. [关晓彤工作室否认吃播假吃](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%A6%E8%AE%A4%E5%90%83%E6%92%AD%E5%81%87%E5%90%83%23&Refer=top)
