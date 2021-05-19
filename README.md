@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-20 00:12:31
+## 微博今日热榜 更新于 2021-05-20 01:36:58
 1. [全国群众安全感逐年上升](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%84%9F%E9%80%90%E5%B9%B4%E4%B8%8A%E5%8D%87%23&Refer=new_time)
 
 1. [关晓彤工作室否认吃播假吃](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%A6%E8%AE%A4%E5%90%83%E6%92%AD%E5%81%87%E5%90%83%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [87岁闻玉梅院士接种新冠疫苗](https://s.weibo.com//weibo?q=%2387%E5%B2%81%E9%97%BB%E7%8E%89%E6%A2%85%E9%99%A2%E5%A3%AB%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
 
 1. [月光变奏曲定档](https://s.weibo.com//weibo?q=%23%E6%9C%88%E5%85%89%E5%8F%98%E5%A5%8F%E6%9B%B2%E5%AE%9A%E6%A1%A3%23&Refer=top)
+
+1. [中国有约adatewithchina](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6adatewithchina%23&Refer=new_time)
+
+1. [蔡少芬声明](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E5%A3%B0%E6%98%8E%23&Refer=top)
+
+1. [炒币风险有多大](https://s.weibo.com//weibo?q=%23%E7%82%92%E5%B8%81%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
 
