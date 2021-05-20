@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-21 04:02:54
+## 微博今日热榜 更新于 2021-05-21 05:03:12
 1. [科学家发现2.44亿年前古鱼化石](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B02.44%E4%BA%BF%E5%B9%B4%E5%89%8D%E5%8F%A4%E9%B1%BC%E5%8C%96%E7%9F%B3%23&Refer=new_time)
 
 1. [唐嫣生图](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E7%94%9F%E5%9B%BE%23&Refer=top)
