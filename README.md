@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-22 03:22:23
+## 微博今日热榜 更新于 2021-05-22 04:04:08
 1. [棕色大熊猫七仔将与游客见面](https://s.weibo.com//weibo?q=%23%E6%A3%95%E8%89%B2%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%83%E4%BB%94%E5%B0%86%E4%B8%8E%E6%B8%B8%E5%AE%A2%E8%A7%81%E9%9D%A2%23&Refer=new_time)
 
 1. [杨紫张艺兴 有点好嗑](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%E5%BC%A0%E8%89%BA%E5%85%B4%20%E6%9C%89%E7%82%B9%E5%A5%BD%E5%97%91&Refer=top)
@@ -154,4 +154,6 @@
 1. [青海地震](https://s.weibo.com//weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&Refer=top)
 
 1. [angelababy521晒满屏自拍](https://s.weibo.com//weibo?q=%23angelababy521%E6%99%92%E6%BB%A1%E5%B1%8F%E8%87%AA%E6%8B%8D%23&Refer=top)
+
+1. [长江水上高速公路改交规](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B1%9F%E6%B0%B4%E4%B8%8A%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E6%94%B9%E4%BA%A4%E8%A7%84%23&Refer=new_time)
 
