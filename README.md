@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-24 06:03:17
+## 微博今日热榜 更新于 2021-05-24 07:03:20
 1. [祝融来到火星的170小时](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E8%9E%8D%E6%9D%A5%E5%88%B0%E7%81%AB%E6%98%9F%E7%9A%84170%E5%B0%8F%E6%97%B6%23&Refer=new_time)
 
 1. [牧羊人连救六名山地越野赛选手](https://s.weibo.com//weibo?q=%23%E7%89%A7%E7%BE%8A%E4%BA%BA%E8%BF%9E%E6%95%91%E5%85%AD%E5%90%8D%E5%B1%B1%E5%9C%B0%E8%B6%8A%E9%87%8E%E8%B5%9B%E9%80%89%E6%89%8B%23&Refer=top)
