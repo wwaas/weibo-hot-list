@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-24 04:03:37
+## 微博今日热榜 更新于 2021-05-24 05:02:43
 1. [祝融来到火星的170小时](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E8%9E%8D%E6%9D%A5%E5%88%B0%E7%81%AB%E6%98%9F%E7%9A%84170%E5%B0%8F%E6%97%B6%23&Refer=new_time)
 
 1. [牧羊人连救六名山地越野赛选手](https://s.weibo.com//weibo?q=%23%E7%89%A7%E7%BE%8A%E4%BA%BA%E8%BF%9E%E6%95%91%E5%85%AD%E5%90%8D%E5%B1%B1%E5%9C%B0%E8%B6%8A%E9%87%8E%E8%B5%9B%E9%80%89%E6%89%8B%23&Refer=top)
@@ -138,4 +138,6 @@
 1. [RNG先下一城](https://s.weibo.com//weibo?q=%23RNG%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&Refer=top)
 
 1. [这颗星永远不会陨落](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A2%97%E6%98%9F%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E9%99%A8%E8%90%BD%23&Refer=new_time)
+
+1. [袁隆平遗体送别仪式明天举行](https://s.weibo.com//weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E9%81%97%E4%BD%93%E9%80%81%E5%88%AB%E4%BB%AA%E5%BC%8F%E6%98%8E%E5%A4%A9%E4%B8%BE%E8%A1%8C%23&Refer=top)
 
