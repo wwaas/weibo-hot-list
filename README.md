@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-26 06:06:28
+## 微博今日热榜 更新于 2021-05-26 07:09:09
 1. [呆矿攀钢第一炉铁水](https://s.weibo.com//weibo?q=%23%E5%91%86%E7%9F%BF%E6%94%80%E9%92%A2%E7%AC%AC%E4%B8%80%E7%82%89%E9%93%81%E6%B0%B4%23&Refer=new_time)
 
 1. [为袁隆平拍照24年存500多张照片](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E8%A2%81%E9%9A%86%E5%B9%B3%E6%8B%8D%E7%85%A724%E5%B9%B4%E5%AD%98500%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%23&Refer=top)
