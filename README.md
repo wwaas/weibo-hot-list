@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-26 21:35:41
+## 微博今日热榜 更新于 2021-05-26 22:21:45
 1. [呆矿攀钢第一炉铁水](https://s.weibo.com//weibo?q=%23%E5%91%86%E7%9F%BF%E6%94%80%E9%92%A2%E7%AC%AC%E4%B8%80%E7%82%89%E9%93%81%E6%B0%B4%23&Refer=new_time)
 
 1. [为袁隆平拍照24年存500多张照片](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E8%A2%81%E9%9A%86%E5%B9%B3%E6%8B%8D%E7%85%A724%E5%B9%B4%E5%AD%98500%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%23&Refer=top)
@@ -490,4 +490,20 @@
 1. [吨钢均价突破6600元](https://s.weibo.com//weibo?q=%23%E5%90%A8%E9%92%A2%E5%9D%87%E4%BB%B7%E7%AA%81%E7%A0%B46600%E5%85%83%23&Refer=top)
 
 1. [亚马逊收购米高梅](https://s.weibo.com//weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%94%B6%E8%B4%AD%E7%B1%B3%E9%AB%98%E6%A2%85%23&Refer=top)
+
+1. [时代楷模彭士禄](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E6%A5%B7%E6%A8%A1%E5%BD%AD%E5%A3%AB%E7%A6%84%23&Refer=new_time)
+
+1. [黑龙江东宁一楼体爆炸致8死4伤](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%9C%E5%AE%81%E4%B8%80%E6%A5%BC%E4%BD%93%E7%88%86%E7%82%B8%E8%87%B48%E6%AD%BB4%E4%BC%A4%23&Refer=top)
+
+1. [易烊千玺深圳](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%B7%B1%E5%9C%B3%23&Refer=top)
+
+1. [熊孩子称谓不符合未成年人保护理念](https://s.weibo.com//weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E7%A7%B0%E8%B0%93%E4%B8%8D%E7%AC%A6%E5%90%88%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E7%90%86%E5%BF%B5%23&Refer=top)
+
+1. [东宁楼体爆炸系公司非法制储爆炸品所致](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%AE%81%E6%A5%BC%E4%BD%93%E7%88%86%E7%82%B8%E7%B3%BB%E5%85%AC%E5%8F%B8%E9%9D%9E%E6%B3%95%E5%88%B6%E5%82%A8%E7%88%86%E7%82%B8%E5%93%81%E6%89%80%E8%87%B4%23&Refer=top)
+
+1. [白色月牙回归滔搏](https://s.weibo.com//weibo?q=%23%E7%99%BD%E8%89%B2%E6%9C%88%E7%89%99%E5%9B%9E%E5%BD%92%E6%BB%94%E6%90%8F%23&Refer=top)
+
+1. [深田恭子患适应障碍症](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E7%94%B0%E6%81%AD%E5%AD%90%E6%82%A3%E9%80%82%E5%BA%94%E9%9A%9C%E7%A2%8D%E7%97%87%23&Refer=top)
+
+1. [月食拍摄技巧](https://s.weibo.com//weibo?q=%23%E6%9C%88%E9%A3%9F%E6%8B%8D%E6%91%84%E6%8A%80%E5%B7%A7%23&Refer=top)
 
