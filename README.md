@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-28 05:10:42
+## 微博今日热榜 更新于 2021-05-28 06:11:53
 1. [新未成年人保护法六一施行](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E6%B3%95%E5%85%AD%E4%B8%80%E6%96%BD%E8%A1%8C%23&Refer=new_time)
 
 1. [章若楠否认有高管男友](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%90%A6%E8%AE%A4%E6%9C%89%E9%AB%98%E7%AE%A1%E7%94%B7%E5%8F%8B%23&Refer=top)
