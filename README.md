@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-30 22:41:12
+## 微博今日热榜 更新于 2021-05-30 23:12:28
 1. [接种我国新冠疫苗收益远大于风险](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A7%8D%E6%88%91%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%94%B6%E7%9B%8A%E8%BF%9C%E5%A4%A7%E4%BA%8E%E9%A3%8E%E9%99%A9%23&Refer=new_time)
 
 1. [周也孟子义开口能把人送走](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%B9%9F%E5%AD%9F%E5%AD%90%E4%B9%89%E5%BC%80%E5%8F%A3%E8%83%BD%E6%8A%8A%E4%BA%BA%E9%80%81%E8%B5%B0%23&Refer=top)
@@ -496,4 +496,16 @@
 1. [SMG夺冠](https://s.weibo.com//weibo?q=%23SMG%E5%A4%BA%E5%86%A0%23&Refer=top)
 
 1. [是高考难还是考研难](https://s.weibo.com//weibo?q=%23%E6%98%AF%E9%AB%98%E8%80%83%E9%9A%BE%E8%BF%98%E6%98%AF%E8%80%83%E7%A0%94%E9%9A%BE%23&Refer=top)
+
+1. [世界在建最大水电站在中国](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E5%9C%A8%E5%BB%BA%E6%9C%80%E5%A4%A7%E6%B0%B4%E7%94%B5%E7%AB%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
+
+1. [赵露思九宫格plog](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B9%9D%E5%AE%AB%E6%A0%BCplog%23&Refer=top)
+
+1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
+
+1. [当查寝遇上专业术语](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%9F%A5%E5%AF%9D%E9%81%87%E4%B8%8A%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD%23&Refer=top)
+
+1. [光真的可以让画活过来](https://s.weibo.com//weibo?q=%23%E5%85%89%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E8%AE%A9%E7%94%BB%E6%B4%BB%E8%BF%87%E6%9D%A5%23&Refer=top)
+
+1. [晁然直播发言](https://s.weibo.com//weibo?q=%23%E6%99%81%E7%84%B6%E7%9B%B4%E6%92%AD%E5%8F%91%E8%A8%80%23&Refer=top)
 
