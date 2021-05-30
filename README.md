@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-05-31 04:06:26
+## 微博今日热榜 更新于 2021-05-31 05:20:39
 1. [世界在建最大水电站在中国](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E5%9C%A8%E5%BB%BA%E6%9C%80%E5%A4%A7%E6%B0%B4%E7%94%B5%E7%AB%99%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 
 1. [医生提醒红霉素软膏绝对不能长期使用](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E9%95%BF%E6%9C%9F%E4%BD%BF%E7%94%A8%23&Refer=top)
@@ -122,4 +122,6 @@
 1. [深圳新增2例本土无症状感染者](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
 
 1. [丘比特也只能帮你到这了](https://s.weibo.com//weibo?q=%23%E4%B8%98%E6%AF%94%E7%89%B9%E4%B9%9F%E5%8F%AA%E8%83%BD%E5%B8%AE%E4%BD%A0%E5%88%B0%E8%BF%99%E4%BA%86%23&Refer=top)
+
+1. [左其铂机场被骂](https://s.weibo.com//weibo?q=%23%E5%B7%A6%E5%85%B6%E9%93%82%E6%9C%BA%E5%9C%BA%E8%A2%AB%E9%AA%82%23&Refer=top)
 
