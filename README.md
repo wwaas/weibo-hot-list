@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-01 05:44:34
+## 微博今日热榜 更新于 2021-06-01 06:29:19
 1. [红色旅游百条精品线路](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E6%97%85%E6%B8%B8%E7%99%BE%E6%9D%A1%E7%B2%BE%E5%93%81%E7%BA%BF%E8%B7%AF%23&Refer=new_time)
 
 1. [10个三孩政策配套支持措施](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E4%B8%89%E5%AD%A9%E6%94%BF%E7%AD%96%E9%85%8D%E5%A5%97%E6%94%AF%E6%8C%81%E6%8E%AA%E6%96%BD%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [阿圭罗加盟巴萨](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%9C%AD%E7%BD%97%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8%23&Refer=top)
 
 1. [完善生育休假与生育保险制度](https://s.weibo.com//weibo?q=%23%E5%AE%8C%E5%96%84%E7%94%9F%E8%82%B2%E4%BC%91%E5%81%87%E4%B8%8E%E7%94%9F%E8%82%B2%E4%BF%9D%E9%99%A9%E5%88%B6%E5%BA%A6%23&Refer=top)
+
+1. [宋亚轩帮杨迪骗吻沙溢](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%B8%AE%E6%9D%A8%E8%BF%AA%E9%AA%97%E5%90%BB%E6%B2%99%E6%BA%A2%23&Refer=top)
 
