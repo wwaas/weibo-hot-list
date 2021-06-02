@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-03 01:27:23
+## 微博今日热榜 更新于 2021-06-03 04:11:14
 1. [72秒看72年前那场胜利](https://s.weibo.com//weibo?q=%2372%E7%A7%92%E7%9C%8B72%E5%B9%B4%E5%89%8D%E9%82%A3%E5%9C%BA%E8%83%9C%E5%88%A9%23&Refer=new_time)
 
 1. [摩尔庄园](https://s.weibo.com//weibo?q=%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD&Refer=top)
@@ -106,4 +106,10 @@
 1. [建议免费为中学女生接种HPV疫苗](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%8D%E8%B4%B9%E4%B8%BA%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%23&Refer=top)
 
 1. [疲劳驾驶引发惨烈车祸](https://s.weibo.com//weibo?q=%23%E7%96%B2%E5%8A%B3%E9%A9%BE%E9%A9%B6%E5%BC%95%E5%8F%91%E6%83%A8%E7%83%88%E8%BD%A6%E7%A5%B8%23&Refer=top)
+
+1. [加强我国国际传播能力建设](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E6%88%91%E5%9B%BD%E5%9B%BD%E9%99%85%E4%BC%A0%E6%92%AD%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE%23&Refer=new_time)
+
+1. [张天爱 今天是张公子](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%20%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%BC%A0%E5%85%AC%E5%AD%90%23&Refer=top)
+
+1. [象群距昆明晋宁仅300米](https://s.weibo.com//weibo?q=%23%E8%B1%A1%E7%BE%A4%E8%B7%9D%E6%98%86%E6%98%8E%E6%99%8B%E5%AE%81%E4%BB%85300%E7%B1%B3%23&Refer=top)
 
