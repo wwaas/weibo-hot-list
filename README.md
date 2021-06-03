@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-03 21:55:56
+## 微博今日热榜 更新于 2021-06-03 22:32:15
 1. [72秒看72年前那场胜利](https://s.weibo.com//weibo?q=%2372%E7%A7%92%E7%9C%8B72%E5%B9%B4%E5%89%8D%E9%82%A3%E5%9C%BA%E8%83%9C%E5%88%A9%23&Refer=new_time)
 
 1. [摩尔庄园](https://s.weibo.com//weibo?q=%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD&Refer=top)
@@ -526,4 +526,12 @@
 1. [专家呼吁不要围观象群](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E5%9B%B4%E8%A7%82%E8%B1%A1%E7%BE%A4%23&Refer=top)
 
 1. [合作贷款不能用花呗借呗名称](https://s.weibo.com//weibo?q=%23%E5%90%88%E4%BD%9C%E8%B4%B7%E6%AC%BE%E4%B8%8D%E8%83%BD%E7%94%A8%E8%8A%B1%E5%91%97%E5%80%9F%E5%91%97%E5%90%8D%E7%A7%B0%23&Refer=top)
+
+1. [女朋友突然说分手的原因](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%AA%81%E7%84%B6%E8%AF%B4%E5%88%86%E6%89%8B%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
+
+1. [拜托了冰箱轰趴季预告](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E6%89%98%E4%BA%86%E5%86%B0%E7%AE%B1%E8%BD%B0%E8%B6%B4%E5%AD%A3%E9%A2%84%E5%91%8A%23&Refer=top)
+
+1. [吴磊演的方大曾](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E6%BC%94%E7%9A%84%E6%96%B9%E5%A4%A7%E6%9B%BE%23&Refer=top)
+
+1. [李莎旻子回应跨界质疑](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B7%A8%E7%95%8C%E8%B4%A8%E7%96%91%23&Refer=top)
 
