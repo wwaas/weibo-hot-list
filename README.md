@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-04 03:12:11
+## 微博今日热榜 更新于 2021-06-04 05:03:40
 1. [中国科学家将量子通信速率提升4倍](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%B0%86%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1%E9%80%9F%E7%8E%87%E6%8F%90%E5%8D%874%E5%80%8D%23&Refer=new_time)
 
 1. [警方通报武汉女子高坠身亡](https://s.weibo.com//weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E9%AB%98%E5%9D%A0%E8%BA%AB%E4%BA%A1&Refer=top)
@@ -116,4 +116,6 @@
 1. [月光变奏曲](https://s.weibo.com//weibo?q=%E6%9C%88%E5%85%89%E5%8F%98%E5%A5%8F%E6%9B%B2&Refer=top)
 
 1. [任嘉伦雨中撑伞照](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E9%9B%A8%E4%B8%AD%E6%92%91%E4%BC%9E%E7%85%A7%23&Refer=top)
+
+1. [刘宪华庆祝最后一天隔离](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%BA%86%E7%A5%9D%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E9%9A%94%E7%A6%BB%23&Refer=top)
 
