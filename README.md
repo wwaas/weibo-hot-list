@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-06 06:12:17
+## 微博今日热榜 更新于 2021-06-06 07:16:37
 1. [23位两弹一星元勋群体像](https://s.weibo.com//weibo?q=%2323%E4%BD%8D%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E5%85%83%E5%8B%8B%E7%BE%A4%E4%BD%93%E5%83%8F%23&Refer=new_time)
 
 1. [iPhone13或有黄铜色](https://s.weibo.com//weibo?q=%23iPhone13%E6%88%96%E6%9C%89%E9%BB%84%E9%93%9C%E8%89%B2%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [爱上特种兵](https://s.weibo.com//weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top)
 
 1. [应对气候变化中国在行动](https://s.weibo.com//weibo?q=%23%E5%BA%94%E5%AF%B9%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E4%B8%AD%E5%9B%BD%E5%9C%A8%E8%A1%8C%E5%8A%A8%23&Refer=new_time)
+
+1. [何婧婧](https://s.weibo.com//weibo?q=%23%E4%BD%95%E5%A9%A7%E5%A9%A7%23&Refer=top)
+
+1. [明天高考](https://s.weibo.com//weibo?q=%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83&Refer=top)
 
