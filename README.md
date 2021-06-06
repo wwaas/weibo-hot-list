@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-07 04:19:19
+## 微博今日热榜 更新于 2021-06-07 05:12:56
 1. [大国粮仓奏响夏收交响曲](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9B%BD%E7%B2%AE%E4%BB%93%E5%A5%8F%E5%93%8D%E5%A4%8F%E6%94%B6%E4%BA%A4%E5%93%8D%E6%9B%B2%23&Refer=new_time)
 
 1. [考生因太紧张连续2天丢失身份证](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E5%9B%A0%E5%A4%AA%E7%B4%A7%E5%BC%A0%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E4%B8%A2%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=top)
@@ -130,4 +130,6 @@
 1. [你喜欢的人也喜欢你是什么感觉](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E4%B9%9F%E5%96%9C%E6%AC%A2%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&Refer=top)
 
 1. [深圳疫情](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85&Refer=top)
+
+1. [为店铺刷好评被明确定性为黑灰产](https://s.weibo.com//weibo?q=%E4%B8%BA%E5%BA%97%E9%93%BA%E5%88%B7%E5%A5%BD%E8%AF%84%E8%A2%AB%E6%98%8E%E7%A1%AE%E5%AE%9A%E6%80%A7%E4%B8%BA%E9%BB%91%E7%81%B0%E4%BA%A7&Refer=top)
 
