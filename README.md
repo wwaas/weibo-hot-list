@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-07 02:10:52
+## 微博今日热榜 更新于 2021-06-07 03:49:10
 1. [大国粮仓奏响夏收交响曲](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9B%BD%E7%B2%AE%E4%BB%93%E5%A5%8F%E5%93%8D%E5%A4%8F%E6%94%B6%E4%BA%A4%E5%93%8D%E6%9B%B2%23&Refer=new_time)
 
 1. [考生因太紧张连续2天丢失身份证](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E5%9B%A0%E5%A4%AA%E7%B4%A7%E5%BC%A0%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E4%B8%A2%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=top)
@@ -120,4 +120,10 @@
 1. [假发社死现场](https://s.weibo.com//weibo?q=%23%E5%81%87%E5%8F%91%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
 
 1. [月光变奏曲](https://s.weibo.com//weibo?q=%E6%9C%88%E5%85%89%E5%8F%98%E5%A5%8F%E6%9B%B2&Refer=top)
+
+1. [以青春之我耀信仰之光](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E9%9D%92%E6%98%A5%E4%B9%8B%E6%88%91%E8%80%80%E4%BF%A1%E4%BB%B0%E4%B9%8B%E5%85%89%23&Refer=new_time)
+
+1. [与君初相识剧组杀青](https://s.weibo.com//weibo?q=%23%E4%B8%8E%E5%90%9B%E5%88%9D%E7%9B%B8%E8%AF%86%E5%89%A7%E7%BB%84%E6%9D%80%E9%9D%92%23&Refer=top)
+
+1. [高考前最后一课图鉴](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E5%9B%BE%E9%89%B4%23&Refer=top)
 
