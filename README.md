@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-07 22:12:16
+## 微博今日热榜 更新于 2021-06-07 23:23:58
 1. [大国粮仓奏响夏收交响曲](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9B%BD%E7%B2%AE%E4%BB%93%E5%A5%8F%E5%93%8D%E5%A4%8F%E6%94%B6%E4%BA%A4%E5%93%8D%E6%9B%B2%23&Refer=new_time)
 
 1. [考生因太紧张连续2天丢失身份证](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%94%9F%E5%9B%A0%E5%A4%AA%E7%B4%A7%E5%BC%A0%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E4%B8%A2%E5%A4%B1%E8%BA%AB%E4%BB%BD%E8%AF%81%23&Refer=top)
@@ -658,4 +658,28 @@
 1. [法网](https://s.weibo.com//weibo?q=%E6%B3%95%E7%BD%91&Refer=top)
 
 1. [首门考试结束男生跳跃冲出考场](https://s.weibo.com//weibo?q=%23%E9%A6%96%E9%97%A8%E8%80%83%E8%AF%95%E7%BB%93%E6%9D%9F%E7%94%B7%E7%94%9F%E8%B7%B3%E8%B7%83%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA%23&Refer=top)
+
+1. [男子被蜱虫咬后染病毒进ICU](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E5%90%8E%E6%9F%93%E7%97%85%E6%AF%92%E8%BF%9BICU%23&Refer=top)
+
+1. [没想到我让医生社死了](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%88%91%E8%AE%A9%E5%8C%BB%E7%94%9F%E7%A4%BE%E6%AD%BB%E4%BA%86%23&Refer=top)
+
+1. [本科和大专的区别](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E7%A7%91%E5%92%8C%E5%A4%A7%E4%B8%93%E7%9A%84%E5%8C%BA%E5%88%AB%23&Refer=top)
+
+1. [千万不要忘记关投屏](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E5%85%B3%E6%8A%95%E5%B1%8F%23&Refer=top)
+
+1. [养孩子对狗不好](https://s.weibo.com//weibo?q=%23%E5%85%BB%E5%AD%A9%E5%AD%90%E5%AF%B9%E7%8B%97%E4%B8%8D%E5%A5%BD%23&Refer=top)
+
+1. [高意被换下去了](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%84%8F%E8%A2%AB%E6%8D%A2%E4%B8%8B%E5%8E%BB%E4%BA%86%23&Refer=top)
+
+1. [家中起火妈妈慌乱10岁儿子冷静救火](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%B8%AD%E8%B5%B7%E7%81%AB%E5%A6%88%E5%A6%88%E6%85%8C%E4%B9%B110%E5%B2%81%E5%84%BF%E5%AD%90%E5%86%B7%E9%9D%99%E6%95%91%E7%81%AB%23&Refer=top)
+
+1. [网购这样搜关键字更省钱](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%B4%AD%E8%BF%99%E6%A0%B7%E6%90%9C%E5%85%B3%E9%94%AE%E5%AD%97%E6%9B%B4%E7%9C%81%E9%92%B1%23&Refer=top)
+
+1. [男生剪完寸头的颜值变化](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%89%AA%E5%AE%8C%E5%AF%B8%E5%A4%B4%E7%9A%84%E9%A2%9C%E5%80%BC%E5%8F%98%E5%8C%96%23&Refer=top)
+
+1. [杨涵玉发球砸到栗垚头](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B6%B5%E7%8E%89%E5%8F%91%E7%90%83%E7%A0%B8%E5%88%B0%E6%A0%97%E5%9E%9A%E5%A4%B4%23&Refer=top)
+
+1. [法律援助法草案二审](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E6%B3%95%E8%8D%89%E6%A1%88%E4%BA%8C%E5%AE%A1%23&Refer=top)
+
+1. [2021世界排球联赛](https://s.weibo.com//weibo?q=%232021%E4%B8%96%E7%95%8C%E6%8E%92%E7%90%83%E8%81%94%E8%B5%9B%23&Refer=top)
 
