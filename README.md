@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-08 03:03:06
+## 微博今日热榜 更新于 2021-06-08 05:02:57
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
 
 1. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
@@ -112,4 +112,6 @@
 1. [贝索斯将于7月20日飞往太空](https://s.weibo.com//weibo?q=%23%E8%B4%9D%E7%B4%A2%E6%96%AF%E5%B0%86%E4%BA%8E7%E6%9C%8820%E6%97%A5%E9%A3%9E%E5%BE%80%E5%A4%AA%E7%A9%BA%23&Refer=top)
 
 1. [易建联回应伤病情况](https://s.weibo.com//weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E5%9B%9E%E5%BA%94%E4%BC%A4%E7%97%85%E6%83%85%E5%86%B5%23&Refer=top)
+
+1. [乔家的儿女片花](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%AE%B6%E7%9A%84%E5%84%BF%E5%A5%B3%E7%89%87%E8%8A%B1%23&Refer=top)
 
