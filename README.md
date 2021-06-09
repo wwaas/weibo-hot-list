@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 01:34:55
+## 微博今日热榜 更新于 2021-06-10 02:23:50
 1. [中华民族就像石榴籽一样紧紧抱在一起](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%B0%B1%E5%83%8F%E7%9F%B3%E6%A6%B4%E7%B1%BD%E4%B8%80%E6%A0%B7%E7%B4%A7%E7%B4%A7%E6%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -114,4 +114,14 @@
 1. [00后新兵授枪仪式](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E6%96%B0%E5%85%B5%E6%8E%88%E6%9E%AA%E4%BB%AA%E5%BC%8F%23&Refer=top)
 
 1. [夏日清透慵懒妆](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E6%B8%85%E9%80%8F%E6%85%B5%E6%87%92%E5%A6%86%23&Refer=top)
+
+1. [这是中国科学家入党的初心](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%85%A5%E5%85%9A%E7%9A%84%E5%88%9D%E5%BF%83%23&Refer=new_time)
+
+1. [胡一天感慨臭豆腐不好卖](https://s.weibo.com//weibo?q=%23%E8%83%A1%E4%B8%80%E5%A4%A9%E6%84%9F%E6%85%A8%E8%87%AD%E8%B1%86%E8%85%90%E4%B8%8D%E5%A5%BD%E5%8D%96%23&Refer=top)
+
+1. [周柯宇采耳](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E9%87%87%E8%80%B3%23&Refer=top)
+
+1. [白玉兰提名酒会](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D%E9%85%92%E4%BC%9A%23&Refer=top)
+
+1. [学生资助管理中心致毕业生的信](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E8%B5%84%E5%8A%A9%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E8%87%B4%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9A%84%E4%BF%A1%23&Refer=top)
 
