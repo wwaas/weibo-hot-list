@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-10 02:23:50
+## 微博今日热榜 更新于 2021-06-10 03:20:22
 1. [中华民族就像石榴籽一样紧紧抱在一起](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%B0%B1%E5%83%8F%E7%9F%B3%E6%A6%B4%E7%B1%BD%E4%B8%80%E6%A0%B7%E7%B4%A7%E7%B4%A7%E6%8A%B1%E5%9C%A8%E4%B8%80%E8%B5%B7%23&Refer=new_time)
 
 1. [贤合庄声明](https://s.weibo.com//weibo?q=%23%E8%B4%A4%E5%90%88%E5%BA%84%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -124,4 +124,6 @@
 1. [白玉兰提名酒会](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D%E9%85%92%E4%BC%9A%23&Refer=top)
 
 1. [学生资助管理中心致毕业生的信](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E8%B5%84%E5%8A%A9%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E8%87%B4%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9A%84%E4%BF%A1%23&Refer=top)
+
+1. [张哲瀚到底有多怕晒](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%80%95%E6%99%92%23&Refer=top)
 
