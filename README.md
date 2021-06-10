@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-11 01:35:39
+## 微博今日热榜 更新于 2021-06-11 02:22:52
 1. [新征程面对面出版发行](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C%23&Refer=new_time)
 
 1. [于和伟 我荣幸之至欣喜若狂](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E6%88%91%E8%8D%A3%E5%B9%B8%E4%B9%8B%E8%87%B3%E6%AC%A3%E5%96%9C%E8%8B%A5%E7%8B%82%23&Refer=top)
@@ -122,4 +122,10 @@
 1. [庆怜纯白西装](https://s.weibo.com//weibo?q=%23%E5%BA%86%E6%80%9C%E7%BA%AF%E7%99%BD%E8%A5%BF%E8%A3%85%23&Refer=top)
 
 1. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+
+1. [反外国制裁法表决通过](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E5%A4%96%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87%23&Refer=new_time)
+
+1. [军人地位和权益保障法](https://s.weibo.com//weibo?q=%23%E5%86%9B%E4%BA%BA%E5%9C%B0%E4%BD%8D%E5%92%8C%E6%9D%83%E7%9B%8A%E4%BF%9D%E9%9A%9C%E6%B3%95%23&Refer=top)
+
+1. [张永新白玉兰最佳导演](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%B0%B8%E6%96%B0%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%23&Refer=top)
 
