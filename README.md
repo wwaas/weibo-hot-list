@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 06:02:29
+## 微博今日热榜 更新于 2021-06-12 07:02:54
 1. [100个关键词回顾党史100年](https://s.weibo.com//weibo?q=%23100%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%9B%9E%E9%A1%BE%E5%85%9A%E5%8F%B2100%E5%B9%B4%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -174,4 +174,6 @@
 1. [法网](https://s.weibo.com//weibo?q=%E6%B3%95%E7%BD%91&Refer=top)
 
 1. [法网2021](https://s.weibo.com//weibo?q=%23%E6%B3%95%E7%BD%912021%23&Refer=top)
+
+1. [新生女婴望着防疫医护笑盈盈](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%94%9F%E5%A5%B3%E5%A9%B4%E6%9C%9B%E7%9D%80%E9%98%B2%E7%96%AB%E5%8C%BB%E6%8A%A4%E7%AC%91%E7%9B%88%E7%9B%88%23&Refer=top)
 
