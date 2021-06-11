@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-12 04:02:34
+## 微博今日热榜 更新于 2021-06-12 05:02:28
 1. [100个关键词回顾党史100年](https://s.weibo.com//weibo?q=%23100%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%9B%9E%E9%A1%BE%E5%85%9A%E5%8F%B2100%E5%B9%B4%23&Refer=new_time)
 
 1. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top)
@@ -166,4 +166,10 @@
 1. [刘彬彬进球](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BD%AC%E5%BD%AC%E8%BF%9B%E7%90%83%23&Refer=top)
 
 1. [裁判没吹土耳其球员手球](https://s.weibo.com//weibo?q=%E8%A3%81%E5%88%A4%E6%B2%A1%E5%90%B9%E5%9C%9F%E8%80%B3%E5%85%B6%E7%90%83%E5%91%98%E6%89%8B%E7%90%83&Refer=top)
+
+1. [意大利3比0土耳其](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A93%E6%AF%940%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
+
+1. [土耳其队自摆乌龙](https://s.weibo.com//weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%9F%E8%87%AA%E6%91%86%E4%B9%8C%E9%BE%99&Refer=top)
+
+1. [法网](https://s.weibo.com//weibo?q=%E6%B3%95%E7%BD%91&Refer=top)
 
