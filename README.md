@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-14 05:02:16
+## 微博今日热榜 更新于 2021-06-14 06:02:55
 1. [百年前开天辟地的90后00后](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%89%8D%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0%E7%9A%8490%E5%90%8E00%E5%90%8E%23&Refer=new_time)
 
 1. [民警查嫖娼反被当作仙人跳](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E6%9F%A5%E5%AB%96%E5%A8%BC%E5%8F%8D%E8%A2%AB%E5%BD%93%E4%BD%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%23&Refer=top)
