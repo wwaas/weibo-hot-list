@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-17 05:02:13
+## 微博今日热榜 更新于 2021-06-17 06:02:27
 1. [喀喇昆仑高原有座党旗山](https://s.weibo.com//weibo?q=%23%E5%96%80%E5%96%87%E6%98%86%E4%BB%91%E9%AB%98%E5%8E%9F%E6%9C%89%E5%BA%A7%E5%85%9A%E6%97%97%E5%B1%B1%23&Refer=new_time)
 
 1. [张予曦全家颜值](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%85%A8%E5%AE%B6%E9%A2%9C%E5%80%BC%23&Refer=top)
