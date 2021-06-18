@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 05:02:35
+## 微博今日热榜 更新于 2021-06-19 06:02:54
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [救护车闯红灯出车祸负全责](https://s.weibo.com//weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E5%87%BA%E8%BD%A6%E7%A5%B8%E8%B4%9F%E5%85%A8%E8%B4%A3%23&Refer=top)
@@ -114,4 +114,8 @@
 1. [顶楼3](https://s.weibo.com//weibo?q=%23%E9%A1%B6%E6%A5%BC3%23&Refer=top)
 
 1. [瑞典 斯洛伐克](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%20%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B&Refer=top)
+
+1. [这百年](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%99%BE%E5%B9%B4%23&Refer=new_time)
+
+1. [詹姆斯门线解围](https://s.weibo.com//weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%97%A8%E7%BA%BF%E8%A7%A3%E5%9B%B4&Refer=top)
 
