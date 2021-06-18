@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 04:02:57
+## 微博今日热榜 更新于 2021-06-19 05:02:35
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [救护车闯红灯出车祸负全责](https://s.weibo.com//weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E5%87%BA%E8%BD%A6%E7%A5%B8%E8%B4%9F%E5%85%A8%E8%B4%A3%23&Refer=top)
@@ -106,4 +106,12 @@
 1. [聂海胜出征前染黑了白发](https://s.weibo.com//weibo?q=%23%E8%81%82%E6%B5%B7%E8%83%9C%E5%87%BA%E5%BE%81%E5%89%8D%E6%9F%93%E9%BB%91%E4%BA%86%E7%99%BD%E5%8F%91%23&Refer=top)
 
 1. [小学教师篡改多名退伍军人高职志愿](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E7%AF%A1%E6%94%B9%E5%A4%9A%E5%90%8D%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E9%AB%98%E8%81%8C%E5%BF%97%E6%84%BF%23&Refer=top)
+
+1. [英格兰0比0苏格兰](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B00%E6%AF%940%E8%8B%8F%E6%A0%BC%E5%85%B0&Refer=top)
+
+1. [锤娜丽莎Rap回击身材歧视](https://s.weibo.com//weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8ERap%E5%9B%9E%E5%87%BB%E8%BA%AB%E6%9D%90%E6%AD%A7%E8%A7%86%23&Refer=top)
+
+1. [顶楼3](https://s.weibo.com//weibo?q=%23%E9%A1%B6%E6%A5%BC3%23&Refer=top)
+
+1. [瑞典 斯洛伐克](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%20%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B&Refer=top)
 
