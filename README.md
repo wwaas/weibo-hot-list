@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-20 05:02:18
+## 微博今日热榜 更新于 2021-06-20 06:02:41
 1. [把青春华章写在祖国大地上](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A%23&Refer=new_time)
 
 1. [男子散步踩蛇吓出销魂舞步](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%A3%E6%AD%A5%E8%B8%A9%E8%9B%87%E5%90%93%E5%87%BA%E9%94%80%E9%AD%82%E8%88%9E%E6%AD%A5%23&Refer=top)
@@ -192,4 +192,6 @@
 1. [如何在夏天挑选西瓜](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%9C%A8%E5%A4%8F%E5%A4%A9%E6%8C%91%E9%80%89%E8%A5%BF%E7%93%9C%23&Refer=top)
 
 1. [百年光辉耀房山](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%89%E8%BE%89%E8%80%80%E6%88%BF%E5%B1%B1%23&Refer=new_time)
+
+1. [戈森斯破门](https://s.weibo.com//weibo?q=%E6%88%88%E6%A3%AE%E6%96%AF%E7%A0%B4%E9%97%A8&Refer=top)
 
