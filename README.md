@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-19 21:15:57
+## 微博今日热榜 更新于 2021-06-19 22:02:29
 1. [从心出发共赴美好](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%BF%83%E5%87%BA%E5%8F%91%E5%85%B1%E8%B5%B4%E7%BE%8E%E5%A5%BD%23&Refer=new_time)
 
 1. [救护车闯红灯出车祸负全责](https://s.weibo.com//weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E5%87%BA%E8%BD%A6%E7%A5%B8%E8%B4%9F%E5%85%A8%E8%B4%A3%23&Refer=top)
@@ -558,4 +558,18 @@
 1. [00后画家笔下的萤火虫](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E7%94%BB%E5%AE%B6%E7%AC%94%E4%B8%8B%E7%9A%84%E8%90%A4%E7%81%AB%E8%99%AB%23&Refer=top)
 
 1. [如何正确看待身材焦虑](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E7%9C%8B%E5%BE%85%E8%BA%AB%E6%9D%90%E7%84%A6%E8%99%91%23&Refer=top)
+
+1. [深圳2病例感染Delta变异株](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B32%E7%97%85%E4%BE%8B%E6%84%9F%E6%9F%93Delta%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
+
+1. [邮编100100](https://s.weibo.com//weibo?q=%23%E9%82%AE%E7%BC%96100100%23&Refer=top)
+
+1. [过度照顾是不是自我感动](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%BA%A6%E7%85%A7%E9%A1%BE%E6%98%AF%E4%B8%8D%E6%98%AF%E8%87%AA%E6%88%91%E6%84%9F%E5%8A%A8%23&Refer=top)
+
+1. [太空中的凳子不是用来坐的](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E7%A9%BA%E4%B8%AD%E7%9A%84%E5%87%B3%E5%AD%90%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E5%9D%90%E7%9A%84%23&Refer=top)
+
+1. [匈牙利进球](https://s.weibo.com//weibo?q=%E5%8C%88%E7%89%99%E5%88%A9%E8%BF%9B%E7%90%83&Refer=top)
+
+1. [中国女排 波兰女排](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%20%E6%B3%A2%E5%85%B0%E5%A5%B3%E6%8E%92&Refer=top)
+
+1. [TT FPX](https://s.weibo.com//weibo?q=%23TT%20FPX%23&Refer=top)
 
