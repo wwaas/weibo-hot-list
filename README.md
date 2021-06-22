@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-23 00:08:37
+## 微博今日热榜 更新于 2021-06-23 01:20:10
 1. [我的奥运](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%A5%E8%BF%90%23&Refer=new_time)
 
 1. [孙杨8年禁赛减为4年3个月](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%9D%A88%E5%B9%B4%E7%A6%81%E8%B5%9B%E5%87%8F%E4%B8%BA4%E5%B9%B43%E4%B8%AA%E6%9C%88%23&Refer=top)
@@ -106,4 +106,8 @@
 1. [RA偷家](https://s.weibo.com//weibo?q=%23RA%E5%81%B7%E5%AE%B6%23&Refer=top)
 
 1. [教育部发文保证课后服务时间](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E6%96%87%E4%BF%9D%E8%AF%81%E8%AF%BE%E5%90%8E%E6%9C%8D%E5%8A%A1%E6%97%B6%E9%97%B4%23&Refer=top)
+
+1. [吴磊的冰箱好像表情包](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E7%9A%84%E5%86%B0%E7%AE%B1%E5%A5%BD%E5%83%8F%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+
+1. [98岁功夫奶奶亮相乡村武林大会](https://s.weibo.com//weibo?q=%2398%E5%B2%81%E5%8A%9F%E5%A4%AB%E5%A5%B6%E5%A5%B6%E4%BA%AE%E7%9B%B8%E4%B9%A1%E6%9D%91%E6%AD%A6%E6%9E%97%E5%A4%A7%E4%BC%9A%23&Refer=top)
 
