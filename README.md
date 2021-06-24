@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-25 06:02:37
+## 微博今日热榜 更新于 2021-06-25 07:03:17
 1. [川越百年的红色奋斗路](https://s.weibo.com//weibo?q=%23%E5%B7%9D%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E7%BA%A2%E8%89%B2%E5%A5%8B%E6%96%97%E8%B7%AF%23&Refer=new_time)
 
 1. [张勇回应海底捞不好吃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%8B%87%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8D%E5%A5%BD%E5%90%83%23&Refer=top)
