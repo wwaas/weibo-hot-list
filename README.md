@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-29 00:04:46
+## 微博今日热榜 更新于 2021-06-29 01:35:38
 1. [今天的北斗星光来自100年前](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%8C%97%E6%96%97%E6%98%9F%E5%85%89%E6%9D%A5%E8%87%AA100%E5%B9%B4%E5%89%8D%23&Refer=new_time)
 
 1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
@@ -106,4 +106,24 @@
 1. [千古玦尘](https://s.weibo.com//weibo?q=%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98&Refer=top)
 
 1. [陈独秀开会最多十五分钟](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%8B%AC%E7%A7%80%E5%BC%80%E4%BC%9A%E6%9C%80%E5%A4%9A%E5%8D%81%E4%BA%94%E5%88%86%E9%92%9F%23&Refer=top)
+
+1. [西班牙乌龙球](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B9%8C%E9%BE%99%E7%90%83&Refer=top)
+
+1. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top)
+
+1. [西蒙失误](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%92%99%E5%A4%B1%E8%AF%AF&Refer=top)
+
+1. [吴磊谈演员的终极目标](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E8%B0%88%E6%BC%94%E5%91%98%E7%9A%84%E7%BB%88%E6%9E%81%E7%9B%AE%E6%A0%87%23&Refer=top)
+
+1. [本届欧洲杯乌龙球追平之前15届总和](https://s.weibo.com//weibo?q=%E6%9C%AC%E5%B1%8A%E6%AC%A7%E6%B4%B2%E6%9D%AF%E4%B9%8C%E9%BE%99%E7%90%83%E8%BF%BD%E5%B9%B3%E4%B9%8B%E5%89%8D15%E5%B1%8A%E6%80%BB%E5%92%8C&Refer=top)
+
+1. [1921首映](https://s.weibo.com//weibo?q=1921%E9%A6%96%E6%98%A0&Refer=top)
+
+1. [张雪迎演的伍仲文](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%AA%E8%BF%8E%E6%BC%94%E7%9A%84%E4%BC%8D%E4%BB%B2%E6%96%87%23&Refer=top)
+
+1. [西蒙 卡里乌斯附体](https://s.weibo.com//weibo?q=%E8%A5%BF%E8%92%99%20%E5%8D%A1%E9%87%8C%E4%B9%8C%E6%96%AF%E9%99%84%E4%BD%93&Refer=top)
+
+1. [阿兹皮利奎塔破门](https://s.weibo.com//weibo?q=%E9%98%BF%E5%85%B9%E7%9A%AE%E5%88%A9%E5%A5%8E%E5%A1%94%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [1921](https://s.weibo.com//weibo?q=1921&Refer=top)
 
