@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-29 03:05:31
+## 微博今日热榜 更新于 2021-06-29 04:02:40
 1. [今天的北斗星光来自100年前](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%8C%97%E6%96%97%E6%98%9F%E5%85%89%E6%9D%A5%E8%87%AA100%E5%B9%B4%E5%89%8D%23&Refer=new_time)
 
 1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
@@ -146,4 +146,12 @@
 1. [法国 瑞士](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%20%E7%91%9E%E5%A3%AB&Refer=top)
 
 1. [西班牙晋级八强](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&Refer=top)
+
+1. [塞费罗维奇破门](https://s.weibo.com//weibo?q=%E5%A1%9E%E8%B4%B9%E7%BD%97%E7%BB%B4%E5%A5%87%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [秦岭现百岁野生猕猴桃树王](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E5%B2%AD%E7%8E%B0%E7%99%BE%E5%B2%81%E9%87%8E%E7%94%9F%E7%8C%95%E7%8C%B4%E6%A1%83%E6%A0%91%E7%8E%8B%23&Refer=top)
+
+1. [谢华安院士坚守水稻育种47年](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%8D%8E%E5%AE%89%E9%99%A2%E5%A3%AB%E5%9D%9A%E5%AE%88%E6%B0%B4%E7%A8%BB%E8%82%B2%E7%A7%8D47%E5%B9%B4%23&Refer=top)
+
+1. [珠江七一主题灯光秀](https://s.weibo.com//weibo?q=%23%E7%8F%A0%E6%B1%9F%E4%B8%83%E4%B8%80%E4%B8%BB%E9%A2%98%E7%81%AF%E5%85%89%E7%A7%80%23&Refer=top)
 
