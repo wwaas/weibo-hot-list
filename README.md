@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-06-29 02:15:36
+## 微博今日热榜 更新于 2021-06-29 03:05:31
 1. [今天的北斗星光来自100年前](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%8C%97%E6%96%97%E6%98%9F%E5%85%89%E6%9D%A5%E8%87%AA100%E5%B9%B4%E5%89%8D%23&Refer=new_time)
 
 1. [博士毕业7岁女儿现场献花](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A7%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8E%B0%E5%9C%BA%E7%8C%AE%E8%8A%B1%23&Refer=top)
@@ -138,4 +138,12 @@
 1. [奥尔西奇破门](https://s.weibo.com//weibo?q=%E5%A5%A5%E5%B0%94%E8%A5%BF%E5%A5%87%E7%A0%B4%E9%97%A8&Refer=top)
 
 1. [莫拉塔破门](https://s.weibo.com//weibo?q=%E8%8E%AB%E6%8B%89%E5%A1%94%E7%A0%B4%E9%97%A8&Refer=top)
+
+1. [2021中国正能量](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&Refer=new_time)
+
+1. [西班牙5比3克罗地亚](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%995%E6%AF%943%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&Refer=top)
+
+1. [法国 瑞士](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%20%E7%91%9E%E5%A3%AB&Refer=top)
+
+1. [西班牙晋级八强](https://s.weibo.com//weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&Refer=top)
 
