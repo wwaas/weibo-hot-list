@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-02 05:02:38
+## 微博今日热榜 更新于 2021-07-02 06:02:58
 1. [百年初心映党旗](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%88%9D%E5%BF%83%E6%98%A0%E5%85%9A%E6%97%97%23&Refer=new_time)
 
 1. [他看见了](https://s.weibo.com//weibo?q=%23%E4%BB%96%E7%9C%8B%E8%A7%81%E4%BA%86%23&Refer=top)
