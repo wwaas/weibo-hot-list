@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-05 06:02:41
+## 微博今日热榜 更新于 2021-07-05 07:02:48
 1. [千年梦想圆在今朝](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%B9%B4%E6%A2%A6%E6%83%B3%E5%9C%86%E5%9C%A8%E4%BB%8A%E6%9C%9D%23&Refer=new_time)
 
 1. [新闻主播辞职回家卖保险照顾病母](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%AE%B6%E5%8D%96%E4%BF%9D%E9%99%A9%E7%85%A7%E9%A1%BE%E7%97%85%E6%AF%8D%23&Refer=top)
