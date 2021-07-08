@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-08 09:49:02
+## 微博今日热榜 更新于 2021-07-08 10:18:23
 1. [中国共产党与世界政党领导人峰会讲话金句](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%8E%E4%B8%96%E7%95%8C%E6%94%BF%E5%85%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%23&Refer=new_time)
 
 1. [杨乐乐回应成被执行人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E4%B9%90%E4%B9%90%E5%9B%9E%E5%BA%94%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&Refer=top)
@@ -224,4 +224,20 @@
 1. [原来还有专门的鱼刺门诊](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%9C%89%E4%B8%93%E9%97%A8%E7%9A%84%E9%B1%BC%E5%88%BA%E9%97%A8%E8%AF%8A%23&Refer=top)
 
 1. [美国迈阿密大楼倒塌事故搜救停止](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86%E5%A4%A7%E6%A5%BC%E5%80%92%E5%A1%8C%E4%BA%8B%E6%95%85%E6%90%9C%E6%95%91%E5%81%9C%E6%AD%A2%23&Refer=top)
+
+1. [杜海涛合肥火锅店被责令停业](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%90%88%E8%82%A5%E7%81%AB%E9%94%85%E5%BA%97%E8%A2%AB%E8%B4%A3%E4%BB%A4%E5%81%9C%E4%B8%9A%23&Refer=top)
+
+1. [为什么住几楼都有蚊子](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%8F%E5%87%A0%E6%A5%BC%E9%83%BD%E6%9C%89%E8%9A%8A%E5%AD%90%23&Refer=top)
+
+1. [广州本轮疫情在院病例清零](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E5%9C%A8%E9%99%A2%E7%97%85%E4%BE%8B%E6%B8%85%E9%9B%B6%23&Refer=top)
+
+1. [郑州多家校外培训机构停课](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%9A%E5%AE%B6%E6%A0%A1%E5%A4%96%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%81%9C%E8%AF%BE%23&Refer=top)
+
+1. [猫咪玩激光笔玩成了斗鸡眼](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E7%8E%A9%E6%BF%80%E5%85%89%E7%AC%94%E7%8E%A9%E6%88%90%E4%BA%86%E6%96%97%E9%B8%A1%E7%9C%BC%23&Refer=top)
+
+1. [Angelababy带小海绵游泳](https://s.weibo.com//weibo?q=%23Angelababy%E5%B8%A6%E5%B0%8F%E6%B5%B7%E7%BB%B5%E6%B8%B8%E6%B3%B3%23&Refer=top)
+
+1. [郭昊文退出NBA选秀](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%98%8A%E6%96%87%E9%80%80%E5%87%BANBA%E9%80%89%E7%A7%80%23&Refer=top)
+
+1. [凯恩再次当选最佳球员](https://s.weibo.com//weibo?q=%23%E5%87%AF%E6%81%A9%E5%86%8D%E6%AC%A1%E5%BD%93%E9%80%89%E6%9C%80%E4%BD%B3%E7%90%83%E5%91%98%23&Refer=top)
 
