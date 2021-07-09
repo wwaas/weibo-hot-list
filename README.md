@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 02:03:11
+## 微博今日热榜 更新于 2021-07-10 03:02:10
 1. [把一生融入红旗的音乐家](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E4%B8%80%E7%94%9F%E8%9E%8D%E5%85%A5%E7%BA%A2%E6%97%97%E7%9A%84%E9%9F%B3%E4%B9%90%E5%AE%B6%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -134,4 +134,6 @@
 1. [黄子韬回忆父亲痛哭](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%9E%E5%BF%86%E7%88%B6%E4%BA%B2%E7%97%9B%E5%93%AD%23&Refer=top)
 
 1. [黄子韬以为杨迪妈妈是演员](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BB%A5%E4%B8%BA%E6%9D%A8%E8%BF%AA%E5%A6%88%E5%A6%88%E6%98%AF%E6%BC%94%E5%91%98%23&Refer=top)
+
+1. [不要喊妈条约](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E5%96%8A%E5%A6%88%E6%9D%A1%E7%BA%A6%23&Refer=top)
 
