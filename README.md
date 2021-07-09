@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 00:04:45
+## 微博今日热榜 更新于 2021-07-10 01:13:18
 1. [把一生融入红旗的音乐家](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E4%B8%80%E7%94%9F%E8%9E%8D%E5%85%A5%E7%BA%A2%E6%97%97%E7%9A%84%E9%9F%B3%E4%B9%90%E5%AE%B6%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -106,4 +106,22 @@
 1. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
 
 1. [异物入眼时切勿随手揉](https://s.weibo.com//weibo?q=%23%E5%BC%82%E7%89%A9%E5%85%A5%E7%9C%BC%E6%97%B6%E5%88%87%E5%8B%BF%E9%9A%8F%E6%89%8B%E6%8F%89%23&Refer=top)
+
+1. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
+
+1. [马伯骞 我们家的家训是让妈妈高兴](https://s.weibo.com//weibo?q=%E9%A9%AC%E4%BC%AF%E9%AA%9E%20%E6%88%91%E4%BB%AC%E5%AE%B6%E7%9A%84%E5%AE%B6%E8%AE%AD%E6%98%AF%E8%AE%A9%E5%A6%88%E5%A6%88%E9%AB%98%E5%85%B4&Refer=top)
+
+1. [女子称在德克士里吃出一颗牙](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E5%BE%B7%E5%85%8B%E5%A3%AB%E9%87%8C%E5%90%83%E5%87%BA%E4%B8%80%E9%A2%97%E7%89%99%23&Refer=top)
+
+1. [姜贞羽被沙溢忽悠](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E8%B4%9E%E7%BE%BD%E8%A2%AB%E6%B2%99%E6%BA%A2%E5%BF%BD%E6%82%A0%23&Refer=top)
+
+1. [宋亚轩猜错什么是快乐星球](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8C%9C%E9%94%99%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%23&Refer=top)
+
+1. [雄安新区建得怎么样了](https://s.weibo.com//weibo?q=%23%E9%9B%84%E5%AE%89%E6%96%B0%E5%8C%BA%E5%BB%BA%E5%BE%97%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&Refer=top)
+
+1. [中学老师每周请留守学生来家吃饭](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%AF%8F%E5%91%A8%E8%AF%B7%E7%95%99%E5%AE%88%E5%AD%A6%E7%94%9F%E6%9D%A5%E5%AE%B6%E5%90%83%E9%A5%AD%23&Refer=top)
+
+1. [这座绿富美的村庄曾被村民嫌弃](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%BA%A7%E7%BB%BF%E5%AF%8C%E7%BE%8E%E7%9A%84%E6%9D%91%E5%BA%84%E6%9B%BE%E8%A2%AB%E6%9D%91%E6%B0%91%E5%AB%8C%E5%BC%83%23&Refer=top)
+
+1. [怦然心动20岁收官见面会](https://s.weibo.com//weibo?q=%23%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%E6%94%B6%E5%AE%98%E8%A7%81%E9%9D%A2%E4%BC%9A%23&Refer=top)
 
