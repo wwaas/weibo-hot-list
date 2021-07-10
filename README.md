@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 18:02:48
+## 微博今日热榜 更新于 2021-07-10 19:02:36
 1. [把一生融入红旗的音乐家](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E4%B8%80%E7%94%9F%E8%9E%8D%E5%85%A5%E7%BA%A2%E6%97%97%E7%9A%84%E9%9F%B3%E4%B9%90%E5%AE%B6%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -506,4 +506,34 @@
 1. [男子击飞高尔夫球被闪电劈中](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BB%E9%A3%9E%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E8%A2%AB%E9%97%AA%E7%94%B5%E5%8A%88%E4%B8%AD%23&Refer=top)
 
 1. [这驾校从来没人挂科](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A9%BE%E6%A0%A1%E4%BB%8E%E6%9D%A5%E6%B2%A1%E4%BA%BA%E6%8C%82%E7%A7%91%23&Refer=top)
+
+1. [17岁男孩喝12瓶啤酒胃险爆炸](https://s.weibo.com//weibo?q=%2317%E5%B2%81%E7%94%B7%E5%AD%A9%E5%96%9D12%E7%93%B6%E5%95%A4%E9%85%92%E8%83%83%E9%99%A9%E7%88%86%E7%82%B8%23&Refer=top)
+
+1. [原来这就是鞋拔子脸](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8%23&Refer=top)
+
+1. [颜如晶的shuan奶社死现场](https://s.weibo.com//weibo?q=%23%E9%A2%9C%E5%A6%82%E6%99%B6%E7%9A%84shuan%E5%A5%B6%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top)
+
+1. [黄子韬说萌探少了杨紫不够完美](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E8%90%8C%E6%8E%A2%E5%B0%91%E4%BA%86%E6%9D%A8%E7%B4%AB%E4%B8%8D%E5%A4%9F%E5%AE%8C%E7%BE%8E%23&Refer=top)
+
+1. [13岁男孩10小时57分横渡琼州海峡](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A910%E5%B0%8F%E6%97%B657%E5%88%86%E6%A8%AA%E6%B8%A1%E7%90%BC%E5%B7%9E%E6%B5%B7%E5%B3%A1%23&Refer=top)
+
+1. [香港警察学院举行结业式](https://s.weibo.com//weibo?q=%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%AF%9F%E5%AD%A6%E9%99%A2%E4%B8%BE%E8%A1%8C%E7%BB%93%E4%B8%9A%E5%BC%8F&Refer=top)
+
+1. [保证书](https://s.weibo.com//weibo?q=%E4%BF%9D%E8%AF%81%E4%B9%A6&Refer=top)
+
+1. [人和人的恐惧点真不一样](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%92%8C%E4%BA%BA%E7%9A%84%E6%81%90%E6%83%A7%E7%82%B9%E7%9C%9F%E4%B8%8D%E4%B8%80%E6%A0%B7%23&Refer=top)
+
+1. [贺娇龙坦言再看坠马视频感到后怕](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A6%E8%A8%80%E5%86%8D%E7%9C%8B%E5%9D%A0%E9%A9%AC%E8%A7%86%E9%A2%91%E6%84%9F%E5%88%B0%E5%90%8E%E6%80%95%23&Refer=top)
+
+1. [掌握超百万用户信息公司赴外上市须审查](https://s.weibo.com//weibo?q=%23%E6%8E%8C%E6%8F%A1%E8%B6%85%E7%99%BE%E4%B8%87%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E5%85%AC%E5%8F%B8%E8%B5%B4%E5%A4%96%E4%B8%8A%E5%B8%82%E9%A1%BB%E5%AE%A1%E6%9F%A5%23&Refer=top)
+
+1. [TT EDG](https://s.weibo.com//weibo?q=%23TT%20EDG%23&Refer=top)
+
+1. [对话水下打太极女孩](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E8%AF%9D%E6%B0%B4%E4%B8%8B%E6%89%93%E5%A4%AA%E6%9E%81%E5%A5%B3%E5%AD%A9%23&Refer=top)
+
+1. [国宝全身心抗拒回家的样子](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%9D%E5%85%A8%E8%BA%AB%E5%BF%83%E6%8A%97%E6%8B%92%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=top)
+
+1. [你会暗恋刘星这样的男生吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BC%9A%E6%9A%97%E6%81%8B%E5%88%98%E6%98%9F%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%B7%E7%94%9F%E5%90%97%23&Refer=top)
+
+1. [让你感觉到人生不易的瞬间](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E4%BD%A0%E6%84%9F%E8%A7%89%E5%88%B0%E4%BA%BA%E7%94%9F%E4%B8%8D%E6%98%93%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
 
