@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-10 08:14:12
+## 微博今日热榜 更新于 2021-07-10 09:43:46
 1. [把一生融入红旗的音乐家](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E4%B8%80%E7%94%9F%E8%9E%8D%E5%85%A5%E7%BA%A2%E6%97%97%E7%9A%84%E9%9F%B3%E4%B9%90%E5%AE%B6%23&Refer=new_time)
 
 1. [陶虹 不要拿生命来威胁妈妈](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9%20%E4%B8%8D%E8%A6%81%E6%8B%BF%E7%94%9F%E5%91%BD%E6%9D%A5%E5%A8%81%E8%83%81%E5%A6%88%E5%A6%88&Refer=top)
@@ -186,4 +186,44 @@
 1. [大众宝马被欧盟罚款67亿元](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%BC%97%E5%AE%9D%E9%A9%AC%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BD%9A%E6%AC%BE67%E4%BA%BF%E5%85%83%23&Refer=top)
 
 1. [温网德约科维奇晋级决赛](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E7%BD%91%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&Refer=top)
+
+1. [孟晚舟案有力证据被驳回](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%A1%88%E6%9C%89%E5%8A%9B%E8%AF%81%E6%8D%AE%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+
+1. [女孩因病变胖穿古装跳舞重拾自信](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E7%97%85%E5%8F%98%E8%83%96%E7%A9%BF%E5%8F%A4%E8%A3%85%E8%B7%B3%E8%88%9E%E9%87%8D%E6%8B%BE%E8%87%AA%E4%BF%A1%23&Refer=top)
+
+1. [28名刺杀海地总统嫌疑犯身份确定](https://s.weibo.com//weibo?q=%2328%E5%90%8D%E5%88%BA%E6%9D%80%E6%B5%B7%E5%9C%B0%E6%80%BB%E7%BB%9F%E5%AB%8C%E7%96%91%E7%8A%AF%E8%BA%AB%E4%BB%BD%E7%A1%AE%E5%AE%9A%23&Refer=top)
+
+1. [84岁老人误吞枣核致3处肠穿孔](https://s.weibo.com//weibo?q=%2384%E5%B2%81%E8%80%81%E4%BA%BA%E8%AF%AF%E5%90%9E%E6%9E%A3%E6%A0%B8%E8%87%B43%E5%A4%84%E8%82%A0%E7%A9%BF%E5%AD%94%23&Refer=top)
+
+1. [袁弘被孩子挤到睡床边](https://s.weibo.com//weibo?q=%23%E8%A2%81%E5%BC%98%E8%A2%AB%E5%AD%A9%E5%AD%90%E6%8C%A4%E5%88%B0%E7%9D%A1%E5%BA%8A%E8%BE%B9%23&Refer=top)
+
+1. [姐弟恋中的成功案例](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%BC%9F%E6%81%8B%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%23&Refer=top)
+
+1. [陈梦受伤](https://s.weibo.com//weibo?q=%E9%99%88%E6%A2%A6%E5%8F%97%E4%BC%A4&Refer=top)
+
+1. [对一件衣服的最高评价](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%E7%9A%84%E6%9C%80%E9%AB%98%E8%AF%84%E4%BB%B7%23&Refer=top)
+
+1. [大熊猫把四川话听得明明白白](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%8A%8A%E5%9B%9B%E5%B7%9D%E8%AF%9D%E5%90%AC%E5%BE%97%E6%98%8E%E6%98%8E%E7%99%BD%E7%99%BD%23&Refer=top)
+
+1. [原来这就是跳绳的最高段位](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E8%B7%B3%E7%BB%B3%E7%9A%84%E6%9C%80%E9%AB%98%E6%AE%B5%E4%BD%8D%23&Refer=top)
+
+1. [钟南山看中国医生](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%23&Refer=top)
+
+1. [江苏通报撤销4名校长高级教师职称](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%80%9A%E6%8A%A5%E6%92%A4%E9%94%804%E5%90%8D%E6%A0%A1%E9%95%BF%E9%AB%98%E7%BA%A7%E6%95%99%E5%B8%88%E8%81%8C%E7%A7%B0%23&Refer=top)
+
+1. [男子被抓装晕因民警吃饭太香被馋醒](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8A%93%E8%A3%85%E6%99%95%E5%9B%A0%E6%B0%91%E8%AD%A6%E5%90%83%E9%A5%AD%E5%A4%AA%E9%A6%99%E8%A2%AB%E9%A6%8B%E9%86%92%23&Refer=top)
+
+1. [遇到了冰棍界的照骗](https://s.weibo.com//weibo?q=%23%E9%81%87%E5%88%B0%E4%BA%86%E5%86%B0%E6%A3%8D%E7%95%8C%E7%9A%84%E7%85%A7%E9%AA%97%23&Refer=top)
+
+1. [谁小时候还没cos过仙剑呢](https://s.weibo.com//weibo?q=%23%E8%B0%81%E5%B0%8F%E6%97%B6%E5%80%99%E8%BF%98%E6%B2%A1cos%E8%BF%87%E4%BB%99%E5%89%91%E5%91%A2%23&Refer=top)
+
+1. [山东招远金矿事故27人被追责问责](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%8B%9B%E8%BF%9C%E9%87%91%E7%9F%BF%E4%BA%8B%E6%95%8527%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%E9%97%AE%E8%B4%A3%23&Refer=top)
+
+1. [杨千嬅陈楚生合唱情人](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%8D%83%E5%AC%85%E9%99%88%E6%A5%9A%E7%94%9F%E5%90%88%E5%94%B1%E6%83%85%E4%BA%BA%23&Refer=top)
+
+1. [货车高速起火15吨书本试卷被烧毁](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E9%AB%98%E9%80%9F%E8%B5%B7%E7%81%AB15%E5%90%A8%E4%B9%A6%E6%9C%AC%E8%AF%95%E5%8D%B7%E8%A2%AB%E7%83%A7%E6%AF%81%23&Refer=top)
+
+1. [原来真有能坐人的莲叶](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E8%83%BD%E5%9D%90%E4%BA%BA%E7%9A%84%E8%8E%B2%E5%8F%B6%23&Refer=top)
+
+1. [博茨瓦纳再现超1000克拉巨钻](https://s.weibo.com//weibo?q=%23%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%BA%B3%E5%86%8D%E7%8E%B0%E8%B6%851000%E5%85%8B%E6%8B%89%E5%B7%A8%E9%92%BB%23&Refer=top)
 
