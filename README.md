@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-13 05:01:48
+## 微博今日热榜 更新于 2021-07-13 06:02:40
 1. [红色血脉](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%23&Refer=new_time)
 
 1. [张艺兴用筷子的另一头夹面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E7%AD%B7%E5%AD%90%E7%9A%84%E5%8F%A6%E4%B8%80%E5%A4%B4%E5%A4%B9%E9%9D%A2%23&Refer=top)
