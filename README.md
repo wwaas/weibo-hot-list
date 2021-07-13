@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-14 00:04:51
+## 微博今日热榜 更新于 2021-07-14 01:12:58
 1. [中国开展第12次北极科学考察](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B1%95%E7%AC%AC12%E6%AC%A1%E5%8C%97%E6%9E%81%E7%A7%91%E5%AD%A6%E8%80%83%E5%AF%9F%23&Refer=new_time)
 
 1. [b站崩了](https://s.weibo.com//weibo?q=%23b%E7%AB%99%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -106,4 +106,10 @@
 1. [女超18岁男超20岁才能做近视手术](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E8%B6%8518%E5%B2%81%E7%94%B7%E8%B6%8520%E5%B2%81%E6%89%8D%E8%83%BD%E5%81%9A%E8%BF%91%E8%A7%86%E6%89%8B%E6%9C%AF%23&Refer=top)
 
 1. [未定事件簿亲亲](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%E4%BA%B2%E4%BA%B2%23&Refer=top)
+
+1. [中国人最难忘的9个奥运瞬间](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%849%E4%B8%AA%E5%A5%A5%E8%BF%90%E7%9E%AC%E9%97%B4%23&Refer=new_time)
+
+1. [王一博受伤做核磁共振](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%97%E4%BC%A4%E5%81%9A%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%23&Refer=top)
+
+1. [汽车自动报警出卖醉驾翻车男子](https://s.weibo.com//weibo?q=%23%E6%B1%BD%E8%BD%A6%E8%87%AA%E5%8A%A8%E6%8A%A5%E8%AD%A6%E5%87%BA%E5%8D%96%E9%86%89%E9%A9%BE%E7%BF%BB%E8%BD%A6%E7%94%B7%E5%AD%90%23&Refer=top)
 
