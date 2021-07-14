@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-15 01:12:24
+## 微博今日热榜 更新于 2021-07-15 02:02:47
 1. [我国建成5G基站超91万个](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%8591%E4%B8%87%E4%B8%AA%23&Refer=new_time)
 
 1. [汶川4.8级地震](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
@@ -120,4 +120,8 @@
 1. [心惊肉跳的同居](https://s.weibo.com//weibo?q=%E5%BF%83%E6%83%8A%E8%82%89%E8%B7%B3%E7%9A%84%E5%90%8C%E5%B1%85&Refer=top)
 
 1. [反诈预警短信12381正式上线](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E8%AF%88%E9%A2%84%E8%AD%A6%E7%9F%AD%E4%BF%A112381%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%23&Refer=top)
+
+1. [百年雪松见证革命火种诞生](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E9%9B%AA%E6%9D%BE%E8%A7%81%E8%AF%81%E9%9D%A9%E5%91%BD%E7%81%AB%E7%A7%8D%E8%AF%9E%E7%94%9F%23&Refer=new_time)
+
+1. [刑侦日记全员治愈](https://s.weibo.com//weibo?q=%23%E5%88%91%E4%BE%A6%E6%97%A5%E8%AE%B0%E5%85%A8%E5%91%98%E6%B2%BB%E6%84%88%23&Refer=top)
 
