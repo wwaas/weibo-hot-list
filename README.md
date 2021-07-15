@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-15 21:11:49
+## 微博今日热榜 更新于 2021-07-15 22:02:54
 1. [我国建成5G基站超91万个](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E6%88%905G%E5%9F%BA%E7%AB%99%E8%B6%8591%E4%B8%87%E4%B8%AA%23&Refer=new_time)
 
 1. [汶川4.8级地震](https://s.weibo.com//weibo?q=%23%E6%B1%B6%E5%B7%9D4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
@@ -518,4 +518,38 @@
 1. [对你的爱很美](https://s.weibo.com//weibo?q=%E5%AF%B9%E4%BD%A0%E7%9A%84%E7%88%B1%E5%BE%88%E7%BE%8E&Refer=top)
 
 1. [大雨后马路变鱼塘市民用盆收鱼](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%9B%A8%E5%90%8E%E9%A9%AC%E8%B7%AF%E5%8F%98%E9%B1%BC%E5%A1%98%E5%B8%82%E6%B0%91%E7%94%A8%E7%9B%86%E6%94%B6%E9%B1%BC%23&Refer=top)
+
+1. [沈阳持刀致2死7伤嫌犯尸体被发现](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E6%8C%81%E5%88%80%E8%87%B42%E6%AD%BB7%E4%BC%A4%E5%AB%8C%E7%8A%AF%E5%B0%B8%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0%23&Refer=top)
+
+1. [新郎被婚闹新娘拿棍子解围](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%83%8E%E8%A2%AB%E5%A9%9A%E9%97%B9%E6%96%B0%E5%A8%98%E6%8B%BF%E6%A3%8D%E5%AD%90%E8%A7%A3%E5%9B%B4%23&Refer=top)
+
+1. [新疆和田断臂男孩恢复良好](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%92%8C%E7%94%B0%E6%96%AD%E8%87%82%E7%94%B7%E5%AD%A9%E6%81%A2%E5%A4%8D%E8%89%AF%E5%A5%BD%23&Refer=top)
+
+1. [黑怕女孩](https://s.weibo.com//weibo?q=%E9%BB%91%E6%80%95%E5%A5%B3%E5%AD%A9&Refer=top)
+
+1. [南京37度高温天下冰雹](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC37%E5%BA%A6%E9%AB%98%E6%B8%A9%E5%A4%A9%E4%B8%8B%E5%86%B0%E9%9B%B9%23&Refer=top)
+
+1. [李现摘眼镜](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%91%98%E7%9C%BC%E9%95%9C%23&Refer=top)
+
+1. [时代少年团出道600天合照](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%87%BA%E9%81%93600%E5%A4%A9%E5%90%88%E7%85%A7%23&Refer=top)
+
+1. [女孩凌晨3点路边淋雨民警为其撑伞](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%87%8C%E6%99%A83%E7%82%B9%E8%B7%AF%E8%BE%B9%E6%B7%8B%E9%9B%A8%E6%B0%91%E8%AD%A6%E4%B8%BA%E5%85%B6%E6%92%91%E4%BC%9E%23&Refer=top)
+
+1. [90后冒充老中医千元壮阳药实为糖豆](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%86%92%E5%85%85%E8%80%81%E4%B8%AD%E5%8C%BB%E5%8D%83%E5%85%83%E5%A3%AE%E9%98%B3%E8%8D%AF%E5%AE%9E%E4%B8%BA%E7%B3%96%E8%B1%86%23&Refer=top)
+
+1. [北京153家医院已实现一键报警](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC153%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%B7%B2%E5%AE%9E%E7%8E%B0%E4%B8%80%E9%94%AE%E6%8A%A5%E8%AD%A6%23&Refer=top)
+
+1. [西安最冷街道](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E6%9C%80%E5%86%B7%E8%A1%97%E9%81%93%23&Refer=top)
+
+1. [张婧仪鲜花编发造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E9%B2%9C%E8%8A%B1%E7%BC%96%E5%8F%91%E9%80%A0%E5%9E%8B%23&Refer=top)
+
+1. [长江黄河在这里握手了](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B1%9F%E9%BB%84%E6%B2%B3%E5%9C%A8%E8%BF%99%E9%87%8C%E6%8F%A1%E6%89%8B%E4%BA%86%23&Refer=top)
+
+1. [机智的医生生活](https://s.weibo.com//weibo?q=%E6%9C%BA%E6%99%BA%E7%9A%84%E5%8C%BB%E7%94%9F%E7%94%9F%E6%B4%BB&Refer=top)
+
+1. [跟挑食的朋友吃饭有多难受](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E6%8C%91%E9%A3%9F%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%90%83%E9%A5%AD%E6%9C%89%E5%A4%9A%E9%9A%BE%E5%8F%97%23&Refer=top)
+
+1. [女生室外跳舞跳着跳着就社死了](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%AE%A4%E5%A4%96%E8%B7%B3%E8%88%9E%E8%B7%B3%E7%9D%80%E8%B7%B3%E7%9D%80%E5%B0%B1%E7%A4%BE%E6%AD%BB%E4%BA%86%23&Refer=top)
+
+1. [华硕公司因虚假宣传被罚20万](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E7%A1%95%E5%85%AC%E5%8F%B8%E5%9B%A0%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%E8%A2%AB%E7%BD%9A20%E4%B8%87%23&Refer=top)
 
