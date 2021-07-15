@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-16 01:12:23
+## 微博今日热榜 更新于 2021-07-16 02:03:33
 1. [中国共产党历史展览馆正式开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8E%86%E5%8F%B2%E5%B1%95%E8%A7%88%E9%A6%86%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [金毛Siri](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%AF%9BSiri%23&Refer=top)
@@ -120,4 +120,6 @@
 1. [中国世界遗产名录有望再添新成员](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E5%90%8D%E5%BD%95%E6%9C%89%E6%9C%9B%E5%86%8D%E6%B7%BB%E6%96%B0%E6%88%90%E5%91%98%23&Refer=top)
 
 1. [强生旗下两品牌防晒喷雾检出致癌物](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E7%94%9F%E6%97%97%E4%B8%8B%E4%B8%A4%E5%93%81%E7%89%8C%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%23&Refer=top)
+
+1. [1分钟速览中国55项世界遗产](https://s.weibo.com//weibo?q=%231%E5%88%86%E9%92%9F%E9%80%9F%E8%A7%88%E4%B8%AD%E5%9B%BD55%E9%A1%B9%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%23&Refer=top)
 
