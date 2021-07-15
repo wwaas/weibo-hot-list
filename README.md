@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-16 02:03:33
+## 微博今日热榜 更新于 2021-07-16 03:02:30
 1. [中国共产党历史展览馆正式开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8E%86%E5%8F%B2%E5%B1%95%E8%A7%88%E9%A6%86%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE%23&Refer=new_time)
 
 1. [金毛Siri](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%AF%9BSiri%23&Refer=top)
@@ -122,4 +122,8 @@
 1. [强生旗下两品牌防晒喷雾检出致癌物](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E7%94%9F%E6%97%97%E4%B8%8B%E4%B8%A4%E5%93%81%E7%89%8C%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%23&Refer=top)
 
 1. [1分钟速览中国55项世界遗产](https://s.weibo.com//weibo?q=%231%E5%88%86%E9%92%9F%E9%80%9F%E8%A7%88%E4%B8%AD%E5%9B%BD55%E9%A1%B9%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%23&Refer=top)
+
+1. [霍思燕看中国医生哭了](https://s.weibo.com//weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%93%AD%E4%BA%86%23&Refer=top)
+
+1. [红色闪电划破南京夜空](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%89%B2%E9%97%AA%E7%94%B5%E5%88%92%E7%A0%B4%E5%8D%97%E4%BA%AC%E5%A4%9C%E7%A9%BA%23&Refer=top)
 
