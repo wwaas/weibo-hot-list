@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-17 02:03:07
+## 微博今日热榜 更新于 2021-07-17 03:02:24
 1. [全面小康手绘图景](https://s.weibo.com//weibo?q=%23%E5%85%A8%E9%9D%A2%E5%B0%8F%E5%BA%B7%E6%89%8B%E7%BB%98%E5%9B%BE%E6%99%AF%23&Refer=new_time)
 
 1. [发发爱我2021向华晨宇道歉](https://s.weibo.com//weibo?q=%23%E5%8F%91%E5%8F%91%E7%88%B1%E6%88%912021%E5%90%91%E5%8D%8E%E6%99%A8%E5%AE%87%E9%81%93%E6%AD%89%23&Refer=top)
@@ -124,4 +124,8 @@
 1. [乐华年会大合影](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%8D%8E%E5%B9%B4%E4%BC%9A%E5%A4%A7%E5%90%88%E5%BD%B1%23&Refer=top)
 
 1. [Into1宝藏歌手舞台](https://s.weibo.com//weibo?q=%23Into1%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B%E8%88%9E%E5%8F%B0%23&Refer=top)
+
+1. [杨迪曾经跟猴子同居](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%9B%BE%E7%BB%8F%E8%B7%9F%E7%8C%B4%E5%AD%90%E5%90%8C%E5%B1%85%23&Refer=top)
+
+1. [老极挑队](https://s.weibo.com//weibo?q=%E8%80%81%E6%9E%81%E6%8C%91%E9%98%9F&Refer=top)
 
