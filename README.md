@@ -4,7 +4,7 @@
 微博话题爬虫小玩意，利用 Github Action 的调度脚本每一小时更新一次 
 
  创意来自 [justjavac](https://github.com/justjavac/weibo-trending-hot-search)
-## 微博今日热榜 更新于 2021-07-20 06:03:08
+## 微博今日热榜 更新于 2021-07-20 07:02:49
 1. [歼5首飞成功65周年](https://s.weibo.com//weibo?q=%23%E6%AD%BC5%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F65%E5%91%A8%E5%B9%B4%23&Refer=new_time)
 
 1. [张陶被批捕](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top)
